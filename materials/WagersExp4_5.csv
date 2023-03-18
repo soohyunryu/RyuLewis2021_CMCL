@@ -1,0 +1,97 @@
+﻿id,distractor,verb,interference,grammaticality,sentence,crit,target,attractor
+1,sing,sing,int,gram,The slogan on the poster was designed to get attention,was,slogan,poster
+1,pl,sing,unint,gram,The slogan on the posters was designed to get attention,was,slogan,posters
+1,sing,pl,unint,ungram,The slogan on the poster were designed to get attention,were,slogan,poster
+1,pl,pl,int,ungram,The slogan on the posters were designed to get attention,were,slogan,posters
+2,sing,sing,int,gram,The picture on the flier was of a village church in the south of France.,was,picture,flier
+2,pl,sing,unint,gram,The picture on the fliers was of a village church in the south of France.,was,picture,fliers
+2,sing,pl,unint,ungram,The picture on the flier were of a village church in the south of France.,were,picture,flier
+2,pl,pl,int,ungram,The picture on the fliers were of a village church in the south of France.,were,picture,fliers
+3,sing,sing,int,gram,The mistake in the program was disastrous for the small software company.,was,mistake,program
+3,pl,sing,unint,gram,The mistake in the programs was disastrous for the small software company.,was,mistake,programs
+3,sing,pl,unint,ungram,The mistake in the program were disastrous for the small software company.,were,mistake,program
+3,pl,pl,int,ungram,The mistake in the programs were disastrous for the small software company.,were,mistake,programs
+4,sing,sing,int,gram,The label on the container was a warning about the hazardous chemicals inside.,was,label,container
+4,pl,sing,unint,gram,The label on the containers was a warning about the hazardous chemicals inside.,was,label,containers
+4,sing,pl,unint,ungram,The label on the container were a warning about the hazardous chemicals inside.,were,label,container
+4,pl,pl,int,ungram,The label on the containers were a warning about the hazardous chemicals inside.,were,label,containers
+5,sing,sing,int,gram,The problem in the store was solved by firing the custodian.,was,problem,store
+5,pl,sing,unint,gram,The problem in the stores was solved by firing the custodian.,was,problem,stores
+5,sing,pl,unint,ungram,The problem in the store were solved by firing the custodian.,were,problem,store
+5,pl,pl,int,ungram,The problem in the stores were solved by firing the custodian.,were,problem,stores
+6,sing,sing,int,gram,The name on the billboard was of a prominent local businessman.,was,name,billboard
+6,pl,sing,unint,gram,The name on the billboards was of a prominent local businessman.,was,name,billboards
+6,sing,pl,unint,ungram,The name on the billboard were of a prominent local businessman.,were,name,billboard
+6,pl,pl,int,ungram,The name on the billboards were of a prominent local businessman.,were,name,billboards
+7,sing,sing,int,gram,The crime in the suburb was a reflection of the violence in today's society.,was,crime,suburb
+7,pl,sing,unint,gram,The crime in the suburbs was a reflection of the violence in today's society.,was,crime,suburbs
+7,sing,pl,unint,ungram,The crime in the suburb were a reflection of the violence in today's society.,were,crime,suburb
+7,pl,pl,int,ungram,The crime in the suburbs were a reflection of the violence in today's society.,were,crime,suburbs
+8,sing,sing,int,gram,The defect in the appliance was unknown to consumers and government regulators.,was,defect,appliance
+8,pl,sing,unint,gram,The defect in the appliances was unknown to consumers and government regulators.,was,defect,appliances
+8,sing,pl,unint,ungram,The defect in the appliance were unknown to consumers and government regulators.,were,defect,appliance
+8,pl,pl,int,ungram,The defect in the appliances were unknown to consumers and government regulators.,were,defect,appliances
+9,sing,sing,int,gram,The citation on the notecard was quite difficult to track down using the library's limited resources.,was,citation,notecard
+9,pl,sing,unint,gram,The citation on the notecards was quite difficult to track down using the library's limited resources.,was,citation,notecards
+9,sing,pl,unint,ungram,The citation on the notecard were quite difficult to track down using the library's limited resources.,were,citation,notecard
+9,pl,pl,int,ungram,The citation on the notecards were quite difficult to track down using the library's limited resources.,were,citation,notecards
+10,sing,sing,int,gram,The advertisement on the skyscraper was hard to read except from a long distance away.,was,advertisement,skyscraper
+10,pl,sing,unint,gram,The advertisement on the skyscrapers was hard to read except from a long distance away.,was,advertisement,skyscrapers
+10,sing,pl,unint,ungram,The advertisement on the skyscraper were hard to read except from a long distance away.,were,advertisement,skyscraper
+10,pl,pl,int,ungram,The advertisement on the skyscrapers were hard to read except from a long distance away.,were,advertisement,skyscrapers
+11,sing,sing,int,gram,The traitor in the camp was passing information to the enemy through various secret methods.,was,traitor,camp
+11,pl,sing,unint,gram,The traitor in the camps was passing information to the enemy through various secret methods.,was,traitor,camps
+11,sing,pl,unint,ungram,The traitor in the camp were passing information to the enemy through various secret methods.,were,traitor,camp
+11,pl,pl,int,ungram,The traitor in the camps were passing information to the enemy through various secret methods.,were,traitor,camps
+12,sing,sing,int,gram,The flaw in the argument was clear to everyone in the lecture hall after just five minutes.,was,flaw,argument
+12,pl,sing,unint,gram,The flaw in the arguments was clear to everyone in the lecture hall after just five minutes.,was,flaw,arguments
+12,sing,pl,unint,ungram,The flaw in the argument were clear to everyone in the lecture hall after just five minutes.,were,flaw,argument
+12,pl,pl,int,ungram,The flaw in the arguments were clear to everyone in the lecture hall after just five minutes.,were,flaw,arguments
+13,sing,sing,int,gram,The door to the laboratory was left unlocked by the cleaning service.,was,door,laboratory
+13,pl,sing,unint,gram,The door to the laboratories was left unlocked by the cleaning service.,was,door,laboratories
+13,sing,pl,unint,ungram,The door to the laboratory were left unlocked by the cleaning service.,were,door,laboratory
+13,pl,pl,int,ungram,The door to the laboratories were left unlocked by the cleaning service.,were,door,laboratories
+14,sing,sing,int,gram,The memo from the supervisor was about the delinquent tax return.,was,memo,supervisor
+14,pl,sing,unint,gram,The memo from the supervisors was about the delinquent tax return.,was,memo,supervisors
+14,sing,pl,unint,ungram,The memo from the supervisor were about the delinquent tax return.,were,memo,supervisor
+14,pl,pl,int,ungram,The memo from the supervisors were about the delinquent tax return.,were,memo,supervisors
+15,sing,sing,int,gram,The check from the stockbroker was a dividend on a long-term bond.,was,check,stockbroker
+15,pl,sing,unint,gram,The check from the stockbrokers was a dividend on a long-term bond.,was,check,stockbrokers
+15,sing,pl,unint,ungram,The check from the stockbroker were a dividend on a long-term bond.,were,check,stockbroker
+15,pl,pl,int,ungram,The check from the stockbrokers were a dividend on a long-term bond.,were,check,stockbrokers
+16,sing,sing,int,gram,The key to the cell was rusty from many years of disuse.,was,key,cell
+16,pl,sing,unint,gram,The key to the cells was rusty from many years of disuse.,was,key,cells
+16,sing,pl,unint,ungram,The key to the cell were rusty from many years of disuse.,were,key,cell
+16,pl,pl,int,ungram,The key to the cells were rusty from many years of disuse.,were,key,cells
+17,sing,sing,int,gram,The letter from the investigator was received in San Francisco in late March.,was,letter,invertigator
+17,pl,sing,unint,gram,The letter from the investigators was received in San Francisco in late March.,was,letter,invertigators
+17,sing,pl,unint,ungram,The letter from the investigator were received in San Francisco in late March.,were,letter,invertigator
+17,pl,pl,int,ungram,The letter from the investigators were received in San Francisco in late March.,were,letter,invertigators
+18,sing,sing,int,gram,The entrance to the exhibit was hard to locate on the diagram.,was,entrance,exhibit
+18,pl,sing,unint,gram,The entrance to the exhibits was hard to locate on the diagram.,was,entrance,exhibits
+18,sing,pl,unint,ungram,The entrance to the exhibit were hard to locate on the diagram.,were,entrance,exhibit
+18,pl,pl,int,ungram,The entrance to the exhibits were hard to locate on the diagram.,were,entrance,exhibits
+19,sing,sing,int,gram,The warning from the expert was a shock to the residents of the city.,was,warning,expert
+19,pl,sing,unint,gram,The warning from the experts was a shock to the residents of the city.,was,warning,experts
+19,sing,pl,unint,ungram,The warning from the expert were a shock to the residents of the city.,were,warning,expert
+19,pl,pl,int,ungram,The warning from the experts were a shock to the residents of the city.,were,warning,experts
+20,sing,sing,int,gram,The bridge to the island was about ten miles off the main highway.,was,bridge,island
+20,pl,sing,unint,gram,The bridge to the islands was about ten miles off the main highway.,was,bridge,islands
+20,sing,pl,unint,ungram,The bridge to the island were about ten miles off the main highway.,were,bridge,island
+20,pl,pl,int,ungram,The bridge to the islands were about ten miles off the main highway.,were,bridge,islands
+21,sing,sing,int,gram,The gift from the visitor was a beautiful clock from Germany.,was,gift,visitor
+21,pl,sing,unint,gram,The gift from the visitors was a beautiful clock from Germany.,was,gift,visitors
+21,sing,pl,unint,ungram,The gift from the visitor were a beautiful clock from Germany.,were,gift,visitor
+21,pl,pl,int,ungram,The gift from the visitors were a beautiful clock from Germany.,were,gift,visitors
+22,sing,sing,int,gram,The path to the monument was lined with lovely trees and flowers.,was,path,monument
+22,pl,sing,unint,gram,The path to the monuments was lined with lovely trees and flowers.,was,path,monuments
+22,sing,pl,unint,ungram,The path to the monument were lined with lovely trees and flowers.,were,path,monument
+22,pl,pl,int,ungram,The path to the monuments were lined with lovely trees and flowers.,were,path,monuments
+23,sing,sing,int,gram,The message from the engineer was about the recent weakening to the building's structural supports.,was,message,engineer
+23,pl,sing,unint,gram,The message from the engineers was about the recent weakening to the building's structural supports.,was,message,engineers
+23,sing,pl,unint,ungram,The message from the engineer were about the recent weakening to the building's structural supports.,were,message,engineer
+23,pl,pl,int,ungram,The message from the engineers were about the recent weakening to the building's structural supports.,were,message,engineers
+24,sing,sing,int,gram,The gate to the pasture was falling down due to disrepair.,was,gate,pasture
+24,pl,sing,unint,gram,The gate to the pastures was falling down due to disrepair.,was,gate,pastures
+24,sing,pl,unint,ungram,The gate to the pasture were falling down due to disrepair.,were,gate,pasture
+24,pl,pl,int,ungram,The gate to the pastures were falling down due to disrepair.,were,gate,pastures

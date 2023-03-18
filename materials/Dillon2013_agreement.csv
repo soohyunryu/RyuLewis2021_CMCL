@@ -1,0 +1,193 @@
+﻿id,distractor,subject,grammaticality,interference,sentence,crit,target,attractor
+1,sing,sing,gram,int,The tall nurse who cared for the elderly widow definitely was reluctant to work long shifts.,was,nurse,widow
+1,pl,sing,gram,unint,The tall nurse who cared for the elderly widows definitely was reluctant to work long shifts.,was,nurse,widows
+1,sing,sing,ungram,unint,The tall nurse who cared for the elderly widow definitely were reluctant to work long shifts.,were,nurse,widow
+1,pl,sing,ungram,int,The tall nurse who cared for the elderly widows definitely were reluctant to work long shifts.,were,nurse,widows
+2,sing,sing,gram,int,The legendary diva who sang with the graceful harpist clearly was flawless on the high notes.,was,diva,harpist
+2,pl,sing,gram,unint,The legendary diva who sang with the graceful harpists clearly was flawless on the high notes.,was,diva,hapists
+2,sing,sing,ungram,unint,The legendary diva who sang with the graceful harpist clearly were flawless on the high notes.,were,diva,harpist
+2,pl,sing,ungram,int,The legendary diva who sang with the graceful harpists clearly were flawless on the high notes.,were,diva,hapists
+3,sing,sing,gram,int,The nice beautician who advised the beauty queen probably was happy about having more business.,was,beautician,queen
+3,pl,sing,gram,unint,The nice beautician who advised the beauty queens probably was happy about having more business.,was,beautician,queens
+3,sing,sing,ungram,unint,The nice beautician who advised the beauty queen probably were happy about having more business.,were,beautician,queen
+3,pl,sing,ungram,int,The nice beautician who advised the beauty queens probably were happy about having more business.,were,beautician,queens
+4,sing,sing,gram,int,The talented hairdresser who worked with the friendly manicurist obviously was popular with the regular customers.,was,hairdresser,manicurist
+4,pl,sing,gram,unint,The talented hairdresser who worked with the friendly manicurists obviously was popular with the regular customers.,was,hairdresser,manicurists
+4,sing,sing,ungram,unint,The talented hairdresser who worked with the friendly manicurist obviously were popular with the regular customers.,were,hairdresser,manicurist
+4,pl,sing,ungram,int,The talented hairdresser who worked with the friendly manicurists obviously were popular with the regular customers.,were,hairdresser,manicurists
+5,sing,sing,gram,int,The artsy florist who helped the elegant designer unfortunately was distraught over an upcoming funeral.,was,florist,designer
+5,pl,sing,gram,unint,The artsy florist who helped the elegant designers unfortunately was distraught over an upcoming funeral.,was,florist,designers
+5,sing,sing,ungram,unint,The artsy florist who helped the elegant designer unfortunately were distraught over an upcoming funeral.,were,florist,designer
+5,pl,sing,ungram,int,The artsy florist who helped the elegant designers unfortunately were distraught over an upcoming funeral.,were,florist,designers
+6,sing,sing,gram,int,The nimble gymnast who studied with the female coach certainly was unable to make a graceful landing.,was,gymnast,coach
+6,pl,sing,gram,unint,The nimble gymnast who studied with the female coaches certainly was unable to make a graceful landing.,was,gymnast,coaches
+6,sing,sing,ungram,unint,The nimble gymnast who studied with the female coach certainly were unable to make a graceful landing.,were,gymnast,coach
+6,pl,sing,ungram,int,The nimble gymnast who studied with the female coaches certainly were unable to make a graceful landing.,were,gymnast,coaches
+7,sing,sing,gram,int,The midwife who attended to the expectant mothers probably was committed promoting natural childbirth.,was,midwife,mother
+7,pl,sing,gram,unint,The midwife who attended to the expectant mothers probably was committed to promoting natural childbirth.,was,midwife,mothers
+7,sing,sing,ungram,unint,The midwife who attended to the expectant mother probably were committed to promoting natural childbirth.,were,midwife,mother
+7,pl,sing,ungram,int,The midwife who attended to the expectant mothers probably were committed to promoting natural childbirth.,were,midwife,mothers
+8,sing,sing,gram,int,The new mother who interviewed the teenage babysitters definitely was careful careful to do a full background check.,was,mother,babysitter
+8,pl,sing,gram,unint,The new mother who interviewed the teenage babysitters definitely was careful to do a full background check.,was,mother,babysitters
+8,sing,sing,ungram,unint,The new mother who interviewed the teenage babysitter definitely were careful to do a full background check.,were,mother,babysitter
+8,pl,sing,ungram,int,The new mother who interviewed the teenage babysitters definitely were careful to do a full background check.,were,mother,babysitters
+9,sing,sing,gram,int,The quick typist who assisted the female lawyer clearly was doubtful of the quality of the office computers.,was,typist,lawyer
+9,pl,sing,gram,unint,The quick typist who assisted the female lawyers clearly was doubtful of the quality of the office computers.,was,typist,lawyers
+9,sing,sing,ungram,unint,The quick typist who assisted the female lawyer clearly were doubtful of the quality of the office computers.,were,typist,lawyer
+9,pl,sing,ungram,int,The quick typist who assisted the female lawyers clearly were doubtful of the quality of the office computers.,were,typist,lawyers
+10,sing,sing,gram,int,The stern librarian who glared at the little girls probably was irritated irritated about the unruly visitors.,was,librarian,child
+10,pl,sing,gram,unint,The stern librarian who glared at the little girls probably was irritated about the unruly visitors.,was,librarian,children
+10,sing,sing,ungram,unint,The stern librarian who glared at the little girl probably were irritated about the unruly visitors.,were,librarian,child
+10,pl,sing,ungram,int,The stern librarian who glared at the little girls probably were irritated about the unruly visitors.,were,librarian,children
+11,sing,sing,gram,int,The aging nun who taught the young choirgirls definitely was anxious retire very soon.,was,nun,choirgirl
+11,pl,sing,gram,unint,The aging nun who taught the young choirgirls definitely was anxious to retire very soon.,was,nun,choirgirls
+11,sing,sing,ungram,unint,The aging nun who taught the young choirgirl definitely were anxious to retire very soon.,were,nun,choirgirl
+11,pl,sing,ungram,int,The aging nun who taught the young choirgirls definitely were anxious to retire very soon.,were,nun,choirgirls
+12,sing,sing,gram,int,The strict nanny who babysat the well-behaved schoolgirl evidently was reluctant to spank bad children.,was,nanny,schoolgirl
+12,pl,sing,gram,unint,The strict nanny who babysat the well-behaved schoolgirls evidently was reluctant to spank bad children.,was,nanny,schoolgirls
+12,sing,sing,ungram,unint,The strict nanny who babysat the well-behaved schoolgirl evidently were reluctant to spank bad children.,were,nanny,schoolgirl
+12,pl,sing,ungram,int,The strict nanny who babysat the well-behaved schoolgirls evidently were reluctant to spank bad children.,were,nanny,schoolgirls
+13,sing,sing,gram,int,The dramatic actress who promoted the opera singer apparently was excited about the upcoming season.,was,actress,singer
+13,pl,sing,gram,unint,The dramatic actress who promoted the opera singers apparently was excited about the upcoming season.,was,actress,singers
+13,sing,sing,ungram,unint,The dramatic actress who promoted the opera singer apparently were excited about the upcoming season.,were,actress,singer
+13,pl,sing,ungram,int,The dramatic actress who promoted the opera singers apparently were excited about the upcoming season.,were,actress,singers
+14,sing,sing,gram,int,The nimble ballerina who danced with the jazz dancers clearly was skilled skilled in many dance techniques.,was,ballerina,dancer
+14,pl,sing,gram,unint,The nimble ballerina who danced with the jazz dancers clearly was skilled in many dance techniques.,was,ballerina,dancers
+14,sing,sing,ungram,unint,The nimble ballerina who danced with the jazz dancer clearly were skilled in many dance techniques.,were,ballerina,dancer
+14,pl,sing,ungram,int,The nimble ballerina who danced with the jazz dancers clearly were skilled in many dance techniques.,were,ballerina,dancers
+15,sing,sing,gram,int,The evil witch who stalked the royal princesses supposedly was prepared curse the royal family.,was,witch,princess
+15,pl,sing,gram,unint,The evil witch who stalked the royal princesses supposedly was prepared to curse the royal family.,was,witch,princesses
+15,sing,sing,ungram,unint,The evil witch who stalked the royal princess supposedly were prepared to curse the royal family.,were,witch,princess
+15,pl,sing,ungram,int,The evil witch who stalked the royal princesses supposedly were prepared to curse the royal family.,were,witch,princesses
+16,sing,sing,gram,int,The hard-working maid who chastised the lazy housekeeper probably was angry about doing other people's work.,was,maid,housekeeper
+16,pl,sing,gram,unint,The hard-working maid who chastised the lazy housekeepers probably was angry about doing other people's work.,was,maid,housekeepers
+16,sing,sing,ungram,unint,The hard-working maid who chastised the lazy housekeeper probably were angry about doing other people's work.,were,maid,housekeeper
+16,pl,sing,ungram,int,The hard-working maid who chastised the lazy housekeepers probably were angry about doing other people's work.,were,maid,housekeepers
+17,sing,sing,gram,int,The kindergarten teacher who lectured the young girl clearly was friendly to the young students.,was,teacher,girl
+17,pl,sing,gram,unint,The kindergarten teacher who lectured the young girls clearly was friendly to the young students.,was,teacher,girls
+17,sing,sing,ungram,unint,The kindergarten teacher who lectured the young girl clearly were friendly to the young students.,were,teacher,girl
+17,pl,sing,ungram,int,The kindergarten teacher who lectured the young girls clearly were friendly to the young students.,were,teacher,girls
+18,sing,sing,gram,int,The respected feminist who advised the powerful congresswoman obviously was supportive of progressive political views.,was,feminist,congresswoman
+18,pl,sing,gram,unint,The respected feminist who advised the powerful congresswomen obviously was supportive of progressive political views.,was,feminist,congresswomen
+18,sing,sing,ungram,unint,The respected feminist who advised the powerful congresswoman obviously were supportive of progressive political views.,were,feminist,congresswoman
+18,pl,sing,ungram,int,The respected feminist who advised the powerful congresswomen obviously were supportive of progressive political views.,were,feminist,congresswomen
+19,sing,sing,gram,int,The dental hygienist who treated the elderly lady evidently was known for being very thorough.,was,hygienist,lady
+19,pl,sing,gram,unint,The dental hygienist who treated the elderly ladies evidently was known for being very thorough.,was,hygienist,ladies
+19,sing,sing,ungram,unint,The dental hygienist who treated the elderly lady evidently were known for being very thorough.,were,hygienist,lady
+19,pl,sing,ungram,int,The dental hygienist who treated the elderly ladies evidently were known for being very thorough.,were,hygienist,ladies
+20,sing,sing,gram,int,The glamorous supermodel who promoted the fashion designer apparently was ready for another photo shoot.,was,supermodel,designer
+20,pl,sing,gram,unint,The glamorous supermodel who promoted the fashion designers apparently was ready for another photo shoot.,was,supermodel,designers
+20,sing,sing,ungram,unint,The glamorous supermodel who promoted the fashion designer apparently were ready for another photo shoot.,were,supermodel,designer
+20,pl,sing,ungram,int,The glamorous supermodel who promoted the fashion designers apparently were ready for another photo shoot.,were,supermodel,designers
+21,sing,sing,gram,int,The peppy cheerleader who socialized with the sorority member clearly was uncomfortable at the frat party.,was,cheerleader,member
+21,pl,sing,gram,unint,The peppy cheerleader who socialized with the sorority members clearly was uncomfortable at the frat party.,was,cheerleader,members
+21,sing,sing,ungram,unint,The peppy cheerleader who socialized with the sorority member clearly were uncomfortable at the frat party.,were,cheerleader,member
+21,pl,sing,ungram,int,The peppy cheerleader who socialized with the sorority members clearly were uncomfortable at the frat party.,were,cheerleader,members
+22,sing,sing,gram,int,The cleaning lady who worked for the aging spinster seemingly was reluctant to use bleaching agents.,was,lady,spinster
+22,pl,sing,gram,unint,The cleaning lady who worked for the aging spinsters seemingly was reluctant to use bleaching agents.,was,lady,spinsters
+22,sing,sing,ungram,unint,The cleaning lady who worked for the aging spinster seemingly were reluctant to use bleaching agents.,were,lady,spinster
+22,pl,sing,ungram,int,The cleaning lady who worked for the aging spinsters seemingly were reluctant to use bleaching agents.,were,lady,spinsters
+23,sing,sing,gram,int,The efficient secretary who assisted the rapid typist undeniably was systematic in sorting company documents.,was,secretary,typist
+23,pl,sing,gram,unint,The efficient secretary who assisted the rapid typists undeniably was systematic in sorting company documents.,was,secretary,typists
+23,sing,sing,ungram,unint,The efficient secretary who assisted the rapid typist undeniably were systematic in sorting company documents.,were,secretary,typist
+23,pl,sing,ungram,int,The efficient secretary who assisted the rapid typists undeniably were systematic in sorting company documents.,were,secretary,typists
+24,sing,sing,gram,int,The effective salesman who worked for the successful entrepreneur probably was worried about the company's image in the news.,was,salesman,entrepreneur
+24,pl,sing,gram,unint,The effective salesman who worked for the successful entrepreneurs probably was worried about the company's image in the news.,was,salesman,entrepreneurs
+24,sing,sing,ungram,unint,The effective salesman who worked for the successful entrepreneur probably were worried about the company's image in the news.,were,salesman,entrepreneur
+24,pl,sing,ungram,int,The effective salesman who worked for the successful entrepreneurs probably were worried about the company's image in the news.,were,salesman,entrepreneurs
+25,sing,sing,gram,int,The charming butcher who served the picky chef actually was unconcerned about selling rancid meat.,was,butcher,chef
+25,pl,sing,gram,unint,The charming butcher who served the picky chefs actually was unconcerned about selling rancid meat.,was,butcher,chefs
+25,sing,sing,ungram,unint,The charming butcher who served the picky chef actually were unconcerned about selling rancid meat.,were,butcher,chef
+25,pl,sing,ungram,int,The charming butcher who served the picky chefs actually were unconcerned about selling rancid meat.,were,butcher,chefs
+26,sing,sing,gram,int,The hilarious clown who entertained the circus lion-tamer likely was scared of the growling lions.,was,clown,tamer
+26,pl,sing,gram,unint,The hilarious clown who entertained the circus lion-tamers likely was scared of the growling lions.,was,clown,tamers
+26,sing,sing,ungram,unint,The hilarious clown who entertained the circus lion-tamer likely were scared of the growling lions.,were,clown,tamer
+26,pl,sing,ungram,int,The hilarious clown who entertained the circus lion-tamers likely were scared of the growling lions.,were,clown,tamers
+27,sing,sing,gram,int,The wealthy heiress who yelled at the lazy maid undeniably was irritated at the dirty dishes.,was,heiress,maid
+27,pl,sing,gram,unint,The wealthy heiress who yelled at the lazy maids undeniably was irritated at the dirty dishes.,was,heiress,maids
+27,sing,sing,ungram,unint,The wealthy heiress who yelled at the lazy maid undeniably were irritated at the dirty dishes.,were,heiress,maid
+27,pl,sing,ungram,int,The wealthy heiress who yelled at the lazy maids undeniably were irritated at the dirty dishes.,were,heiress,maids
+28,sing,sing,gram,int,The cruel hunter who accompanied the accurate sharpshooter surely was capable of finding deer in the forest.,was,hunter,sharpshooter
+28,pl,sing,gram,unint,The cruel hunter who accompanied the accurate sharpshooters surely was capable of finding deer in the forest.,was,hunter,sharpshooters
+28,sing,sing,ungram,unint,The cruel hunter who accompanied the accurate sharpshooter surely were capable of finding deer in the forest.,were,hunter,sharpshooter
+28,pl,sing,ungram,int,The cruel hunter who accompanied the accurate sharpshooters surely were capable of finding deer in the forest.,were,hunter,sharpshooters
+29,sing,sing,gram,int,The successful businessman who scolded the teenage bellhop allegedly was angry with the hotel management.,was,businessman,bellhop
+29,pl,sing,gram,unint,The successful businessman who scolded the teenage bellhops allegedly was angry with the hotel management.,was,businessman,bellhops
+29,sing,sing,ungram,unint,The successful businessman who scolded the teenage bellhop allegedly were angry with the hotel management.,were,businessman,bellhop
+29,pl,sing,ungram,int,The successful businessman who scolded the teenage bellhops allegedly were angry with the hotel management.,were,businessman,bellhops
+30,sing,sing,gram,int,The police officer who aided the brilliant detective reportedly was suspicious of the victim's brother.,was,officer,detective
+30,pl,sing,gram,unint,The police officer who aided the brilliant detectives reportedly was suspicious of the victim's brother.,was,officer,detectives
+30,sing,sing,ungram,unint,The police officer who aided the brilliant detective reportedly were suspicious of the victim's brother.,were,officer,detective
+30,pl,sing,ungram,int,The police officer who aided the brilliant detectives reportedly were suspicious of the victim's brother.,were,officer,detectives
+31,sing,sing,gram,int,The old rancher who listened to the dishonest salesman unsurprisingly was skeptical about buying more insurance.,was,rancher,salesman
+31,pl,sing,gram,unint,The old rancher who listened to the dishonest salesmen unsurprisingly was skeptical about buying more insurance.,was,rancher,salesmen
+31,sing,sing,ungram,unint,The old rancher who listened to the dishonest salesman unsurprisingly were skeptical about buying more insurance.,were,rancher,salesman
+31,pl,sing,ungram,int,The old rancher who listened to the dishonest salesmen unsurprisingly were skeptical about buying more insurance.,were,rancher,salesmen
+32,sing,sing,gram,int,The meek boxer who trained with the persistent coach shockingly was brutal in the boxing ring.,was,boxer,coach
+32,pl,sing,gram,unint,The meek boxer who trained with the persistent coaches shockingly was brutal in the boxing ring.,was,boxer,coaches
+32,sing,sing,ungram,unint,The meek boxer who trained with the persistent coach shockingly were brutal in the boxing ring.,were,boxer,coach
+32,pl,sing,ungram,int,The meek boxer who trained with the persistent coaches shockingly were brutal in the boxing ring.,were,boxer,coaches
+33,sing,sing,gram,int,The amateur bodybuilder who worked with the personal trainer amazingly was competitive for the gold medal.,was,bodybuilder,trainer
+33,pl,sing,gram,unint,The amateur bodybuilder who worked with the personal trainers amazingly was competitive for the gold medal.,was,bodybuilder,trainers
+33,sing,sing,ungram,unint,The amateur bodybuilder who worked with the personal trainer amazingly were competitive for the gold medal.,were,bodybuilder,trainer
+33,pl,sing,ungram,int,The amateur bodybuilder who worked with the personal trainers amazingly were competitive for the gold medal.,were,bodybuilder,trainers
+34,sing,sing,gram,int,The basketball coach who trained the star player usually was nervous at the important games.,was,coach,player
+34,pl,sing,gram,unint,The basketball coach who trained the star players usually was nervous at the important games.,was,coach,players
+34,sing,sing,ungram,unint,The basketball coach who trained the star player usually were nervous at the important games.,were,coach,player
+34,pl,sing,ungram,int,The basketball coach who trained the star players usually were nervous at the important games.,were,coach,players
+35,sing,sing,gram,int,The young caddy who escorted the experienced golfer supposedly was helpful around the country club.,was,caddy,golfer
+35,pl,sing,gram,unint,The young caddy who escorted the experienced golfers supposedly was helpful around the country club.,was,caddy,golfers
+35,sing,sing,ungram,unint,The young caddy who escorted the experienced golfer supposedly were helpful around the country club.,were,caddy,golfer
+35,pl,sing,ungram,int,The young caddy who escorted the experienced golfers supposedly were helpful around the country club.,were,caddy,golfers
+36,sing,sing,gram,int,The construction worker who argued with the shift leader undeniably was disgruntled about being harshly disciplined.,was,worker,leader
+36,pl,sing,gram,unint,The construction worker who argued with the shift leaders undeniably was disgruntled about being harshly disciplined.,was,worker,leaders
+36,sing,sing,ungram,unint,The construction worker who argued with the shift leader undeniably were disgruntled about being harshly disciplined.,were,worker,leader
+36,pl,sing,ungram,int,The construction worker who argued with the shift leaders undeniably were disgruntled about being harshly disciplined.,were,worker,leaders
+37,sing,sing,gram,int,The grimy blacksmith who worked for the royal knight evidently was unaware of basic forging techniques.,was,blacksmith,knight
+37,pl,sing,gram,unint,The grimy blacksmith who worked for the royal knights evidently was unaware of basic forging techniques.,was,blacksmith,knights
+37,sing,sing,ungram,unint,The grimy blacksmith who worked for the royal knight evidently were unaware of basic forging techniques.,were,blacksmith,knight
+37,pl,sing,ungram,int,The grimy blacksmith who worked for the royal knights evidently were unaware of basic forging techniques.,were,blacksmith,knights
+38,sing,sing,gram,int,The paranoid foreman who supervised the coal miner presumably was worried about dangerous working conditions.,was,foreman,miner
+38,pl,sing,gram,unint,The paranoid foreman who supervised the coal miners presumably was worried about dangerous working conditions.,was,foreman,miners
+38,sing,sing,ungram,unint,The paranoid foreman who supervised the coal miner presumably were worried about dangerous working conditions.,were,foreman,miner
+38,pl,sing,ungram,int,The paranoid foreman who supervised the coal miners presumably were worried about dangerous working conditions.,were,foreman,miners
+39,sing,sing,gram,int,The serious general who advised the new corporal seemingly was unhappy with the training regimen.,was,general,corporal
+39,pl,sing,gram,unint,The serious general who advised the new corporals seemingly was unhappy with the training regimen.,was,general,corporals
+39,sing,sing,ungram,unint,The serious general who advised the new corporal seemingly were unhappy with the training regimen.,were,general,corporal
+39,pl,sing,ungram,int,The serious general who advised the new corporals seemingly were unhappy with the training regimen.,were,general,corporals
+40,sing,sing,gram,int,The new executive who oversaw the middle manager apparently was dishonest about the company's profits.,was,executive,manager
+40,pl,sing,gram,unint,The new executive who oversaw the middle managers apparently was dishonest about the company's profits.,was,executive,managers
+40,sing,sing,ungram,unint,The new executive who oversaw the middle manager apparently were dishonest about the company's profits.,were,executive,manager
+40,pl,sing,ungram,int,The new executive who oversaw the middle managers apparently were dishonest about the company's profits.,were,executive,managers
+41,sing,sing,gram,int,The popular sheriff who campaigned for the incumbent politician never was concerned with preventing violent crime.,was,sheriff,politician
+41,pl,sing,gram,unint,The popular sheriff who campaigned for the incumbent politicians never was concerned with preventing violent crime.,was,sheriff,politicians
+41,sing,sing,ungram,unint,The popular sheriff who campaigned for the incumbent politician never were concerned with preventing violent crime.,were,sheriff,politician
+41,pl,sing,ungram,int,The popular sheriff who campaigned for the incumbent politicians never were concerned with preventing violent crime.,were,sheriff,politicians
+42,sing,sing,gram,int,The somber minister who conversed with the religious scholar usually was tempted to discuss controversial issues.,was,minister,scholar
+42,pl,sing,gram,unint,The somber minister who conversed with the religious scholars usually was tempted to discuss controversial issues.,was,minister,scholars
+42,sing,sing,ungram,unint,The somber minister who conversed with the religious scholar usually were tempted to discuss controversial issues.,were,minister,scholar
+42,pl,sing,ungram,int,The somber minister who conversed with the religious scholars usually were tempted to discuss controversial issues.,were,minister,scholars
+43,sing,sing,gram,int,The rich CEO who employed the expensive chauffeur typically was unwilling to take the scenic route.,was,CEO,chauffeur
+43,pl,sing,gram,unint,The rich CEO who employed the expensive chauffeurs typically was unwilling to take the scenic route.,was,CEO,chauffeurs
+43,sing,sing,ungram,unint,The rich CEO who employed the expensive chauffeur typically were unwilling to take the scenic route.,were,CEO,chauffeur
+43,pl,sing,ungram,int,The rich CEO who employed the expensive chauffeurs typically were unwilling to take the scenic route.,were,CEO,chauffeurs
+44,sing,sing,gram,int,The handy plumber who helped the absentminded homeowner probably was watchful for any leaky joints.,was,plumber,homeowner
+44,pl,sing,gram,unint,The handy plumber who helped the absentminded homeowners probably was watchful for any leaky joints.,was,plumber,homeowners
+44,sing,sing,ungram,unint,The handy plumber who helped the absentminded homeowner probably were watchful for any leaky joints.,were,plumber,homeowner
+44,pl,sing,ungram,int,The handy plumber who helped the absentminded homeowners probably were watchful for any leaky joints.,were,plumber,homeowners
+45,sing,sing,gram,int,The elderly doctor who treated the tough soldier usually was reluctant to prescribe pain medication.,was,doctor,soldier
+45,pl,sing,gram,unint,The elderly doctor who treated the tough soldiers usually was reluctant to prescribe pain medication.,was,doctor,soldiers
+45,sing,sing,ungram,unint,The elderly doctor who treated the tough soldier usually were reluctant to prescribe pain medication.,were,doctor,soldier
+45,pl,sing,ungram,int,The elderly doctor who treated the tough soldiers usually were reluctant to prescribe pain medication.,were,doctor,soldiers
+46,sing,sing,gram,int,The football referee who argued with the large quarterback surprisingly was unwilling to change the decision.,was,referee,quarterback
+46,pl,sing,gram,unint,The football referee who argued with the large quarterbacks surprisingly was unwilling to change the decision.,was,referee,quarterbacks
+46,sing,sing,ungram,unint,The football referee who argued with the large quarterback surprisingly were unwilling to change the decision.,were,referee,quarterback
+46,pl,sing,ungram,int,The football referee who argued with the large quarterbacks surprisingly were unwilling to change the decision.,were,referee,quarterbacks
+47,sing,sing,gram,int,The rough woodsman who helped the tired hiker evidently was annoyed with the environmental activists.,was,woodsman,hiker
+47,pl,sing,gram,unint,The rough woodsman who helped the tired hikers evidently was annoyed with the environmental activists.,was,woodsman,hikers
+47,sing,sing,ungram,unint,The rough woodsman who helped the tired hiker evidently were annoyed with the environmental activists.,were,woodsman,hiker
+47,pl,sing,ungram,int,The rough woodsman who helped the tired hikers evidently were annoyed with the environmental activists.,were,woodsman,hikers
+48,sing,sing,gram,int,The slick politician who avoided the persistent journalist reportedly was hypocritical in condemning the lobbyists.,was,politician,journalist
+48,pl,sing,gram,unint,The slick politician who avoided the persistent journalists reportedly was hypocritical in condemning the lobbyists.,was,politician,journalists
+48,sing,sing,ungram,unint,The slick politician who avoided the persistent journalist reportedly were hypocritical in condemning the lobbyists.,were,politician,journalist
+48,pl,sing,ungram,int,The slick politician who avoided the persistent journalists reportedly were hypocritical in condemning the lobbyists.,were,politician,journalists

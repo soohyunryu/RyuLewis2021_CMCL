@@ -1,0 +1,385 @@
+﻿id,distractor,subject,grammaticality,interference,sentence,crit,target,attractor
+1,sing,sing,gram,int,The tall nurse who cared for the elderly widow definitely pricked herself with a used syringe.,herself,nurse,widow
+1,pl,sing,gram,unint,The tall nurse who cared for the elderly widows definitely pricked herself with a used syringe.,herself,nurse,widows
+1,sing,sing,ungram,unint,The tall nurse who cared for the elderly widow definitely pricked themselves with a used syringe.,themselves,nurse,widow
+1,pl,sing,ungram,int,The tall nurse who cared for the elderly widows definitely pricked themselves with a used syringe.,themselves,nurse,widows
+1,sing,pl,ungram,int,The tall nurses who cared for the elderly widow definitely pricked herself with a used syringe.,herself,nurses,widow
+1,pl,pl,ungram,unint,The tall nurses who cared for the elderly widows definitely pricked herself with a used syringe.,herself,nurses,widows
+1,sing,pl,gram,unint,The tall nurses who cared for the elderly widow definitely pricked themselves with a used syringe.,themselves,nurses,widow
+1,pl,pl,gram,int,The tall nurses who cared for the elderly widows definitely pricked themselves with a used syringe.,themselves,nurses,widows
+2,sing,sing,gram,int,The legendary diva who sang with the graceful harpist clearly presented herself with lots of fanfare.,herself,diva,harpist
+2,pl,sing,gram,unint,The legendary diva who sang with the graceful harpists clearly presented herself with lots of fanfare.,herself,diva,hapists
+2,sing,sing,ungram,unint,The legendary diva who sang with the graceful harpist clearly presented themselves with lots of fanfare.,themselves,diva,harpist
+2,pl,sing,ungram,int,The legendary diva who sang with the graceful harpists clearly presented themselves with lots of fanfare.,themselves,diva,hapists
+2,sing,pl,ungram,int,The legendary divas who sang with graceful harpist clearly presented herself with lots of fanfare.,herself,divas,harpist
+2,pl,pl,ungram,unint,The legendary divas who sang with graceful harpists clearly presented herself with lots of fanfare.,herself,divas,hapists
+2,sing,pl,gram,unint,The legendary divas who sang with graceful harpist clearly presented themselves with lots of fanfare.,themselves,divas,harpist
+2,pl,pl,gram,int,The legendary divas who sang with graceful harpists clearly presented themselves with lots of fanfare.,themselves,divas,hapists
+3,sing,sing,gram,int,The nice beautician who advised the beauty queen probably dabbed herself with imported French perfume.,herself,beautician,queen
+3,pl,sing,gram,unint,The nice beautician who advised the beauty queens probably dabbed herself with imported French perfume.,herself,beautician,queens
+3,sing,sing,ungram,unint,The nice beautician who advised the beauty queen probably dabbed themselves with imported French perfume.,themselves,beautician,queen
+3,pl,sing,ungram,int,The nice beautician who advised the beauty queens probably dabbed themselves with imported French perfume.,themselves,beautician,queens
+3,sing,pl,ungram,int,The nice beauticians who advised the beauty queen probably dabbed herself with imported French perfume.,herself,beauticians,queen
+3,pl,pl,ungram,unint,The nice beauticians who advised the beauty queens probably dabbed herself with imported French perfume.,herself,beauticians,queens
+3,sing,pl,gram,unint,The nice beauticians who advised the beauty queen probably dabbed themselves with imported French perfume.,themselves,beauticians,queen
+3,pl,pl,gram,int,The nice beauticians who advised the beauty queens probably dabbed themselves with imported French perfume.,themselves,beauticians,queens
+4,sing,sing,gram,int,The talented hairdresser who worked with the friendly manicurist obviously cut herself with some rusty scissors.,herself,hairdresser,manicurist
+4,pl,sing,gram,unint,The talented hairdresser who worked with the friendly manicurists obviously cut herself with some rusty scissors.,herself,hairdresser,manicurists
+4,sing,sing,ungram,unint,The talented hairdresser who worked with the friendly manicurist obviously cut themselves with some rusty scissors.,themselves,hairdresser,manicurist
+4,pl,sing,ungram,int,The talented hairdresser who worked with the friendly manicurists obviously cut themselves with some rusty scissors.,themselves,hairdresser,manicurists
+4,sing,pl,ungram,int,The talented hairdressers who worked with the friendly manicurist obviously cut herself with some rusty scissors.,herself,hairdressers,manicurist
+4,pl,pl,ungram,unint,The talented hairdressers who worked with the friendly manicurists obviously cut herself with some rusty scissors.,herself,hairdressers,manicurists
+4,sing,pl,gram,unint,The talented hairdressers who worked with the friendly manicurist obviously cut themselves with some rusty scissors.,themselves,hairdressers,manicurist
+4,pl,pl,gram,int,The talented hairdressers who worked with the friendly manicurists obviously cut themselves with some rusty scissors.,themselves,hairdressers,manicurists
+5,sing,sing,gram,int,The artsy florist who helped the elegant designer unfortunately nicked herself on a rose thorn.,herself,florist,designer
+5,pl,sing,gram,unint,The artsy florist who helped the elegant designers unfortunately nicked herself on a rose thorn.,herself,florist,designers
+5,sing,sing,ungram,unint,The artsy florist who helped the elegant designer unfortunately nicked themselves on a rose thorn.,themselves,florist,designer
+5,pl,sing,ungram,int,The artsy florist who helped the elegant designers unfortunately nicked themselves on a rose thorn.,themselves,florist,designers
+5,sing,pl,ungram,int,The artsy florists who helped the elegant designer unfortunately nicked herself on a rose thorn.,herself,florists,designer
+5,pl,pl,ungram,unint,The artsy florists who helped the elegant designers unfortunately nicked herself on a rose thorn.,herself,florists,designers
+5,sing,pl,gram,unint,The artsy florists who helped the elegant designer unfortunately nicked themselves on a rose thorn.,themselves,florists,designer
+5,pl,pl,gram,int,The artsy florists who helped the elegant designers unfortunately nicked themselves on a rose thorn.,themselves,florists,designers
+6,sing,sing,gram,int,The nimble gymnast who studied with the female coach certainly bruised herself on the uneven bars.,herself,gymnast,coach
+6,pl,sing,gram,unint,The nimble gymnast who studied with the female coaches certainly bruised herself on the uneven bars.,herself,gymnast,coaches
+6,sing,sing,ungram,unint,The nimble gymnast who studied with the female coach certainly bruised themselves on the uneven bars.,themselves,gymnast,coach
+6,pl,sing,ungram,int,The nimble gymnast who studied with the female coaches certainly bruised themselves on the uneven bars.,themselves,gymnast,coaches
+6,sing,pl,ungram,int,The nimble gymnasts who studied with the female coach certainly bruised herself on the uneven bars.,herself,gymnasts,coach
+6,pl,pl,ungram,unint,The nimble gymnasts who studied with the female coaches certainly bruised herself on the uneven bars.,herself,gymnasts,coaches
+6,sing,pl,gram,unint,The nimble gymnasts who studied with the female coach certainly bruised themselves on the uneven bars.,themselves,gymnasts,coach
+6,pl,pl,gram,int,The nimble gymnasts who studied with the female coaches certainly bruised themselves on the uneven bars.,themselves,gymnasts,coaches
+7,sing,sing,gram,int,The midwife who attended to the expectant mother probably supported herself with private childbirth consultations.,herself,midwife,mother
+7,pl,sing,gram,unint,The midwife who attended to the expectant mothers probably supported herself with private childbirth consultations.,herself,midwife,mothers
+7,sing,sing,ungram,unint,The midwife who attended to the expectant mother probably supported themselves with private childbirth consultations.,themselves,midwife,mother
+7,pl,sing,ungram,int,The midwife who attended to the expectant mothers probably supported themselves with private childbirth consultations.,themselves,midwife,mothers
+7,sing,pl,ungram,int,The midwives who attended to the expectant mother probably supported herself with private childbirth consultations.,herself,midwives,mother
+7,pl,pl,ungram,unint,The midwives who attended to the expectant mothers probably supported herself with private childbirth consultations.,herself,midwives,mothers
+7,sing,pl,gram,unint,The midwives who attended to the expectant mother probably supported themselves with private childbirth consultations.,themselves,midwives,mother
+7,pl,pl,gram,int,The midwives who attended to the expectant mothers probably supported themselves with private childbirth consultations.,themselves,midwives,mothers
+8,sing,sing,gram,int,The new mother who interviewed the teenage babysitter definitely stressed herself out in the process.,herself,mother,babysitter
+8,pl,sing,gram,unint,The new mother who interviewed the teenage babysitters definitely stressed herself out in the process.,herself,mother,babysitters
+8,sing,sing,ungram,unint,The new mother who interviewed the teenage babysitter definitely stressed themselves out in the process.,themselves,mother,babysitter
+8,pl,sing,ungram,int,The new mother who interviewed the teenage babysitters definitely stressed themselves out in the process.,themselves,mother,babysitters
+8,sing,pl,ungram,int,The new mothers who interviewed the teenage babysitter definitely stressed herself out in the process.,herself,mothers,babysitter
+8,pl,pl,ungram,unint,The new mothers who interviewed the teenage babysitters definitely stressed herself out in the process.,herself,mothers,babysitters
+8,sing,pl,gram,unint,The new mothers who interviewed the teenage babysitter definitely stressed themselves out in the process.,themselves,mothers,babysitter
+8,pl,pl,gram,int,The new mothers who interviewed the teenage babysitters definitely stressed themselves out in the process.,themselves,mothers,babysitters
+9,sing,sing,gram,int,The quick typist who assisted the female lawyer clearly trusted herself to organize the office.,herself,typist,lawyer
+9,pl,sing,gram,unint,The quick typist who assisted the female lawyers clearly trusted herself to organize the office.,herself,typist,lawyers
+9,sing,sing,ungram,unint,The quick typist who assisted the female lawyer clearly trusted themselves to organize the office.,themselves,typist,lawyer
+9,pl,sing,ungram,int,The quick typist who assisted the female lawyers clearly trusted themselves to organize the office.,themselves,typist,lawyers
+9,sing,pl,ungram,int,The quick typists who assisted the female lawyer clearly trusted herself to organize the office.,herself,typists,lawyer
+9,pl,pl,ungram,unint,The quick typists who assisted the female lawyers clearly trusted herself to organize the office.,herself,typists,lawyers
+9,sing,pl,gram,unint,The quick typists who assisted the female lawyer clearly trusted themselves to organize the office.,themselves,typists,lawyer
+9,pl,pl,gram,int,The quick typists who assisted the female lawyers clearly trusted themselves to organize the office.,themselves,typists,lawyers
+10,sing,sing,gram,int,The stern librarian who glared at the loud child probably amused herself by reorganizing the books.,herself,librarian,child
+10,pl,sing,gram,unint,The stern librarian who glared at the loud children probably amused herself by reorganizing the books.,herself,librarian,children
+10,sing,sing,ungram,unint,The stern librarian who glared at the loud child probably amused themselves by reorganizing the books.,themselves,librarian,child
+10,pl,sing,ungram,int,The stern librarian who glared at the loud children probably amused themselves by reorganizing the books.,themselves,librarian,children
+10,sing,pl,ungram,int,The stern librarians who glared at the loud child probably amused herself by reorganizing the books.,herself,librarians,child
+10,pl,pl,ungram,unint,The stern librarians who glared at the loud children probably amused herself by reorganizing the books.,herself,librarians,children
+10,sing,pl,gram,unint,The stern librarians who glared at the loud child probably amused themselves by reorganizing the books.,themselves,librarians,child
+10,pl,pl,gram,int,The stern librarians who glared at the loud children probably amused themselves by reorganizing the books.,themselves,librarians,children
+11,sing,sing,gram,int,The aging nun who taught the young choirgirl definitely exhausted herself by teaching too much.,herself,nun,choirgirl
+11,pl,sing,gram,unint,The aging nun who taught the young choirgirls definitely exhausted herself by teaching too much.,herself,nun,choirgirls
+11,sing,sing,ungram,unint,The aging nun who taught the young choirgirl definitely exhausted themselves by teaching too much.,themselves,nun,choirgirl
+11,pl,sing,ungram,int,The aging nun who taught the young choirgirls definitely exhausted themselves by teaching too much.,themselves,nun,choirgirls
+11,sing,pl,ungram,int,The aging nuns who taught the young choirgirl definitely exhausted herself by teaching too much.,herself,nuns,choirgirl
+11,pl,pl,ungram,unint,The aging nuns who taught the young choirgirls definitely exhausted herself by teaching too much.,herself,nuns,choirgirls
+11,sing,pl,gram,unint,The aging nuns who taught the young choirgirl definitely exhausted themselves by teaching too much.,themselves,nuns,choirgirl
+11,pl,pl,gram,int,The aging nuns who taught the young choirgirls definitely exhausted themselves by teaching too much.,themselves,nuns,choirgirls
+12,sing,sing,gram,int,The strict nanny who babysat the well-behaved schoolgirl evidently burned herself preparing a hot soup.,herself,nanny,schoolgirl
+12,pl,sing,gram,unint,The strict nanny who babysat the well-behaved schoolgirls evidently burned herself preparing a hot soup.,herself,nanny,schoolgirls
+12,sing,sing,ungram,unint,The strict nanny who babysat the well-behaved schoolgirl evidently burned themselves preparing a hot soup.,themselves,nanny,schoolgirl
+12,pl,sing,ungram,int,The strict nanny who babysat the well-behaved schoolgirls evidently burned themselves preparing a hot soup.,themselves,nanny,schoolgirls
+12,sing,pl,ungram,int,The strict nannies who babysat the well-behaved schoolgirl evidently burned herself preparing a hot soup.,herself,nannies,schoolgirl
+12,pl,pl,ungram,unint,The strict nannies who babysat the well-behaved schoolgirls evidently burned herself preparing a hot soup.,herself,nannies,schoolgirls
+12,sing,pl,gram,unint,The strict nannies who babysat the well-behaved schoolgirl evidently burned themselves preparing a hot soup.,themselves,nannies,schoolgirl
+12,pl,pl,gram,int,The strict nannies who babysat the well-behaved schoolgirls evidently burned themselves preparing a hot soup.,themselves,nannies,schoolgirls
+13,sing,sing,gram,int,The dramatic actress who promoted the opera singer apparently volunteered herself for a television commerical.,herself,actress,singer
+13,pl,sing,gram,unint,The dramatic actress who promoted the opera singers apparently volunteered herself for a television commerical.,herself,actress,singers
+13,sing,sing,ungram,unint,The dramatic actress who promoted the opera singer apparently volunteered themselves for a television commerical.,themselves,actress,singer
+13,pl,sing,ungram,int,The dramatic actress who promoted the opera singers apparently volunteered themselves for a television commerical.,themselves,actress,singers
+13,sing,pl,ungram,int,The dramatic actresses who promoted the opera singer apparently volunteered herself for a television commerical.,herself,actresses,singer
+13,pl,pl,ungram,unint,The dramatic actresses who promoted the opera singers apparently volunteered herself for a television commerical.,herself,actresses,singers
+13,sing,pl,gram,unint,The dramatic actresses who promoted the opera singer apparently volunteered themselves for a television commerical.,themselves,actresses,singer
+13,pl,pl,gram,int,The dramatic actresses who promoted the opera singers apparently volunteered themselves for a television commerical.,themselves,actresses,singers
+14,sing,sing,gram,int,The nimble ballerina who danced with the jazz dancer clearly disoriented herself with the complicated dance.,herself,ballerina,dancer
+14,pl,sing,gram,unint,The nimble ballerina who danced with the jazz dancers clearly disoriented herself with the complicated dance.,herself,ballerina,dancers
+14,sing,sing,ungram,unint,The nimble ballerina who danced with the jazz dancer clearly disoriented themselves with the complicated dance.,themselves,ballerina,dancer
+14,pl,sing,ungram,int,The nimble ballerina who danced with the jazz dancers clearly disoriented themselves with the complicated dance.,themselves,ballerina,dancers
+14,sing,pl,ungram,int,The nimble ballerinas who danced with the jazz dancer clearly disoriented herself with the complicated dance.,herself,ballerinas,dancer
+14,pl,pl,ungram,unint,The nimble ballerinas who danced with the jazz dancers clearly disoriented herself with the complicated dance.,herself,ballerinas,dancers
+14,sing,pl,gram,unint,The nimble ballerinas who danced with the jazz dancer clearly disoriented themselves with the complicated dance.,themselves,ballerinas,dancer
+14,pl,pl,gram,int,The nimble ballerinas who danced with the jazz dancers clearly disoriented themselves with the complicated dance.,themselves,ballerinas,dancers
+15,sing,sing,gram,int,The evil witch who stalked the royal princess supposedly poisoned herself with a cursed apple.,herself,witch,princess
+15,pl,sing,gram,unint,The evil witch who stalked the royal princesses supposedly poisoned herself with a cursed apple.,herself,witch,princesses
+15,sing,sing,ungram,unint,The evil witch who stalked the royal princess supposedly poisoned themselves with a cursed apple.,themselves,witch,princess
+15,pl,sing,ungram,int,The evil witch who stalked the royal princesses supposedly poisoned themselves with a cursed apple.,themselves,witch,princesses
+15,sing,pl,ungram,int,The evil witches who stalked the royal princess supposedly poisoned herself with a cursed apple.,herself,witches,princess
+15,pl,pl,ungram,unint,The evil witches who stalked the royal princesses supposedly poisoned herself with a cursed apple.,herself,witches,princesses
+15,sing,pl,gram,unint,The evil witches who stalked the royal princess supposedly poisoned themselves with a cursed apple.,themselves,witches,princess
+15,pl,pl,gram,int,The evil witches who stalked the royal princesses supposedly poisoned themselves with a cursed apple.,themselves,witches,princesses
+16,sing,sing,gram,int,The hard-working maid who chastised the lazy housekeeper probably upset herself from doing other people's work.,herself,maid,housekeeper
+16,pl,sing,gram,unint,The hard-working maid who chastised the lazy housekeepers probably upset herself from doing other people's work.,herself,maid,housekeepers
+16,sing,sing,ungram,unint,The hard-working maid who chastised the lazy housekeeper probably upset themselves from doing other people's work.,themselves,maid,housekeeper
+16,pl,sing,ungram,int,The hard-working maid who chastised the lazy housekeepers probably upset themselves from doing other people's work.,themselves,maid,housekeepers
+16,sing,pl,ungram,int,The hard-working maids who chastised the lazy housekeeper probably upset herself from doing other people's work.,herself,maids,housekeeper
+16,pl,pl,ungram,unint,The hard-working maids who chastised the lazy housekeepers probably upset herself from doing other people's work.,herself,maids,housekeepers
+16,sing,pl,gram,unint,The hard-working maids who chastised the lazy housekeeper probably upset themselves from doing other people's work.,themselves,maids,housekeeper
+16,pl,pl,gram,int,The hard-working maids who chastised the lazy housekeepers probably upset themselves from doing other people's work.,themselves,maids,housekeepers
+17,sing,sing,gram,int,The kindergarten teacher who lectured the young girl clearly prepared herself thoroughly for each lesson.,herself,teacher,girl
+17,pl,sing,gram,unint,The kindergarten teacher who lectured the young girls clearly prepared herself thoroughly for each lesson.,herself,teacher,girls
+17,sing,sing,ungram,unint,The kindergarten teacher who lectured the young girl clearly prepared themselves thoroughly for each lesson.,themselves,teacher,girl
+17,pl,sing,ungram,int,The kindergarten teacher who lectured the young girls clearly prepared themselves thoroughly for each lesson.,themselves,teacher,girls
+17,sing,pl,ungram,int,The kindergarten teachers who lectured the young girl clearly prepared herself thoroughly for each lesson.,herself,teachers,girl
+17,pl,pl,ungram,unint,The kindergarten teachers who lectured the young girls clearly prepared herself thoroughly for each lesson.,herself,teachers,girls
+17,sing,pl,gram,unint,The kindergarten teachers who lectured the young girl clearly prepared themselves thoroughly for each lesson.,themselves,teachers,girl
+17,pl,pl,gram,int,The kindergarten teachers who lectured the young girls clearly prepared themselves thoroughly for each lesson.,themselves,teachers,girls
+18,sing,sing,gram,int,The respected feminist who advised the powerful congresswoman obviously excused herself from any classified discussions.,herself,feminist,congresswoman
+18,pl,sing,gram,unint,The respected feminist who advised the powerful congresswomen obviously excused herself from any classified discussions.,herself,feminist,congresswomen
+18,sing,sing,ungram,unint,The respected feminist who advised the powerful congresswoman obviously excused themselves from any classified discussions.,themselves,feminist,congresswoman
+18,pl,sing,ungram,int,The respected feminist who advised the powerful congresswomen obviously excused themselves from any classified discussions.,themselves,feminist,congresswomen
+18,sing,pl,ungram,int,The respected feminists who advised the powerful congresswoman obviously excused herself from any classified discussions.,herself,feminists,congresswoman
+18,pl,pl,ungram,unint,The respected feminists who advised the powerful congresswomen obviously excused herself from any classified discussions.,herself,feminists,congresswomen
+18,sing,pl,gram,unint,The respected feminists who advised the powerful congresswoman obviously excused themselves from any classified discussions.,themselves,feminists,congresswoman
+18,pl,pl,gram,int,The respected feminists who advised the powerful congresswomen obviously excused themselves from any classified discussions.,themselves,feminists,congresswomen
+19,sing,sing,gram,int,The dental hygienist who treated the elderly lady evidently taught herself how to do root canals.,herself,hygienist,lady
+19,pl,sing,gram,unint,The dental hygienist who treated the elderly ladies evidently taught herself how to do root canals.,herself,hygienist,ladies
+19,sing,sing,ungram,unint,The dental hygienist who treated the elderly lady evidently taught themselves how to do root canals.,themselves,hygienist,lady
+19,pl,sing,ungram,int,The dental hygienist who treated the elderly ladies evidently taught themselves how to do root canals.,themselves,hygienist,ladies
+19,sing,pl,ungram,int,The dental hygienists who treated the elderly lady evidently taught herself how to do root canals.,herself,hygienists,lady
+19,pl,pl,ungram,unint,The dental hygienists who treated the elderly ladies evidently taught herself how to do root canals.,herself,hygienists,ladies
+19,sing,pl,gram,unint,The dental hygienists who treated the elderly lady evidently taught themselves how to do root canals.,themselves,hygienists,lady
+19,pl,pl,gram,int,The dental hygienists who treated the elderly ladies evidently taught themselves how to do root canals.,themselves,hygienists,ladies
+20,sing,sing,gram,int,The glamorous supermodel who promoted the fashion designer apparently bruised herself during the photo shoot.,herself,supermodel,designer
+20,pl,sing,gram,unint,The glamorous supermodel who promoted the fashion designers apparently bruised herself during the photo shoot.,herself,supermodel,designers
+20,sing,sing,ungram,unint,The glamorous supermodel who promoted the fashion designer apparently bruised themselves during the photo shoot.,themselves,supermodel,designer
+20,pl,sing,ungram,int,The glamorous supermodel who promoted the fashion designers apparently bruised themselves during the photo shoot.,themselves,supermodel,designers
+20,sing,pl,ungram,int,The glamorous supermodels who promoted the fashion designer apparently bruised herself during the photo shoot.,herself,supermodels,designer
+20,pl,pl,ungram,unint,The glamorous supermodels who promoted the fashion designers apparently bruised herself during the photo shoot.,herself,supermodels,designers
+20,sing,pl,gram,unint,The glamorous supermodels who promoted the fashion designer apparently bruised themselves during the photo shoot.,themselves,supermodels,designer
+20,pl,pl,gram,int,The glamorous supermodels who promoted the fashion designers apparently bruised themselves during the photo shoot.,themselves,supermodels,designers
+21,sing,sing,gram,int,The peppy cheerleader who socialized with the sorority member clearly injured herself during last night's practice.,herself,cheerleader,member
+21,pl,sing,gram,unint,The peppy cheerleader who socialized with the sorority members clearly injured herself during last night's practice.,herself,cheerleader,members
+21,sing,sing,ungram,unint,The peppy cheerleader who socialized with the sorority member clearly injured themselves during last night's practice.,themselves,cheerleader,member
+21,pl,sing,ungram,int,The peppy cheerleader who socialized with the sorority members clearly injured themselves during last night's practice.,themselves,cheerleader,members
+21,sing,pl,ungram,int,The peppy cheerleaders who socialized with the sorority member clearly injured herself during last night's practice.,herself,cheerleaders,member
+21,pl,pl,ungram,unint,The peppy cheerleaders who socialized with the sorority members clearly injured herself during last night's practice.,herself,cheerleaders,members
+21,sing,pl,gram,unint,The peppy cheerleaders who socialized with the sorority member clearly injured themselves during last night's practice.,themselves,cheerleaders,member
+21,pl,pl,gram,int,The peppy cheerleaders who socialized with the sorority members clearly injured themselves during last night's practice.,themselves,cheerleaders,members
+22,sing,sing,gram,int,The cleaning lady who worked for the aging spinster seemingly preoccupied herself with the dirty dishes.,herself,lady,spinster
+22,pl,sing,gram,unint,The cleaning lady who worked for the aging spinsters seemingly preoccupied herself with the dirty dishes.,herself,lady,spinsters
+22,sing,sing,ungram,unint,The cleaning lady who worked for the aging spinster seemingly preoccupied themselves with the dirty dishes.,themselves,lady,spinster
+22,pl,sing,ungram,int,The cleaning lady who worked for the aging spinsters seemingly preoccupied themselves with the dirty dishes.,themselves,lady,spinsters
+22,sing,pl,ungram,int,The cleaning ladies who worked for the aging spinster seeming preoccupied herself with the dirty dishes.,herself,ladies,spinster
+22,pl,pl,ungram,unint,The cleaning ladies who worked for the aging spinsters seeming preoccupied herself with the dirty dishes.,herself,ladies,spinsters
+22,sing,pl,gram,unint,The cleaning ladies who worked for the aging spinster seeming preoccupied themselves with the dirty dishes.,themselves,ladies,spinster
+22,pl,pl,gram,int,The cleaning ladies who worked for the aging spinsters seeming preoccupied themselves with the dirty dishes.,themselves,ladies,spinsters
+23,sing,sing,gram,int,The efficient secretary who assisted the rapid typist undeniably scratched herself with the sharp letter-opener.,herself,secretary,typist
+23,pl,sing,gram,unint,The efficient secretary who assisted the rapid typists undeniably scratched herself with the sharp letter-opener.,herself,secretary,typists
+23,sing,sing,ungram,unint,The efficient secretary who assisted the rapid typist undeniably scratched themselves with the sharp letter-opener.,themselves,secretary,typist
+23,pl,sing,ungram,int,The efficient secretary who assisted the rapid typists undeniably scratched themselves with the sharp letter-opener.,themselves,secretary,typists
+23,sing,pl,ungram,int,The efficient secretaries who assisted the rapid typist undeniably scratched herself with the sharp letter-opener.,herself,secretaries,typist
+23,pl,pl,ungram,unint,The efficient secretaries who assisted the rapid typists undeniably scratched herself with the sharp letter-opener.,herself,secretaries,typists
+23,sing,pl,gram,unint,The efficient secretaries who assisted the rapid typist undeniably scratched themselves with the sharp letter-opener.,themselves,secretaries,typist
+23,pl,pl,gram,int,The efficient secretaries who assisted the rapid typists undeniably scratched themselves with the sharp letter-opener.,themselves,secretaries,typists
+24,sing,sing,gram,int,The effective salesman who worked for the successful entrepreneur probably recommended himself for the new manager position.,himself,salesman,entrepreneur
+24,pl,sing,gram,unint,The effective salesman who worked for the successful entrepreneurs probably recommended himself for the new manager position.,himself,salesman,entrepreneurs
+24,sing,sing,ungram,unint,The effective salesman who worked for the successful entrepreneur probably recommended themselves for the new manager position.,themselves,salesman,entrepreneur
+24,pl,sing,ungram,int,The effective salesman who worked for the successful entrepreneurs probably recommended themselves for the new manager position.,themselves,salesman,entrepreneurs
+24,sing,pl,ungram,int,The effective salesmen who worked for the successful entrepreneur probably recommended himself for the new manager position.,himself,salesmen,entrepreneur
+24,pl,pl,ungram,unint,The effective salesmen who worked for the successful entrepreneurs probably recommended himself for the new manager position.,himself,salesmen,entrepreneurs
+24,sing,pl,gram,unint,The effective salesmen who worked for the successful entrepreneur probably recommended themselves for the new manager position.,themselves,salesmen,entrepreneur
+24,pl,pl,gram,int,The effective salesmen who worked for the successful entrepreneurs probably recommended themselves for the new manager position.,themselves,salesmen,entrepreneurs
+25,sing,sing,gram,int,The charming butcher who served the picky chef actually burned himself in the kitchen.,himself,butcher,chef
+25,pl,sing,gram,unint,The charming butcher who served the picky chefs actually burned himself in the kitchen.,himself,butcher,chefs
+25,sing,sing,ungram,unint,The charming butcher who served the picky chef actually burned themselves in the kitchen.,themselves,butcher,chef
+25,pl,sing,ungram,int,The charming butcher who served the picky chefs actually burned themselves in the kitchen.,themselves,butcher,chefs
+25,sing,pl,ungram,int,The charming butchers who served the picky chef actually burned himself in the kitchen.,himself,butchers,chef
+25,pl,pl,ungram,unint,The charming butchers who served the picky chefs actually burned himself in the kitchen.,himself,butchers,chefs
+25,sing,pl,gram,unint,The charming butchers who served the picky chef actually burned themselves in the kitchen.,themselves,butchers,chef
+25,pl,pl,gram,int,The charming butchers who served the picky chefs actually burned themselves in the kitchen.,themselves,butchers,chefs
+26,sing,sing,gram,int,The hilarious clown who entertained the circus lion-tamer likely slapped himself for a quick laugh.,himself,clown,tamer
+26,pl,sing,gram,unint,The hilarious clown who entertained the circus lion-tamers likely slapped himself for a quick laugh.,himself,clown,tamers
+26,sing,sing,ungram,unint,The hilarious clown who entertained the circus lion-tamer likely slapped themselves for a quick laugh.,themselves,clown,tamer
+26,pl,sing,ungram,int,The hilarious clown who entertained the circus lion-tamers likely slapped themselves for a quick laugh.,themselves,clown,tamers
+26,sing,pl,ungram,int,The hilarious clowns who entertained the circus lion-tamer likely slapped himself for a quick laugh.,himself,clowns,tamer
+26,pl,pl,ungram,unint,The hilarious clowns who entertained the circus lion-tamers likely slapped himself for a quick laugh.,himself,clowns,tamers
+26,sing,pl,gram,unint,The hilarious clowns who entertained the circus lion-tamer likely slapped themselves for a quick laugh.,themselves,clowns,tamer
+26,pl,pl,gram,int,The hilarious clowns who entertained the circus lion-tamers likely slapped themselves for a quick laugh.,themselves,clowns,tamers
+27,sing,sing,gram,int,The wealthy heiress who yelled at the lazy maid undeniably ruined herself in an embezzlement scandal.,herself,heiress,maid
+27,pl,sing,gram,unint,The wealthy heiress who yelled at the lazy maids undeniably ruined herself in an embezzlement scandal.,herself,heiress,maids
+27,sing,sing,ungram,unint,The wealthy heiress who yelled at the lazy maid undeniably ruined themselves in an embezzlement scandal.,themselves,heiress,maid
+27,pl,sing,ungram,int,The wealthy heiress who yelled at the lazy maids undeniably ruined themselves in an embezzlement scandal.,themselves,heiress,maids
+27,sing,pl,ungram,int,The wealthy heiresses who yelled at the lazy maid undeniably ruined herself in an embezzlement scandal.,herself,heiresses,maid
+27,pl,pl,ungram,unint,The wealthy heiresses who yelled at the lazy maids undeniably ruined herself in an embezzlement scandal.,herself,heiresses,maids
+27,sing,pl,gram,unint,The wealthy heiresses who yelled at the lazy maid undeniably ruined themselves in an embezzlement scandal.,themselves,heiresses,maid
+27,pl,pl,gram,int,The wealthy heiresses who yelled at the lazy maids undeniably ruined themselves in an embezzlement scandal.,themselves,heiresses,maids
+28,sing,sing,gram,int,The cruel hunter who accompanied the accurate sharpshooter surely shot himself in the left foot.,himself,hunter,sharpshooter
+28,pl,sing,gram,unint,The cruel hunter who accompanied the accurate sharpshooters surely shot himself in the left foot.,himself,hunter,sharpshooters
+28,sing,sing,ungram,unint,The cruel hunter who accompanied the accurate sharpshooter surely shot themselves in the left foot.,themselves,hunter,sharpshooter
+28,pl,sing,ungram,int,The cruel hunter who accompanied the accurate sharpshooters surely shot themselves in the left foot.,themselves,hunter,sharpshooters
+28,sing,pl,ungram,int,The cruel hunters who accompanied the accurate sharpshooter surely shot himself in the left foot.,himself,hunters,sharpshooter
+28,pl,pl,ungram,unint,The cruel hunters who accompanied the accurate sharpshooters surely shot himself in the left foot.,himself,hunters,sharpshooters
+28,sing,pl,gram,unint,The cruel hunters who accompanied the accurate sharpshooter surely shot themselves in the left foot.,themselves,hunters,sharpshooter
+28,pl,pl,gram,int,The cruel hunters who accompanied the accurate sharpshooters surely shot themselves in the left foot.,themselves,hunters,sharpshooters
+29,sing,sing,gram,int,The successful businessman who scolded the teenage bellhop allegedly locked himself in a penthouse room all alone.,himself,businessman,bellhop
+29,pl,sing,gram,unint,The successful businessman who scolded the teenage bellhops allegedly locked himself in a penthouse room all alone.,himself,businessman,bellhops
+29,sing,sing,ungram,unint,The successful businessman who scolded the teenage bellhop allegedly locked themselves in a penthouse room all alone.,themselves,businessman,bellhop
+29,pl,sing,ungram,int,The successful businessman who scolded the teenage bellhops allegedly locked themselves in a penthouse room all alone.,themselves,businessman,bellhops
+29,sing,pl,ungram,int,The successful businessmen who scolded the teenage bellhop allegedly locked himself in a penthouse room all alone.,himself,businessmen,bellhop
+29,pl,pl,ungram,unint,The successful businessmen who scolded the teenage bellhops allegedly locked himself in a penthouse room all alone.,himself,businessmen,bellhops
+29,sing,pl,gram,unint,The successful businessmen who scolded the teenage bellhop allegedly locked themselves in a penthouse room all alone.,themselves,businessmen,bellhop
+29,pl,pl,gram,int,The successful businessmen who scolded the teenage bellhops allegedly locked themselves in a penthouse room all alone.,themselves,businessmen,bellhops
+30,sing,sing,gram,int,The police officer who aided the brilliant detective reportedly disguised himself to get more information.,himself,officer,detective
+30,pl,sing,gram,unint,The police officer who aided the brilliant detectives reportedly disguised himself to get more information.,himself,officer,detectives
+30,sing,sing,ungram,unint,The police officer who aided the brilliant detective reportedly disguised themselves to get more information.,themselves,officer,detective
+30,pl,sing,ungram,int,The police officer who aided the brilliant detectives reportedly disguised themselves to get more information.,themselves,officer,detectives
+30,sing,pl,ungram,int,The police officers who aided the brilliant detective reportedly disguised himself to get more information.,himself,officers,detective
+30,pl,pl,ungram,unint,The police officers who aided the brilliant detectives reportedly disguised himself to get more information.,himself,officers,detectives
+30,sing,pl,gram,unint,The police officers who aided the brilliant detective reportedly disguised themselves to get more information.,themselves,officers,detective
+30,pl,pl,gram,int,The police officers who aided the brilliant detectives reportedly disguised themselves to get more information.,themselves,officers,detectives
+31,sing,sing,gram,int,The old rancher who listened to the dishonest salesman unsurprisingly isolated himself in a huge ranch on the hill.,himself,rancher,salesman
+31,pl,sing,gram,unint,The old rancher who listened to the dishonest salesmen unsurprisingly isolated himself in a huge ranch on the hill.,himself,rancher,salesmen
+31,sing,sing,ungram,unint,The old rancher who listened to the dishonest salesman unsurprisingly isolated themselves in a huge ranch on the hill.,themselves,rancher,salesman
+31,pl,sing,ungram,int,The old rancher who listened to the dishonest salesmen unsurprisingly isolated themselves in a huge ranch on the hill.,themselves,rancher,salesmen
+31,sing,pl,ungram,int,The old ranchers who listened to the dishonest salesman unsurprisingly isolated himself in a huge ranch on the hill.,himself,ranchers,salesman
+31,pl,pl,ungram,unint,The old ranchers who listened to the dishonest salesmen unsurprisingly isolated himself in a huge ranch on the hill.,himself,ranchers,salesmen
+31,sing,pl,gram,unint,The old ranchers who listened to the dishonest salesman unsurprisingly isolated themselves in a huge ranch on the hill.,themselves,ranchers,salesman
+31,pl,pl,gram,int,The old ranchers who listened to the dishonest salesmen unsurprisingly isolated themselves in a huge ranch on the hill.,themselves,ranchers,salesmen
+32,sing,sing,gram,int,The meek boxer who trained with the persistent coach shockingly wounded himself in a recent scuffle.,himself,boxer,coach
+32,pl,sing,gram,unint,The meek boxer who trained with the persistent coaches shockingly wounded himself in a recent scuffle.,himself,boxer,coaches
+32,sing,sing,ungram,unint,The meek boxer who trained with the persistent coach shockingly wounded themselves in a recent scuffle.,themselves,boxer,coach
+32,pl,sing,ungram,int,The meek boxer who trained with the persistent coaches shockingly wounded themselves in a recent scuffle.,themselves,boxer,coaches
+32,sing,pl,ungram,int,The meek boxers who trained with the persistent coach shockingly wounded himself in a recent scuffle.,himself,boxers,coach
+32,pl,pl,ungram,unint,The meek boxers who trained with the persistent coaches shockingly wounded himself in a recent scuffle.,himself,boxers,coaches
+32,sing,pl,gram,unint,The meek boxers who trained with the persistent coach shockingly wounded themselves in a recent scuffle.,themselves,boxers,coach
+32,pl,pl,gram,int,The meek boxers who trained with the persistent coaches shockingly wounded themselves in a recent scuffle.,themselves,boxers,coaches
+33,sing,sing,gram,int,The amateur bodybuilder who worked with the personal trainer amazingly injured himself on the lightest weights.,himself,bodybuilder,trainer
+33,pl,sing,gram,unint,The amateur bodybuilder who worked with the personal trainers amazingly injured himself on the lightest weights.,himself,bodybuilder,trainers
+33,sing,sing,ungram,unint,The amateur bodybuilder who worked with the personal trainer amazingly injured themselves on the lightest weights.,themselves,bodybuilder,trainer
+33,pl,sing,ungram,int,The amateur bodybuilder who worked with the personal trainers amazingly injured themselves on the lightest weights.,themselves,bodybuilder,trainers
+33,sing,pl,ungram,int,The amateur bodybuilders who worked with the personal trainer amazingly injured himself on the lightest weights.,himself,bodybuilders,trainer
+33,pl,pl,ungram,unint,The amateur bodybuilders who worked with the personal trainers amazingly injured himself on the lightest weights.,himself,bodybuilders,trainers
+33,sing,pl,gram,unint,The amateur bodybuilders who worked with the personal trainer amazingly injured themselves on the lightest weights.,themselves,bodybuilders,trainer
+33,pl,pl,gram,int,The amateur bodybuilders who worked with the personal trainers amazingly injured themselves on the lightest weights.,themselves,bodybuilders,trainers
+34,sing,sing,gram,int,The basketball coach who trained the star player usually blamed himself for the team's poor performance.,himself,coach,player
+34,pl,sing,gram,unint,The basketball coach who trained the star players usually blamed himself for the team's poor performance.,himself,coach,players
+34,sing,sing,ungram,unint,The basketball coach who trained the star player usually blamed themselves for the team's poor performance.,themselves,coach,player
+34,pl,sing,ungram,int,The basketball coach who trained the star players usually blamed themselves for the team's poor performance.,themselves,coach,players
+34,sing,pl,ungram,int,The basketball coaches who trained the star player usually blamed himself for the team's poor performance.,himself,coaches,player
+34,pl,pl,ungram,unint,The basketball coaches who trained the star players usually blamed himself for the team's poor performance.,himself,coaches,players
+34,sing,pl,gram,unint,The basketball coaches who trained the star player usually blamed themselves for the team's poor performance.,themselves,coaches,player
+34,pl,pl,gram,int,The basketball coaches who trained the star players usually blamed themselves for the team's poor performance.,themselves,coaches,players
+35,sing,sing,gram,int,The young caddy who escorted the experienced golfer supposedly dirtied himself by falling in the sand.,himself,caddy,golfer
+35,pl,sing,gram,unint,The young caddy who escorted the experienced golfers supposedly dirtied himself by falling in the sand.,himself,caddy,golfers
+35,sing,sing,ungram,unint,The young caddy who escorted the experienced golfer supposedly dirtied themselves by falling in the sand.,themselves,caddy,golfer
+35,pl,sing,ungram,int,The young caddy who escorted the experienced golfers supposedly dirtied themselves by falling in the sand.,themselves,caddy,golfers
+35,sing,pl,ungram,int,The young caddies who escorted the experienced golfer supposedly dirtied himself by falling in the sand.,himself,caddies,golfer
+35,pl,pl,ungram,unint,The young caddies who escorted the experienced golfers supposedly dirtied himself by falling in the sand.,himself,caddies,golfers
+35,sing,pl,gram,unint,The young caddies who escorted the experienced golfer supposedly dirtied themselves by falling in the sand.,themselves,caddies,golfer
+35,pl,pl,gram,int,The young caddies who escorted the experienced golfers supposedly dirtied themselves by falling in the sand.,themselves,caddies,golfers
+36,sing,sing,gram,int,The construction worker who argued with the shift leader undeniably hurt himself on the construction site.,himself,worker,leader
+36,pl,sing,gram,unint,The construction worker who argued with the shift leaders undeniably hurt himself on the construction site.,himself,worker,leaders
+36,sing,sing,ungram,unint,The construction worker who argued with the shift leader undeniably hurt themselves on the construction site.,themselves,worker,leader
+36,pl,sing,ungram,int,The construction worker who argued with the shift leaders undeniably hurt themselves on the construction site.,themselves,worker,leaders
+36,sing,pl,ungram,int,The construction workers who argued with the shift leader undeniably hurt himself on the construction site.,himself,workers,leader
+36,pl,pl,ungram,unint,The construction workers who argued with the shift leaders undeniably hurt himself on the construction site.,himself,workers,leaders
+36,sing,pl,gram,unint,The construction workers who argued with the shift leader undeniably hurt themselves on the construction site.,themselves,workers,leader
+36,pl,pl,gram,int,The construction workers who argued with the shift leaders undeniably hurt themselves on the construction site.,themselves,workers,leaders
+37,sing,sing,gram,int,The grimy blacksmith who worked for the royal knight evidently hurt himself with the sharp tools.,himself,blacksmith,knight
+37,pl,sing,gram,unint,The grimy blacksmith who worked for the royal knights evidently hurt himself with the sharp tools.,himself,blacksmith,knights
+37,sing,sing,ungram,unint,The grimy blacksmith who worked for the royal knight evidently hurt themselves with the sharp tools.,themselves,blacksmith,knight
+37,pl,sing,ungram,int,The grimy blacksmith who worked for the royal knights evidently hurt themselves with the sharp tools.,themselves,blacksmith,knights
+37,sing,pl,ungram,int,The grimy blacksmiths who worked for the royal knight evidently hurt himself with the sharp tools.,himself,blacksmiths,knight
+37,pl,pl,ungram,unint,The grimy blacksmiths who worked for the royal knights evidently hurt himself with the sharp tools.,himself,blacksmiths,knights
+37,sing,pl,gram,unint,The grimy blacksmiths who worked for the royal knight evidently hurt themselves with the sharp tools.,themselves,blacksmiths,knight
+37,pl,pl,gram,int,The grimy blacksmiths who worked for the royal knights evidently hurt themselves with the sharp tools.,themselves,blacksmiths,knights
+38,sing,sing,gram,int,The paranoid foreman who supervised the coal miner presumably saved himself after the awful cave-in.,himself,foreman,miner
+38,pl,sing,gram,unint,The paranoid foreman who supervised the coal miners presumably saved himself after the awful cave-in.,himself,foreman,miners
+38,sing,sing,ungram,unint,The paranoid foreman who supervised the coal miner presumably saved themselves after the awful cave-in.,themselves,foreman,miner
+38,pl,sing,ungram,int,The paranoid foreman who supervised the coal miners presumably saved themselves after the awful cave-in.,themselves,foreman,miners
+38,sing,pl,ungram,int,The paranoid foremen who supervised the coal miner presumably saved himself after the awful cave-in.,himself,foremen,miner
+38,pl,pl,ungram,unint,The paranoid foremen who supervised the coal miners presumably saved himself after the awful cave-in.,himself,foremen,miners
+38,sing,pl,gram,unint,The paranoid foremen who supervised the coal miner presumably saved themselves after the awful cave-in.,themselves,foremen,miner
+38,pl,pl,gram,int,The paranoid foremen who supervised the coal miners presumably saved themselves after the awful cave-in.,themselves,foremen,miners
+39,sing,sing,gram,int,The serious general who advised the new corporal seemingly committed himself to the training regimen.,himself,general,corporal
+39,pl,sing,gram,unint,The serious general who advised the new corporals seemingly committed himself to the training regimen.,himself,general,corporals
+39,sing,sing,ungram,unint,The serious general who advised the new corporal seemingly committed themselves to the training regimen.,themselves,general,corporal
+39,pl,sing,ungram,int,The serious general who advised the new corporals seemingly committed themselves to the training regimen.,themselves,general,corporals
+39,sing,pl,ungram,int,The serious generals who advised the new corporal seemingly committed himself to the training regimen.,himself,generals,corporal
+39,pl,pl,ungram,unint,The serious generals who advised the new corporals seemingly committed himself to the training regimen.,himself,generals,corporals
+39,sing,pl,gram,unint,The serious generals who advised the new corporal seemingly committed themselves to the training regimen.,themselves,generals,corporal
+39,pl,pl,gram,int,The serious generals who advised the new corporals seemingly committed themselves to the training regimen.,themselves,generals,corporals
+40,sing,sing,gram,int,The new executive who oversaw the middle manager apparently doubted himself on most major decisions.,himself,executive,manager
+40,pl,sing,gram,unint,The new executive who oversaw the middle managers apparently doubted himself on most major decisions.,himself,executive,managers
+40,sing,sing,ungram,unint,The new executive who oversaw the middle manager apparently doubted themselves on most major decisions.,themselves,executive,manager
+40,pl,sing,ungram,int,The new executive who oversaw the middle managers apparently doubted themselves on most major decisions.,themselves,executive,managers
+40,sing,pl,ungram,int,The new executives who oversaw the middle manager apparently doubted himself on most major decisions.,himself,executives,manager
+40,pl,pl,ungram,unint,The new executives who oversaw the middle managers apparently doubted himself on most major decisions.,himself,executives,managers
+40,sing,pl,gram,unint,The new executives who oversaw the middle manager apparently doubted themselves on most major decisions.,themselves,executives,manager
+40,pl,pl,gram,int,The new executives who oversaw the middle managers apparently doubted themselves on most major decisions.,themselves,executives,managers
+41,sing,sing,gram,int,The popular sheriff who campaigned for the incumbent politician never prepared himself for the new press briefing.,himself,sheriff,politician
+41,pl,sing,gram,unint,The popular sheriff who campaigned for the incumbent politicians never prepared himself for the new press briefing.,himself,sheriff,politicians
+41,sing,sing,ungram,unint,The popular sheriff who campaigned for the incumbent politician never prepared themselves for the new press briefing.,themselves,sheriff,politician
+41,pl,sing,ungram,int,The popular sheriff who campaigned for the incumbent politicians never prepared themselves for the new press briefing.,themselves,sheriff,politicians
+41,sing,pl,ungram,int,The popular sheriffs who campaigned for the incumbent politician never prepared himself for the new press briefing.,himself,sheriffs,politician
+41,pl,pl,ungram,unint,The popular sheriffs who campaigned for the incumbent politicians never prepared himself for the new press briefing.,himself,sheriffs,politicians
+41,sing,pl,gram,unint,The popular sheriffs who campaigned for the incumbent politician never prepared themselves for the new press briefing.,themselves,sheriffs,politician
+41,pl,pl,gram,int,The popular sheriffs who campaigned for the incumbent politicians never prepared themselves for the new press briefing.,themselves,sheriffs,politicians
+42,sing,sing,gram,int,The somber minister who conversed with the religious scholar usually presented himself as very open-minded.,himself,minister,scholar
+42,pl,sing,gram,unint,The somber minister who conversed with the religious scholars usually presented himself as very open-minded.,himself,minister,scholars
+42,sing,sing,ungram,unint,The somber minister who conversed with the religious scholar usually presented themselves as very open-minded.,themselves,minister,scholar
+42,pl,sing,ungram,int,The somber minister who conversed with the religious scholars usually presented themselves as very open-minded.,themselves,minister,scholars
+42,sing,pl,ungram,int,The somber ministers who conversed with the religious scholar usually presented himself as very open-minded.,himself,ministers,scholar
+42,pl,pl,ungram,unint,The somber ministers who conversed with the religious scholars usually presented himself as very open-minded.,himself,ministers,scholars
+42,sing,pl,gram,unint,The somber ministers who conversed with the religious scholar usually presented themselves as very open-minded.,themselves,ministers,scholar
+42,pl,pl,gram,int,The somber ministers who conversed with the religious scholars usually presented themselves as very open-minded.,themselves,ministers,scholars
+43,sing,sing,gram,int,The rich CEO who employed the expensive chauffeur typically amused himself by requesting the scenic route.,himself,CEO,chauffeur
+43,pl,sing,gram,unint,The rich CEO who employed the expensive chauffeurs typically amused himself by requesting the scenic route.,himself,CEO,chauffeurs
+43,sing,sing,ungram,unint,The rich CEO who employed the expensive chauffeur typically amused themselves by requesting the scenic route.,themselves,CEO,chauffeur
+43,pl,sing,ungram,int,The rich CEO who employed the expensive chauffeurs typically amused themselves by requesting the scenic route.,themselves,CEO,chauffeurs
+43,sing,pl,ungram,int,The rich CEOs who employed the expensive chauffeur typically amused himself by requesting the scenic route.,himself,CEOs,chauffeur
+43,pl,pl,ungram,unint,The rich CEOs who employed the expensive chauffeurs typically amused himself by requesting the scenic route.,himself,CEOs,chauffeurs
+43,sing,pl,gram,unint,The rich CEOs who employed the expensive chauffeur typically amused themselves by requesting the scenic route.,themselves,CEOs,chauffeur
+43,pl,pl,gram,int,The rich CEOs who employed the expensive chauffeurs typically amused themselves by requesting the scenic route.,themselves,CEOs,chauffeurs
+44,sing,sing,gram,int,The handy plumber who helped the absentminded homeowner probably drenched himself when the pipes burst.,himself,plumber,homeowner
+44,pl,sing,gram,unint,The handy plumber who helped the absentminded homeowners probably drenched himself when the pipes burst.,himself,plumber,homeowners
+44,sing,sing,ungram,unint,The handy plumber who helped the absentminded homeowner probably drenched themselves when the pipes burst.,themselves,plumber,homeowner
+44,pl,sing,ungram,int,The handy plumber who helped the absentminded homeowners probably drenched themselves when the pipes burst.,themselves,plumber,homeowners
+44,sing,pl,ungram,int,The handy plumbers who helped the absentminded homeowner probably drenched himself when the pipes burst.,himself,plumbers,homeowner
+44,pl,pl,ungram,unint,The handy plumbers who helped the absentminded homeowners probably drenched himself when the pipes burst.,himself,plumbers,homeowners
+44,sing,pl,gram,unint,The handy plumbers who helped the absentminded homeowner probably drenched themselves when the pipes burst.,themselves,plumbers,homeowner
+44,pl,pl,gram,int,The handy plumbers who helped the absentminded homeowners probably drenched themselves when the pipes burst.,themselves,plumbers,homeowners
+45,sing,sing,gram,int,The elderly doctor who treated the tough soldier usually cleaned himself after every single appointment.,himself,doctor,soldier
+45,pl,sing,gram,unint,The elderly doctor who treated the tough soldiers usually cleaned himself after every single appointment.,himself,doctor,soldiers
+45,sing,sing,ungram,unint,The elderly doctor who treated the tough soldier usually cleaned themselves after every single appointment.,themselves,doctor,soldier
+45,pl,sing,ungram,int,The elderly doctor who treated the tough soldiers usually cleaned themselves after every single appointment.,themselves,doctor,soldiers
+45,sing,pl,ungram,int,The elderly doctors who treated the tough soldier usually cleaned himself after every single appointment.,himself,doctors,soldier
+45,pl,pl,ungram,unint,The elderly doctors who treated the tough soldiers usually cleaned himself after every single appointment.,himself,doctors,soldiers
+45,sing,pl,gram,unint,The elderly doctors who treated the tough soldier usually cleaned themselves after every single appointment.,themselves,doctors,soldier
+45,pl,pl,gram,int,The elderly doctors who treated the tough soldiers usually cleaned themselves after every single appointment.,themselves,doctors,soldiers
+46,sing,sing,gram,int,The football referee who argued with the large quarterback surprisingly excused himself from the important game.,himself,referee,quarterback
+46,pl,sing,gram,unint,The football referee who argued with the large quarterbacks surprisingly excused himself from the important game.,himself,referee,quarterbacks
+46,sing,sing,ungram,unint,The football referee who argued with the large quarterback surprisingly excused themselves from the important game.,themselves,referee,quarterback
+46,pl,sing,ungram,int,The football referee who argued with the large quarterbacks surprisingly excused themselves from the important game.,themselves,referee,quarterbacks
+46,sing,pl,ungram,int,The football referees who argued with the large quarterback surprisingly excused himself from the important game.,himself,referees,quarterback
+46,pl,pl,ungram,unint,The football referees who argued with the large quarterbacks surprisingly excused himself from the important game.,himself,referees,quarterbacks
+46,sing,pl,gram,unint,The football referees who argued with the large quarterback surprisingly excused themselves from the important game.,themselves,referees,quarterback
+46,pl,pl,gram,int,The football referees who argued with the large quarterbacks surprisingly excused themselves from the important game.,themselves,referees,quarterbacks
+47,sing,sing,gram,int,The rough woodsman who helped the tired hiker evidently secluded himself from the outside world.,himself,woodsman,hiker
+47,pl,sing,gram,unint,The rough woodsman who helped the tired hikers evidently secluded himself from the outside world.,himself,woodsman,hikers
+47,sing,sing,ungram,unint,The rough woodsman who helped the tired hiker evidently secluded themselves from the outside world.,themselves,woodsman,hiker
+47,pl,sing,ungram,int,The rough woodsman who helped the tired hikers evidently secluded themselves from the outside world.,themselves,woodsman,hikers
+47,sing,pl,ungram,int,The rough woodsmen who helped the tired hiker evidently secluded himself from the outside world.,himself,woodsmen,hiker
+47,pl,pl,ungram,unint,The rough woodsmen who helped the tired hikers evidently secluded himself from the outside world.,himself,woodsmen,hikers
+47,sing,pl,gram,unint,The rough woodsmen who helped the tired hiker evidently secluded themselves from the outside world.,themselves,woodsmen,hiker
+47,pl,pl,gram,int,The rough woodsmen who helped the tired hikers evidently secluded themselves from the outside world.,themselves,woodsmen,hikers
+48,sing,sing,gram,int,The slick politician who avoided the persistent journalist reportedly described himself as typically conservative.,himself,politician,journalist
+48,pl,sing,gram,unint,The slick politician who avoided the persistent journalists reportedly described himself as typically conservative.,himself,politician,journalists
+48,sing,sing,ungram,unint,The slick politician who avoided the persistent journalist reportedly described themselves as typically conservative.,themselves,politician,journalist
+48,pl,sing,ungram,int,The slick politician who avoided the persistent journalists reportedly described themselves as typically conservative.,themselves,politician,journalists
+48,sing,pl,ungram,int,The slick politicians who avoided the persistent journalist reportedly described himself as typically conservative.,himself,politicians,journalist
+48,pl,pl,ungram,unint,The slick politicians who avoided the persistent journalists reportedly described himself as typically conservative.,himself,politicians,journalists
+48,sing,pl,gram,unint,The slick politicians who avoided the persistent journalist reportedly described themselves as typically conservative.,themselves,politicians,journalist
+48,pl,pl,gram,int,The slick politicians who avoided the persistent journalists reportedly described themselves as typically conservative.,themselves,politicians,journalists
