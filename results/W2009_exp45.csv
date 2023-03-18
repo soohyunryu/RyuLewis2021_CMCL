@@ -1,0 +1,97 @@
+,attn_to_target,crit,distractor,entropy,grammaticality,id,interference,sentence,subject,surprisal,verb
+0,0.38357725739479065,were,pl,1.8613611911030206,ungram,1.0,int,The slogan on the posters were designed to get attention,sing,7.391390800476074,pl
+1,0.6221439838409424,was,pl,1.1124683634951797,gram,1.0,unint,The slogan on the posters was designed to get attention,sing,3.1441402435302734,sing
+2,0.48135173320770264,were,sing,1.6914180027291472,ungram,1.0,unint,The slogan on the poster were designed to get attention,sing,11.37163257598877,pl
+3,0.6721990704536438,was,sing,1.17669297887076,gram,1.0,int,The slogan on the poster was designed to get attention,sing,3.3633835315704346,sing
+4,0.536112368106842,were,pl,1.9865859174984881,ungram,2.0,int,The picture on the fliers were of a village church in the south of France.,sing,7.804189205169678,pl
+5,0.9389935731887817,was,pl,0.44060536026011876,gram,2.0,unint,The picture on the fliers was of a village church in the south of France.,sing,3.6087043285369873,sing
+6,0.677904486656189,were,sing,1.670589980727905,ungram,2.0,unint,The picture on the flier were of a village church in the south of France.,sing,11.068314552307129,pl
+7,0.8801432251930237,was,sing,0.7807855193346543,gram,2.0,int,The picture on the flier was of a village church in the south of France.,sing,3.680567741394043,sing
+8,0.507370114326477,were,pl,1.9260773386487724,ungram,3.0,int,The mistake in the programs were disastrous for the small software company.,sing,7.284150123596191,pl
+9,0.827775776386261,was,pl,0.8350411518176524,gram,3.0,unint,The mistake in the programs was disastrous for the small software company.,sing,2.6464195251464844,sing
+10,0.6199923157691956,were,sing,1.563523139347046,ungram,3.0,unint,The mistake in the program were disastrous for the small software company.,sing,10.696142196655273,pl
+11,0.843490719795227,was,sing,0.827403352394688,gram,3.0,int,The mistake in the program was disastrous for the small software company.,sing,1.8176661729812622,sing
+12,0.21494033932685852,were,pl,1.4369548635722826,ungram,4.0,int,The label on the containers were a warning about the hazardous chemicals inside.,sing,6.568609714508057,pl
+13,0.5004457831382751,was,pl,1.1624476110997854,gram,4.0,unint,The label on the containers was a warning about the hazardous chemicals inside.,sing,3.4510293006896973,sing
+14,0.2447543889284134,were,sing,1.415544443973494,ungram,4.0,unint,The label on the container were a warning about the hazardous chemicals inside.,sing,12.676955223083496,pl
+15,0.46810969710350037,was,sing,1.2489595461453609,gram,4.0,int,The label on the container was a warning about the hazardous chemicals inside.,sing,4.16221284866333,sing
+16,0.20301435887813568,were,pl,2.218660564571087,ungram,5.0,int,The problem in the stores were solved by firing the custodian.,sing,8.40957260131836,pl
+17,0.6782184839248657,was,pl,1.3419815868701381,gram,5.0,unint,The problem in the stores was solved by firing the custodian.,sing,3.750058889389038,sing
+18,0.32620468735694885,were,sing,2.0229327374206676,ungram,5.0,unint,The problem in the store were solved by firing the custodian.,sing,9.638589859008789,pl
+19,0.6764516830444336,was,sing,1.420382748402979,gram,5.0,int,The problem in the store was solved by firing the custodian.,sing,3.448392152786255,sing
+20,0.2593989968299866,were,pl,2.1014852185908537,ungram,6.0,int,The name on the billboards were of a prominent local businessman.,sing,8.592059135437012,pl
+21,0.6064223647117615,was,pl,1.2927134399248659,gram,6.0,unint,The name on the billboards was of a prominent local businessman.,sing,3.2830405235290527,sing
+22,0.3291833698749542,were,sing,1.9933606205726075,ungram,6.0,unint,The name on the billboard were of a prominent local businessman.,sing,11.929694175720215,pl
+23,0.4660811126232147,was,sing,1.6529723856162284,gram,6.0,int,The name on the billboard was of a prominent local businessman.,sing,3.2134592533111572,sing
+24,0.5096196532249451,were,pl,1.8007266204927077,ungram,7.0,int,The crime in the suburbs were a reflection of the violence in today's society.,sing,9.364444732666016,pl
+25,0.8601611256599426,was,pl,0.7580555564456629,gram,7.0,unint,The crime in the suburbs was a reflection of the violence in today's society.,sing,3.1436474323272705,sing
+26,0.5044562220573425,were,sing,1.7451993221399404,ungram,7.0,unint,The crime in the suburb were a reflection of the violence in today's society.,sing,11.090779304504395,pl
+27,0.8380477428436279,was,sing,0.8401893238060276,gram,7.0,int,The crime in the suburb was a reflection of the violence in today's society.,sing,3.389754056930542,sing
+28,0.25896868109703064,were,pl,1.6620652316436595,ungram,8.0,int,The defect in the appliances were unknown to consumers and government regulators.,sing,6.548388957977295,pl
+29,0.45047178864479065,was,pl,1.1568447120381455,gram,8.0,unint,The defect in the appliances was unknown to consumers and government regulators.,sing,2.930138111114502,sing
+30,0.2683780789375305,were,sing,1.4588670744983558,ungram,8.0,unint,The defect in the appliance were unknown to consumers and government regulators.,sing,9.201078414916992,pl
+31,0.47647932171821594,was,sing,1.243958041386386,gram,8.0,int,The defect in the appliance was unknown to consumers and government regulators.,sing,2.908857583999634,sing
+32,0.2761794626712799,were,pl,2.280831269997285,ungram,9.0,int,The citation on the notecards were quite difficult to track down using the library's limited resources.,sing,8.443316459655762,pl
+33,0.8949905037879944,was,pl,0.5932054456146885,gram,9.0,unint,The citation on the notecards was quite difficult to track down using the library's limited resources.,sing,4.9950337409973145,sing
+34,0.4041646420955658,were,sing,2.367770521514587,ungram,9.0,unint,The citation on the notecard were quite difficult to track down using the library's limited resources.,sing,12.136941909790039,pl
+35,0.8526854515075684,was,sing,0.9094120893320249,gram,9.0,int,The citation on the notecard was quite difficult to track down using the library's limited resources.,sing,4.885394096374512,sing
+36,0.3186906576156616,were,pl,2.1420926221986494,ungram,10.0,int,The advertisement on the skyscrapers were hard to read except from a long distance away.,sing,7.612805366516113,pl
+37,0.644999086856842,was,pl,1.2401707740745906,gram,10.0,unint,The advertisement on the skyscrapers was hard to read except from a long distance away.,sing,3.8900880813598633,sing
+38,0.3412850797176361,were,sing,1.797916159207053,ungram,10.0,unint,The advertisement on the skyscraper were hard to read except from a long distance away.,sing,11.103931427001953,pl
+39,0.5616325736045837,was,sing,1.318317326864859,gram,10.0,int,The advertisement on the skyscraper was hard to read except from a long distance away.,sing,4.413085460662842,sing
+40,0.6048182845115662,were,pl,1.4780172712267665,ungram,11.0,int,The traitor in the camps were passing information to the enemy through various secret methods.,sing,7.26205587387085,pl
+41,0.7725235223770142,was,pl,0.8733673790471947,gram,11.0,unint,The traitor in the camps was passing information to the enemy through various secret methods.,sing,2.848095178604126,sing
+42,0.6111059784889221,were,sing,1.4400532287382073,ungram,11.0,unint,The traitor in the camp were passing information to the enemy through various secret methods.,sing,9.204374313354492,pl
+43,0.7681193947792053,was,sing,0.9284631562607343,gram,11.0,int,The traitor in the camp was passing information to the enemy through various secret methods.,sing,2.898042678833008,sing
+44,0.3043780028820038,were,pl,2.2502056152468173,ungram,12.0,int,The flaw in the arguments were clear to everyone in the lecture hall after just five minutes.,sing,9.380003929138184,pl
+45,0.604509711265564,was,pl,1.4076578855785726,gram,12.0,unint,The flaw in the arguments was clear to everyone in the lecture hall after just five minutes.,sing,5.534295558929443,sing
+46,0.31056275963783264,were,sing,2.0425883797740134,ungram,12.0,unint,The flaw in the argument were clear to everyone in the lecture hall after just five minutes.,sing,11.665664672851562,pl
+47,0.5987774729728699,was,sing,1.5650892838570245,gram,12.0,int,The flaw in the argument was clear to everyone in the lecture hall after just five minutes.,sing,4.997536659240723,sing
+48,0.7334021925926208,were,pl,1.2312323680175408,ungram,13.0,int,The door to the laboratories were left unlocked by the cleaning service.,sing,7.266394138336182,pl
+49,0.9024978280067444,was,pl,0.5038573638710818,gram,13.0,unint,The door to the laboratories was left unlocked by the cleaning service.,sing,2.098241090774536,sing
+50,0.7362695336341858,were,sing,1.1965140305039945,ungram,13.0,unint,The door to the laboratory were left unlocked by the cleaning service.,sing,10.115852355957031,pl
+51,0.8852066993713379,was,sing,0.5899394335935314,gram,13.0,int,The door to the laboratory was left unlocked by the cleaning service.,sing,1.8854180574417114,sing
+52,0.5423240661621094,were,pl,1.7682205343808033,ungram,14.0,int,The memo from the supervisors were about the delinquent tax return.,sing,10.266413688659668,pl
+53,0.8803311586380005,was,pl,0.6261986932525488,gram,14.0,unint,The memo from the supervisors was about the delinquent tax return.,sing,4.8561530113220215,sing
+54,0.53803551197052,were,sing,1.6257361379407527,ungram,14.0,unint,The memo from the supervisor were about the delinquent tax return.,sing,12.450142860412598,pl
+55,0.7998179793357849,was,sing,0.9890356589658819,gram,14.0,int,The memo from the supervisor was about the delinquent tax return.,sing,4.919261932373047,sing
+56,0.23556703329086304,were,pl,2.320489104779376,ungram,15.0,int,The check from the stockbrokers were a dividend on a long-term bond.,sing,7.849842071533203,pl
+57,0.7143849730491638,was,pl,1.170839975221058,gram,15.0,unint,The check from the stockbrokers was a dividend on a long-term bond.,sing,3.4036970138549805,sing
+58,0.28217095136642456,were,sing,2.0322150458062054,ungram,15.0,unint,The check from the stockbroker were a dividend on a long-term bond.,sing,10.719335556030273,pl
+59,0.6579145789146423,was,sing,1.458608454412279,gram,15.0,int,The check from the stockbroker was a dividend on a long-term bond.,sing,3.3466124534606934,sing
+60,0.35762593150138855,were,pl,2.1912877992997086,ungram,16.0,int,The key to the cells were rusty from many years of disuse.,sing,8.257636070251465,pl
+61,0.5356053113937378,was,pl,1.4285728022129418,gram,16.0,unint,The key to the cells was rusty from many years of disuse.,sing,5.847787380218506,sing
+62,0.48058322072029114,were,sing,2.022400703554698,ungram,16.0,unint,The key to the cell were rusty from many years of disuse.,sing,11.607481956481934,pl
+63,0.5905423164367676,was,sing,1.5331401798629336,gram,16.0,int,The key to the cell was rusty from many years of disuse.,sing,5.951096534729004,sing
+64,0.4819280207157135,were,pl,1.8379757683729334,ungram,17.0,int,The letter from the investigators were received in San Francisco in late March.,sing,9.550057411193848,pl
+65,0.8689372539520264,was,pl,0.6675703492491896,gram,17.0,unint,The letter from the investigators was received in San Francisco in late March.,sing,4.264604091644287,sing
+66,0.5057969689369202,were,sing,1.5868286943708947,ungram,17.0,unint,The letter from the investigator were received in San Francisco in late March.,sing,12.019929885864258,pl
+67,0.7859261631965637,was,sing,1.0070137045442293,gram,17.0,int,The letter from the investigator was received in San Francisco in late March.,sing,4.379662036895752,sing
+68,0.6477822065353394,were,pl,1.5111564500751429,ungram,18.0,int,The entrance to the exhibits were hard to locate on the diagram.,sing,6.755675792694092,pl
+69,0.7995624542236328,was,pl,0.8159459319157999,gram,18.0,unint,The entrance to the exhibits was hard to locate on the diagram.,sing,3.6039299964904785,sing
+70,0.6584038138389587,were,sing,1.4572457148765077,ungram,18.0,unint,The entrance to the exhibit were hard to locate on the diagram.,sing,10.662141799926758,pl
+71,0.7776530981063843,was,sing,0.9297093448514313,gram,18.0,int,The entrance to the exhibit was hard to locate on the diagram.,sing,3.403042793273926,sing
+72,0.5133262872695923,were,pl,1.8656581020861802,ungram,19.0,int,The warning from the experts were a shock to the residents of the city.,sing,8.848431587219238,pl
+73,0.9077108502388,was,pl,0.5397271361904289,gram,19.0,unint,The warning from the experts was a shock to the residents of the city.,sing,3.604353427886963,sing
+74,0.7113590240478516,were,sing,1.385450744048144,ungram,19.0,unint,The warning from the expert were a shock to the residents of the city.,sing,11.00189208984375,pl
+75,0.8698675632476807,was,sing,0.7495411598423937,gram,19.0,int,The warning from the expert was a shock to the residents of the city.,sing,4.618193626403809,sing
+76,0.4564489722251892,were,pl,1.7212991850717754,ungram,20.0,int,The bridge to the islands were about ten miles off the main highway.,sing,7.6365203857421875,pl
+77,0.6801143288612366,was,pl,1.0314720179357666,gram,20.0,unint,The bridge to the islands was about ten miles off the main highway.,sing,2.7961854934692383,sing
+78,0.47852012515068054,were,sing,1.5822619859935287,ungram,20.0,unint,The bridge to the island were about ten miles off the main highway.,sing,9.927481651306152,pl
+79,0.6580708026885986,was,sing,1.0835087614865098,gram,20.0,int,The bridge to the island was about ten miles off the main highway.,sing,2.7422280311584473,sing
+80,0.6852441430091858,were,pl,1.4887273074994058,ungram,21.0,int,The gift from the visitors were a beautiful clock from Germany.,sing,7.0410284996032715,pl
+81,0.8417552709579468,was,pl,0.7341660839159052,gram,21.0,unint,The gift from the visitors was a beautiful clock from Germany.,sing,3.0098214149475098,sing
+82,0.7202954888343811,were,sing,1.2990006111912822,ungram,21.0,unint,The gift from the visitor were a beautiful clock from Germany.,sing,9.752129554748535,pl
+83,0.8198999762535095,was,sing,0.8422308209102868,gram,21.0,int,The gift from the visitor was a beautiful clock from Germany.,sing,3.569174289703369,sing
+84,0.3683421015739441,were,pl,1.9640171194854579,ungram,22.0,int,The path to the monuments were lined with lovely trees and flowers.,sing,6.9229960441589355,pl
+85,0.7670777440071106,was,pl,0.885617155814326,gram,22.0,unint,The path to the monuments was lined with lovely trees and flowers.,sing,3.792901039123535,sing
+86,0.49856626987457275,were,sing,1.6351878743170294,ungram,22.0,unint,The path to the monument were lined with lovely trees and flowers.,sing,10.130188941955566,pl
+87,0.7467415928840637,was,sing,0.9943318804262045,gram,22.0,int,The path to the monument was lined with lovely trees and flowers.,sing,3.053210735321045,sing
+88,0.5058713555335999,were,pl,1.9145864738550562,ungram,23.0,int,The message from the engineers were about the recent weakening to the building's structural supports.,sing,8.867210388183594,pl
+89,0.8429939150810242,was,pl,0.8296287231367965,gram,23.0,unint,The message from the engineers was about the recent weakening to the building's structural supports.,sing,2.9457902908325195,sing
+90,0.7706416845321655,were,sing,1.173977634535466,ungram,23.0,unint,The message from the engineer were about the recent weakening to the building's structural supports.,sing,11.344902992248535,pl
+91,0.8252015709877014,was,sing,0.9676348928647659,gram,23.0,int,The message from the engineer was about the recent weakening to the building's structural supports.,sing,3.0635499954223633,sing
+92,0.5057975053787231,were,pl,1.7929746210006554,ungram,24.0,int,The gate to the pastures were falling down due to disrepair.,sing,7.500828266143799,pl
+93,0.6739789843559265,was,pl,1.0280700514252505,gram,24.0,unint,The gate to the pastures was falling down due to disrepair.,sing,2.832960367202759,sing
+94,0.6756432056427002,were,sing,1.31788250553415,ungram,24.0,unint,The gate to the pasture were falling down due to disrepair.,sing,9.381570816040039,pl
+95,0.7232593894004822,was,sing,1.0212689808858684,gram,24.0,int,The gate to the pasture was falling down due to disrepair.,sing,2.6364502906799316,sing

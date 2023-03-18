@@ -1,0 +1,193 @@
+,attn_to_target,crit,distractor,entropy,grammaticality,id,interference,sentence,subject,surprisal,verb
+0,0.26593247056007385,was,pl,1.3745273567357652,gram,1.0,unint,The tall nurse who cared for the elderly widows definitely was reluctant to work long shifts.,sing,4.920628547668457,sing
+1,0.1156635731458664,were,pl,1.7297327209662203,ungram,1.0,int,The tall nurse who cared for the elderly widows definitely were reluctant to work long shifts.,sing,11.318625450134277,sing
+2,0.30702635645866394,was,sing,1.4955126814519817,gram,1.0,int,The tall nurse who cared for the elderly widow definitely was reluctant to work long shifts.,sing,4.867342948913574,sing
+3,0.11835040152072906,were,sing,1.6314355243374312,ungram,1.0,unint,The tall nurse who cared for the elderly widow definitely were reluctant to work long shifts.,sing,12.384432792663574,sing
+4,,was,pl,1.1961462469323918,gram,2.0,unint,The legendary diva who sang with the graceful harpists clearly was flawless on the high notes.,sing,6.15875768661499,sing
+5,,were,pl,1.6315137989866457,ungram,2.0,int,The legendary diva who sang with the graceful harpists clearly were flawless on the high notes.,sing,13.006187438964844,sing
+6,,was,sing,1.2750946198389623,gram,2.0,int,The legendary diva who sang with the graceful harpist clearly was flawless on the high notes.,sing,6.1615800857543945,sing
+7,,were,sing,1.4632494589055314,ungram,2.0,unint,The legendary diva who sang with the graceful harpist clearly were flawless on the high notes.,sing,14.209762573242188,sing
+8,,was,pl,1.2932223110545213,gram,3.0,unint,The nice beautician who advised the beauty queens probably was happy about having more business.,sing,5.418099403381348,sing
+9,,were,pl,2.690245112904323,ungram,3.0,int,The nice beautician who advised the beauty queens probably were happy about having more business.,sing,11.775128364562988,sing
+10,,was,sing,1.642380819883153,gram,3.0,int,The nice beautician who advised the beauty queen probably was happy about having more business.,sing,5.463623523712158,sing
+11,,were,sing,2.2615907615505475,ungram,3.0,unint,The nice beautician who advised the beauty queen probably were happy about having more business.,sing,12.28580379486084,sing
+12,,was,pl,1.5170471562764642,gram,4.0,unint,The talented hairdresser who worked with the friendly manicurists obviously was popular with the regular customers.,sing,5.796072483062744,sing
+13,,were,pl,1.816913385629163,ungram,4.0,int,The talented hairdresser who worked with the friendly manicurists obviously were popular with the regular customers.,sing,12.239087104797363,sing
+14,,was,sing,1.6480041495631306,gram,4.0,int,The talented hairdresser who worked with the friendly manicurist obviously was popular with the regular customers.,sing,5.869318008422852,sing
+15,,were,sing,1.6506114605288362,ungram,4.0,unint,The talented hairdresser who worked with the friendly manicurist obviously were popular with the regular customers.,sing,13.146720886230469,sing
+16,,was,pl,1.2644111333237946,gram,5.0,unint,The artsy florist who helped the elegant designers unfortunately was distraught over an upcoming funeral.,sing,7.270394325256348,sing
+17,,were,pl,2.531365539166459,ungram,5.0,int,The artsy florist who helped the elegant designers unfortunately were distraught over an upcoming funeral.,sing,9.05861759185791,sing
+18,,was,sing,1.4360732491861397,gram,5.0,int,The artsy florist who helped the elegant designer unfortunately was distraught over an upcoming funeral.,sing,7.324866771697998,sing
+19,,were,sing,2.1973195333095896,ungram,5.0,unint,The artsy florist who helped the elegant designer unfortunately were distraught over an upcoming funeral.,sing,10.72841739654541,sing
+20,,was,pl,1.3759332222281322,gram,6.0,unint,The nimble gymnast who studied with the female coaches certainly was unable to make a graceful landing.,sing,6.141213893890381,sing
+21,,were,pl,2.3314435914589895,ungram,6.0,int,The nimble gymnast who studied with the female coaches certainly were unable to make a graceful landing.,sing,11.087665557861328,sing
+22,,was,sing,1.4507325897821333,gram,6.0,int,The nimble gymnast who studied with the female coach certainly was unable to make a graceful landing.,sing,6.17999792098999,sing
+23,,were,sing,2.189510997815374,ungram,6.0,unint,The nimble gymnast who studied with the female coach certainly were unable to make a graceful landing.,sing,12.21126651763916,sing
+24,,was,pl,1.3593176194651144,gram,7.0,unint,The midwife who attended to the expectant mothers probably was committed to promoting natural childbirth.,sing,4.609498977661133,sing
+25,,were,pl,1.8960250778186925,ungram,7.0,int,The midwife who attended to the expectant mothers probably were committed to promoting natural childbirth.,sing,10.644796371459961,sing
+26,,was,sing,1.3593176194651144,gram,7.0,int,The midwife who attended to the expectant mothers probably was committed promoting natural childbirth.,sing,4.609498977661133,sing
+27,,were,sing,1.7459446574172923,ungram,7.0,unint,The midwife who attended to the expectant mother probably were committed to promoting natural childbirth.,sing,11.335412979125977,sing
+28,0.22054558992385864,was,pl,1.4457413776171033,gram,8.0,unint,The new mother who interviewed the teenage babysitters definitely was careful to do a full background check.,sing,6.406234264373779,sing
+29,0.12672533094882965,were,pl,2.0075534471152707,ungram,8.0,int,The new mother who interviewed the teenage babysitters definitely were careful to do a full background check.,sing,13.527582168579102,sing
+30,0.22054558992385864,was,sing,1.4457413776171033,gram,8.0,int,The new mother who interviewed the teenage babysitters definitely was careful careful to do a full background check.,sing,6.406234264373779,sing
+31,0.1351531445980072,were,sing,1.8503065919716613,ungram,8.0,unint,The new mother who interviewed the teenage babysitter definitely were careful to do a full background check.,sing,14.306740760803223,sing
+32,,was,pl,1.5581615280790047,gram,9.0,unint,The quick typist who assisted the female lawyers clearly was doubtful of the quality of the office computers.,sing,5.9926438331604,sing
+33,,were,pl,2.5154492121910494,ungram,9.0,int,The quick typist who assisted the female lawyers clearly were doubtful of the quality of the office computers.,sing,12.976152420043945,sing
+34,,was,sing,1.6420529690580645,gram,9.0,int,The quick typist who assisted the female lawyer clearly was doubtful of the quality of the office computers.,sing,6.12223482131958,sing
+35,,were,sing,2.1123235087696073,ungram,9.0,unint,The quick typist who assisted the female lawyer clearly were doubtful of the quality of the office computers.,sing,13.703692436218262,sing
+36,,was,pl,1.5796654744160399,gram,10.0,unint,The stern librarian who glared at the little girls probably was irritated about the unruly visitors.,sing,5.085005283355713,sing
+37,,were,pl,2.2624013601944584,ungram,10.0,int,The stern librarian who glared at the little girls probably were irritated about the unruly visitors.,sing,11.761872291564941,sing
+38,,was,sing,1.5796654744160399,gram,10.0,int,The stern librarian who glared at the little girls probably was irritated irritated about the unruly visitors.,sing,5.085005283355713,sing
+39,,were,sing,1.8162424847774281,ungram,10.0,unint,The stern librarian who glared at the little girl probably were irritated about the unruly visitors.,sing,12.36398983001709,sing
+40,0.20838485658168793,was,pl,1.327069694276924,gram,11.0,unint,The aging nun who taught the young choirgirls definitely was anxious to retire very soon.,sing,5.957458019256592,sing
+41,0.1614723801612854,were,pl,1.8620058372420265,ungram,11.0,int,The aging nun who taught the young choirgirls definitely were anxious to retire very soon.,sing,12.817645072937012,sing
+42,0.20838485658168793,was,sing,1.327069694276924,gram,11.0,int,The aging nun who taught the young choirgirls definitely was anxious retire very soon.,sing,5.957458019256592,sing
+43,0.1283797323703766,were,sing,1.6005563736908184,ungram,11.0,unint,The aging nun who taught the young choirgirl definitely were anxious to retire very soon.,sing,13.591975212097168,sing
+44,,was,pl,1.7952157178137556,gram,12.0,unint,The strict nanny who babysat the well-behaved schoolgirls evidently was reluctant to spank bad children.,sing,5.221441745758057,sing
+45,,were,pl,2.3434033321588656,ungram,12.0,int,The strict nanny who babysat the well-behaved schoolgirls evidently were reluctant to spank bad children.,sing,9.964277267456055,sing
+46,,was,sing,2.0702227982222365,gram,12.0,int,The strict nanny who babysat the well-behaved schoolgirl evidently was reluctant to spank bad children.,sing,5.275567531585693,sing
+47,,were,sing,1.8130524770268888,ungram,12.0,unint,The strict nanny who babysat the well-behaved schoolgirl evidently were reluctant to spank bad children.,sing,11.478643417358398,sing
+48,0.16109398007392883,was,pl,1.6051166101129581,gram,13.0,unint,The dramatic actress who promoted the opera singers apparently was excited about the upcoming season.,sing,4.399931907653809,sing
+49,0.10019497573375702,were,pl,1.8381390418983856,ungram,13.0,int,The dramatic actress who promoted the opera singers apparently were excited about the upcoming season.,sing,11.30286979675293,sing
+50,0.20137205719947815,was,sing,1.703065192539885,gram,13.0,int,The dramatic actress who promoted the opera singer apparently was excited about the upcoming season.,sing,4.5590081214904785,sing
+51,0.09354231506586075,were,sing,1.6651192737359488,ungram,13.0,unint,The dramatic actress who promoted the opera singer apparently were excited about the upcoming season.,sing,12.097715377807617,sing
+52,,was,pl,1.005622978466906,gram,14.0,unint,The nimble ballerina who danced with the jazz dancers clearly was skilled in many dance techniques.,sing,5.844807147979736,sing
+53,,were,pl,2.2743484016930053,ungram,14.0,int,The nimble ballerina who danced with the jazz dancers clearly were skilled in many dance techniques.,sing,11.828625679016113,sing
+54,,was,sing,1.005622978466906,gram,14.0,int,The nimble ballerina who danced with the jazz dancers clearly was skilled skilled in many dance techniques.,sing,5.844807147979736,sing
+55,,were,sing,2.068379269548551,ungram,14.0,unint,The nimble ballerina who danced with the jazz dancer clearly were skilled in many dance techniques.,sing,13.137226104736328,sing
+56,0.419980525970459,was,pl,1.4104618365377246,gram,15.0,unint,The evil witch who stalked the royal princesses supposedly was prepared to curse the royal family.,sing,4.9394965171813965,sing
+57,0.1585060954093933,were,pl,2.503368787940536,ungram,15.0,int,The evil witch who stalked the royal princesses supposedly were prepared to curse the royal family.,sing,9.595147132873535,sing
+58,0.419980525970459,was,sing,1.4104618365377246,gram,15.0,int,The evil witch who stalked the royal princesses supposedly was prepared curse the royal family.,sing,4.9394965171813965,sing
+59,0.1727098822593689,were,sing,2.0549602356981493,ungram,15.0,unint,The evil witch who stalked the royal princess supposedly were prepared to curse the royal family.,sing,11.052508354187012,sing
+60,0.14762207865715027,was,pl,1.661825192938256,gram,16.0,unint,The hard-working maid who chastised the lazy housekeepers probably was angry about doing other people's work.,sing,5.458239555358887,sing
+61,0.09187977015972137,were,pl,2.3006529299959975,ungram,16.0,int,The hard-working maid who chastised the lazy housekeepers probably were angry about doing other people's work.,sing,10.937249183654785,sing
+62,0.1641159951686859,was,sing,1.815312843529122,gram,16.0,int,The hard-working maid who chastised the lazy housekeeper probably was angry about doing other people's work.,sing,5.443396091461182,sing
+63,0.08144957572221756,were,sing,1.8879250273573562,ungram,16.0,unint,The hard-working maid who chastised the lazy housekeeper probably were angry about doing other people's work.,sing,11.461721420288086,sing
+64,0.3876410126686096,was,pl,1.4941831066265838,gram,17.0,unint,The kindergarten teacher who lectured the young girls clearly was friendly to the young students.,sing,5.3345184326171875,sing
+65,0.21651321649551392,were,pl,2.1595940468463137,ungram,17.0,int,The kindergarten teacher who lectured the young girls clearly were friendly to the young students.,sing,14.042377471923828,sing
+66,0.41642653942108154,was,sing,1.5289441632673724,gram,17.0,int,The kindergarten teacher who lectured the young girl clearly was friendly to the young students.,sing,5.284459590911865,sing
+67,0.20730571448802948,were,sing,1.893572611899076,ungram,17.0,unint,The kindergarten teacher who lectured the young girl clearly were friendly to the young students.,sing,14.508552551269531,sing
+68,0.07293642312288284,was,pl,1.1462087470572337,gram,18.0,unint,The respected feminist who advised the powerful congresswomen obviously was supportive of progressive political views.,sing,5.4358601570129395,sing
+69,0.05132902413606644,were,pl,1.9477582285889818,ungram,18.0,int,The respected feminist who advised the powerful congresswomen obviously were supportive of progressive political views.,sing,13.050162315368652,sing
+70,0.08470716327428818,was,sing,1.2109311628938277,gram,18.0,int,The respected feminist who advised the powerful congresswoman obviously was supportive of progressive political views.,sing,5.531774997711182,sing
+71,0.04988463222980499,were,sing,1.705328870844422,ungram,18.0,unint,The respected feminist who advised the powerful congresswoman obviously were supportive of progressive political views.,sing,13.868569374084473,sing
+72,,was,pl,1.50850182067312,gram,19.0,unint,The dental hygienist who treated the elderly ladies evidently was known for being very thorough.,sing,4.532681465148926,sing
+73,,were,pl,2.4004145969541177,ungram,19.0,int,The dental hygienist who treated the elderly ladies evidently were known for being very thorough.,sing,11.076057434082031,sing
+74,,was,sing,1.7234980388161423,gram,19.0,int,The dental hygienist who treated the elderly lady evidently was known for being very thorough.,sing,4.572432041168213,sing
+75,,were,sing,2.340162774862018,ungram,19.0,unint,The dental hygienist who treated the elderly lady evidently were known for being very thorough.,sing,11.855514526367188,sing
+76,,was,pl,1.4560535359074103,gram,20.0,unint,The glamorous supermodel who promoted the fashion designers apparently was ready for another photo shoot.,sing,4.624296188354492,sing
+77,,were,pl,1.9214290370021323,ungram,20.0,int,The glamorous supermodel who promoted the fashion designers apparently were ready for another photo shoot.,sing,10.373117446899414,sing
+78,,was,sing,1.5868695390563416,gram,20.0,int,The glamorous supermodel who promoted the fashion designer apparently was ready for another photo shoot.,sing,4.592779636383057,sing
+79,,were,sing,1.6843194020500105,ungram,20.0,unint,The glamorous supermodel who promoted the fashion designer apparently were ready for another photo shoot.,sing,11.701523780822754,sing
+80,,was,pl,1.6885995325590006,gram,21.0,unint,The peppy cheerleader who socialized with the sorority members clearly was uncomfortable at the frat party.,sing,5.30417537689209,sing
+81,,were,pl,3.0595786806933836,ungram,21.0,int,The peppy cheerleader who socialized with the sorority members clearly were uncomfortable at the frat party.,sing,12.159530639648438,sing
+82,,was,sing,1.852595468848919,gram,21.0,int,The peppy cheerleader who socialized with the sorority member clearly was uncomfortable at the frat party.,sing,5.38693380355835,sing
+83,,were,sing,2.912829564379574,ungram,21.0,unint,The peppy cheerleader who socialized with the sorority member clearly were uncomfortable at the frat party.,sing,13.012001037597656,sing
+84,0.676495373249054,was,pl,1.1818794057637447,gram,22.0,unint,The cleaning lady who worked for the aging spinsters seemingly was reluctant to use bleaching agents.,sing,5.700030326843262,sing
+85,0.4457987844944,were,pl,1.7182068619812612,ungram,22.0,int,The cleaning lady who worked for the aging spinsters seemingly were reluctant to use bleaching agents.,sing,11.180514335632324,sing
+86,0.6786884069442749,was,sing,1.1673379062429687,gram,22.0,int,The cleaning lady who worked for the aging spinster seemingly was reluctant to use bleaching agents.,sing,5.671031951904297,sing
+87,0.4339161813259125,were,sing,1.6306213439486505,ungram,22.0,unint,The cleaning lady who worked for the aging spinster seemingly were reluctant to use bleaching agents.,sing,11.954776763916016,sing
+88,0.25015392899513245,was,pl,1.6089145059882486,gram,23.0,unint,The efficient secretary who assisted the rapid typists undeniably was systematic in sorting company documents.,sing,4.62483549118042,sing
+89,0.037134867161512375,were,pl,1.884860515506671,ungram,23.0,int,The efficient secretary who assisted the rapid typists undeniably were systematic in sorting company documents.,sing,8.936014175415039,sing
+90,0.2486499696969986,was,sing,1.6596502673753908,gram,23.0,int,The efficient secretary who assisted the rapid typist undeniably was systematic in sorting company documents.,sing,4.709303379058838,sing
+91,0.03802957385778427,were,sing,1.581613992569318,ungram,23.0,unint,The efficient secretary who assisted the rapid typist undeniably were systematic in sorting company documents.,sing,10.8212308883667,sing
+92,0.247736856341362,was,pl,1.5438131860147277,gram,24.0,unint,The effective salesman who worked for the successful entrepreneurs probably was worried about the company's image in the news.,sing,5.150515556335449,sing
+93,0.12328657507896423,were,pl,1.5660890017028046,ungram,24.0,int,The effective salesman who worked for the successful entrepreneurs probably were worried about the company's image in the news.,sing,10.326130867004395,sing
+94,0.25237640738487244,was,sing,1.5242181198930569,gram,24.0,int,The effective salesman who worked for the successful entrepreneur probably was worried about the company's image in the news.,sing,5.195671558380127,sing
+95,0.11612022668123245,were,sing,1.4894896896941445,ungram,24.0,unint,The effective salesman who worked for the successful entrepreneur probably were worried about the company's image in the news.,sing,11.481486320495605,sing
+96,0.09045128524303436,was,pl,1.4707919613452876,gram,25.0,unint,The charming butcher who served the picky chefs actually was unconcerned about selling rancid meat.,sing,6.3613996505737305,sing
+97,0.04627428203821182,were,pl,1.8592587412145924,ungram,25.0,int,The charming butcher who served the picky chefs actually were unconcerned about selling rancid meat.,sing,11.982871055603027,sing
+98,0.08957429975271225,was,sing,1.5372046707539802,gram,25.0,int,The charming butcher who served the picky chef actually was unconcerned about selling rancid meat.,sing,6.242884635925293,sing
+99,0.04149026423692703,were,sing,1.524953480671824,ungram,25.0,unint,The charming butcher who served the picky chef actually were unconcerned about selling rancid meat.,sing,13.298388481140137,sing
+100,0.1394670605659485,was,pl,1.4607229721665436,gram,26.0,unint,The hilarious clown who entertained the circus lion-tamers likely was scared of the growling lions.,sing,5.2971110343933105,sing
+101,0.047716882079839706,were,pl,2.4613678914684094,ungram,26.0,int,The hilarious clown who entertained the circus lion-tamers likely were scared of the growling lions.,sing,9.724577903747559,sing
+102,0.16485226154327393,was,sing,1.5689106191392543,gram,26.0,int,The hilarious clown who entertained the circus lion-tamer likely was scared of the growling lions.,sing,5.287893295288086,sing
+103,0.048347264528274536,were,sing,1.7982736467479346,ungram,26.0,unint,The hilarious clown who entertained the circus lion-tamer likely were scared of the growling lions.,sing,11.64892864227295,sing
+104,,was,pl,1.3531301058260694,gram,27.0,unint,The wealthy heiress who yelled at the lazy maids undeniably was irritated at the dirty dishes.,sing,5.08650541305542,sing
+105,,were,pl,1.8959346731553062,ungram,27.0,int,The wealthy heiress who yelled at the lazy maids undeniably were irritated at the dirty dishes.,sing,7.632035732269287,sing
+106,,was,sing,1.3802948582437533,gram,27.0,int,The wealthy heiress who yelled at the lazy maid undeniably was irritated at the dirty dishes.,sing,4.932269096374512,sing
+107,,were,sing,1.3731957827594736,ungram,27.0,unint,The wealthy heiress who yelled at the lazy maid undeniably were irritated at the dirty dishes.,sing,9.001373291015625,sing
+108,0.11937188357114792,was,pl,1.1293196907416398,gram,28.0,unint,The cruel hunter who accompanied the accurate sharpshooters surely was capable of finding deer in the forest.,sing,4.680009365081787,sing
+109,0.058309853076934814,were,pl,1.7797096691805023,ungram,28.0,int,The cruel hunter who accompanied the accurate sharpshooters surely were capable of finding deer in the forest.,sing,8.569766998291016,sing
+110,0.11154276132583618,was,sing,1.1198366086615255,gram,28.0,int,The cruel hunter who accompanied the accurate sharpshooter surely was capable of finding deer in the forest.,sing,4.799064636230469,sing
+111,0.050146326422691345,were,sing,1.5711070394452753,ungram,28.0,unint,The cruel hunter who accompanied the accurate sharpshooter surely were capable of finding deer in the forest.,sing,10.322784423828125,sing
+112,0.1691666692495346,was,pl,1.8346855097225818,gram,29.0,unint,The successful businessman who scolded the teenage bellhops allegedly was angry with the hotel management.,sing,6.124179363250732,sing
+113,0.02142004668712616,were,pl,2.365786243506361,ungram,29.0,int,The successful businessman who scolded the teenage bellhops allegedly were angry with the hotel management.,sing,10.740832328796387,sing
+114,0.15844227373600006,was,sing,2.391330550027023,gram,29.0,int,The successful businessman who scolded the teenage bellhop allegedly was angry with the hotel management.,sing,5.693857669830322,sing
+115,0.033185746520757675,were,sing,2.3776822737011316,ungram,29.0,unint,The successful businessman who scolded the teenage bellhop allegedly were angry with the hotel management.,sing,12.409128189086914,sing
+116,0.6156135201454163,was,pl,1.0706377609755138,gram,30.0,unint,The police officer who aided the brilliant detectives reportedly was suspicious of the victim's brother.,sing,5.111830711364746,sing
+117,0.292971134185791,were,pl,1.9441669980973368,ungram,30.0,int,The police officer who aided the brilliant detectives reportedly were suspicious of the victim's brother.,sing,12.223657608032227,sing
+118,0.6011170148849487,was,sing,1.1087384169976329,gram,30.0,int,The police officer who aided the brilliant detective reportedly was suspicious of the victim's brother.,sing,5.212973594665527,sing
+119,0.24338236451148987,were,sing,1.8062164991655074,ungram,30.0,unint,The police officer who aided the brilliant detective reportedly were suspicious of the victim's brother.,sing,12.659222602844238,sing
+120,,was,pl,1.3955226877167455,gram,31.0,unint,The old rancher who listened to the dishonest salesmen unsurprisingly was skeptical about buying more insurance.,sing,5.75898551940918,sing
+121,,were,pl,2.370831625114349,ungram,31.0,int,The old rancher who listened to the dishonest salesmen unsurprisingly were skeptical about buying more insurance.,sing,11.362373352050781,sing
+122,,was,sing,1.4460726724851274,gram,31.0,int,The old rancher who listened to the dishonest salesman unsurprisingly was skeptical about buying more insurance.,sing,6.022757530212402,sing
+123,,were,sing,1.87634316104976,ungram,31.0,unint,The old rancher who listened to the dishonest salesman unsurprisingly were skeptical about buying more insurance.,sing,12.634408950805664,sing
+124,0.2157173454761505,was,pl,1.6299707978924085,gram,32.0,unint,The meek boxer who trained with the persistent coaches shockingly was brutal in the boxing ring.,sing,6.349216938018799,sing
+125,0.13531145453453064,were,pl,2.2952826702706877,ungram,32.0,int,The meek boxer who trained with the persistent coaches shockingly were brutal in the boxing ring.,sing,10.569918632507324,sing
+126,0.2104959338903427,was,sing,1.7075532264474154,gram,32.0,int,The meek boxer who trained with the persistent coach shockingly was brutal in the boxing ring.,sing,6.290160655975342,sing
+127,0.1113210991024971,were,sing,2.0744627587574525,ungram,32.0,unint,The meek boxer who trained with the persistent coach shockingly were brutal in the boxing ring.,sing,12.342276573181152,sing
+128,,was,pl,1.723923282176671,gram,33.0,unint,The amateur bodybuilder who worked with the personal trainers amazingly was competitive for the gold medal.,sing,5.431806564331055,sing
+129,,were,pl,2.0567365668231097,ungram,33.0,int,The amateur bodybuilder who worked with the personal trainers amazingly were competitive for the gold medal.,sing,9.66397762298584,sing
+130,,was,sing,1.7284271166925096,gram,33.0,int,The amateur bodybuilder who worked with the personal trainer amazingly was competitive for the gold medal.,sing,5.588075637817383,sing
+131,,were,sing,1.989393476672109,ungram,33.0,unint,The amateur bodybuilder who worked with the personal trainer amazingly were competitive for the gold medal.,sing,10.955827713012695,sing
+132,0.3747107982635498,was,pl,1.3530531776912356,gram,34.0,unint,The basketball coach who trained the star players usually was nervous at the important games.,sing,6.453639030456543,sing
+133,0.24140650033950806,were,pl,2.424256892475391,ungram,34.0,int,The basketball coach who trained the star players usually were nervous at the important games.,sing,11.9171724319458,sing
+134,0.3745354413986206,was,sing,1.4484454900380597,gram,34.0,int,The basketball coach who trained the star player usually was nervous at the important games.,sing,6.5455474853515625,sing
+135,0.20881406962871552,were,sing,1.9391113518016683,ungram,34.0,unint,The basketball coach who trained the star player usually were nervous at the important games.,sing,13.058786392211914,sing
+136,,was,pl,1.1055351501174946,gram,35.0,unint,The young caddy who escorted the experienced golfers supposedly was helpful around the country club.,sing,5.762806415557861,sing
+137,,were,pl,2.6891141938868253,ungram,35.0,int,The young caddy who escorted the experienced golfers supposedly were helpful around the country club.,sing,8.794015884399414,sing
+138,,was,sing,1.2416995021507797,gram,35.0,int,The young caddy who escorted the experienced golfer supposedly was helpful around the country club.,sing,5.453272819519043,sing
+139,,were,sing,2.1012708152256123,ungram,35.0,unint,The young caddy who escorted the experienced golfer supposedly were helpful around the country club.,sing,11.197052955627441,sing
+140,0.4219985604286194,was,pl,1.6931868091567983,gram,36.0,unint,The construction worker who argued with the shift leaders undeniably was disgruntled about being harshly disciplined.,sing,4.556885242462158,sing
+141,0.12941692769527435,were,pl,2.4415711116834795,ungram,36.0,int,The construction worker who argued with the shift leaders undeniably were disgruntled about being harshly disciplined.,sing,10.230859756469727,sing
+142,0.4378495514392853,was,sing,1.6718069209374762,gram,36.0,int,The construction worker who argued with the shift leader undeniably was disgruntled about being harshly disciplined.,sing,4.60600471496582,sing
+143,0.15806902945041656,were,sing,1.870870268334018,ungram,36.0,unint,The construction worker who argued with the shift leader undeniably were disgruntled about being harshly disciplined.,sing,11.7704439163208,sing
+144,,was,pl,1.5309964893794015,gram,37.0,unint,The grimy blacksmith who worked for the royal knights evidently was unaware of basic forging techniques.,sing,4.8050971031188965,sing
+145,,were,pl,1.9872800124892092,ungram,37.0,int,The grimy blacksmith who worked for the royal knights evidently were unaware of basic forging techniques.,sing,11.599088668823242,sing
+146,,was,sing,1.5770610730639099,gram,37.0,int,The grimy blacksmith who worked for the royal knight evidently was unaware of basic forging techniques.,sing,4.847475051879883,sing
+147,,were,sing,1.9481263967404192,ungram,37.0,unint,The grimy blacksmith who worked for the royal knight evidently were unaware of basic forging techniques.,sing,12.189004898071289,sing
+148,,was,pl,1.0889454008465538,gram,38.0,unint,The paranoid foreman who supervised the coal miners presumably was worried about dangerous working conditions.,sing,4.586437702178955,sing
+149,,were,pl,2.3491359893503576,ungram,38.0,int,The paranoid foreman who supervised the coal miners presumably were worried about dangerous working conditions.,sing,10.522089958190918,sing
+150,,was,sing,1.2611682125009165,gram,38.0,int,The paranoid foreman who supervised the coal miner presumably was worried about dangerous working conditions.,sing,4.636676788330078,sing
+151,,were,sing,2.065172515712977,ungram,38.0,unint,The paranoid foreman who supervised the coal miner presumably were worried about dangerous working conditions.,sing,11.468598365783691,sing
+152,0.04961278662085533,was,pl,1.4505887785142086,gram,39.0,unint,The serious general who advised the new corporals seemingly was unhappy with the training regimen.,sing,5.598371982574463,sing
+153,0.0037835121620446444,were,pl,1.8920580385064931,ungram,39.0,int,The serious general who advised the new corporals seemingly were unhappy with the training regimen.,sing,8.94082260131836,sing
+154,0.07381736487150192,was,sing,1.7746233978028583,gram,39.0,int,The serious general who advised the new corporal seemingly was unhappy with the training regimen.,sing,5.445433616638184,sing
+155,0.005528439301997423,were,sing,1.3966363119307048,ungram,39.0,unint,The serious general who advised the new corporal seemingly were unhappy with the training regimen.,sing,11.232108116149902,sing
+156,0.05813167244195938,was,pl,0.9638103033968574,gram,40.0,unint,The new executive who oversaw the middle managers apparently was dishonest about the company's profits.,sing,4.455788612365723,sing
+157,0.04105518385767937,were,pl,1.7041748730969615,ungram,40.0,int,The new executive who oversaw the middle managers apparently were dishonest about the company's profits.,sing,9.873963356018066,sing
+158,0.0771106630563736,was,sing,1.0793485871872608,gram,40.0,int,The new executive who oversaw the middle manager apparently was dishonest about the company's profits.,sing,4.46600341796875,sing
+159,0.05296681821346283,were,sing,1.4202962659675362,ungram,40.0,unint,The new executive who oversaw the middle manager apparently were dishonest about the company's profits.,sing,11.395952224731445,sing
+160,0.09301161766052246,was,pl,1.7243163667389492,gram,41.0,unint,The popular sheriff who campaigned for the incumbent politicians never was concerned with preventing violent crime.,sing,6.672423362731934,sing
+161,0.030633922666311264,were,pl,1.9373455478556618,ungram,41.0,int,The popular sheriff who campaigned for the incumbent politicians never were concerned with preventing violent crime.,sing,12.63166332244873,sing
+162,0.08796556293964386,was,sing,1.7393793774450672,gram,41.0,int,The popular sheriff who campaigned for the incumbent politician never was concerned with preventing violent crime.,sing,6.638852596282959,sing
+163,0.024996548891067505,were,sing,1.6756668446783434,ungram,41.0,unint,The popular sheriff who campaigned for the incumbent politician never were concerned with preventing violent crime.,sing,13.131024360656738,sing
+164,0.278543621301651,was,pl,1.5023699779668849,gram,42.0,unint,The somber minister who conversed with the religious scholars usually was tempted to discuss controversial issues.,sing,6.170509338378906,sing
+165,0.14839869737625122,were,pl,2.57719135696872,ungram,42.0,int,The somber minister who conversed with the religious scholars usually were tempted to discuss controversial issues.,sing,10.33713436126709,sing
+166,0.28285840153694153,was,sing,1.5097031049301148,gram,42.0,int,The somber minister who conversed with the religious scholar usually was tempted to discuss controversial issues.,sing,6.469746112823486,sing
+167,0.151825413107872,were,sing,2.2168058457840885,ungram,42.0,unint,The somber minister who conversed with the religious scholar usually were tempted to discuss controversial issues.,sing,11.890397071838379,sing
+168,0.12701819837093353,was,pl,1.1782861833609573,gram,43.0,unint,The rich CEO who employed the expensive chauffeurs typically was unwilling to take the scenic route.,sing,6.83719539642334,sing
+169,0.07542256265878677,were,pl,1.6985064637591505,ungram,43.0,int,The rich CEO who employed the expensive chauffeurs typically were unwilling to take the scenic route.,sing,7.546215057373047,sing
+170,0.1294218897819519,was,sing,1.2638957798068513,gram,43.0,int,The rich CEO who employed the expensive chauffeur typically was unwilling to take the scenic route.,sing,6.42432165145874,sing
+171,0.0573810338973999,were,sing,1.4132336753215204,ungram,43.0,unint,The rich CEO who employed the expensive chauffeur typically were unwilling to take the scenic route.,sing,10.512500762939453,sing
+172,,was,pl,0.9674220256618674,gram,44.0,unint,The handy plumber who helped the absentminded homeowners probably was watchful for any leaky joints.,sing,6.1210126876831055,sing
+173,,were,pl,1.8365798662318045,ungram,44.0,int,The handy plumber who helped the absentminded homeowners probably were watchful for any leaky joints.,sing,11.844396591186523,sing
+174,,was,sing,1.0499000031816104,gram,44.0,int,The handy plumber who helped the absentminded homeowner probably was watchful for any leaky joints.,sing,6.144083023071289,sing
+175,,were,sing,1.4618885304860922,ungram,44.0,unint,The handy plumber who helped the absentminded homeowner probably were watchful for any leaky joints.,sing,12.824626922607422,sing
+176,0.39650100469589233,was,pl,1.381973323339606,gram,45.0,unint,The elderly doctor who treated the tough soldiers usually was reluctant to prescribe pain medication.,sing,5.533995151519775,sing
+177,0.16281341016292572,were,pl,1.9523582403280282,ungram,45.0,int,The elderly doctor who treated the tough soldiers usually were reluctant to prescribe pain medication.,sing,9.540184020996094,sing
+178,0.34200865030288696,was,sing,1.4132578704571768,gram,45.0,int,The elderly doctor who treated the tough soldier usually was reluctant to prescribe pain medication.,sing,5.5858988761901855,sing
+179,0.12041858583688736,were,sing,1.7756035098331473,ungram,45.0,unint,The elderly doctor who treated the tough soldier usually were reluctant to prescribe pain medication.,sing,11.514749526977539,sing
+180,0.15082521736621857,was,pl,1.166127164296827,gram,46.0,unint,The football referee who argued with the large quarterbacks surprisingly was unwilling to change the decision.,sing,5.404124736785889,sing
+181,0.11104714870452881,were,pl,2.0480850985351045,ungram,46.0,int,The football referee who argued with the large quarterbacks surprisingly were unwilling to change the decision.,sing,10.539653778076172,sing
+182,0.1593233197927475,was,sing,1.2413945655077236,gram,46.0,int,The football referee who argued with the large quarterback surprisingly was unwilling to change the decision.,sing,5.506155014038086,sing
+183,0.10108032822608948,were,sing,1.6715589628182124,ungram,46.0,unint,The football referee who argued with the large quarterback surprisingly were unwilling to change the decision.,sing,12.267444610595703,sing
+184,,was,pl,0.9371870044376375,gram,47.0,unint,The rough woodsman who helped the tired hikers evidently was annoyed with the environmental activists.,sing,4.640475749969482,sing
+185,,were,pl,1.9618819439153006,ungram,47.0,int,The rough woodsman who helped the tired hikers evidently were annoyed with the environmental activists.,sing,10.509998321533203,sing
+186,,was,sing,0.9783040327393523,gram,47.0,int,The rough woodsman who helped the tired hiker evidently was annoyed with the environmental activists.,sing,4.7032036781311035,sing
+187,,were,sing,1.6515960575270432,ungram,47.0,unint,The rough woodsman who helped the tired hiker evidently were annoyed with the environmental activists.,sing,11.333456993103027,sing
+188,0.31609803438186646,was,pl,1.579149791796059,gram,48.0,unint,The slick politician who avoided the persistent journalists reportedly was hypocritical in condemning the lobbyists.,sing,6.206425666809082,sing
+189,0.18065091967582703,were,pl,2.465621648491191,ungram,48.0,int,The slick politician who avoided the persistent journalists reportedly were hypocritical in condemning the lobbyists.,sing,11.481664657592773,sing
+190,0.33266329765319824,was,sing,1.6110002492087039,gram,48.0,int,The slick politician who avoided the persistent journalist reportedly was hypocritical in condemning the lobbyists.,sing,5.679418087005615,sing
+191,0.2034437209367752,were,sing,2.0073734564143426,ungram,48.0,unint,The slick politician who avoided the persistent journalist reportedly were hypocritical in condemning the lobbyists.,sing,12.515279769897461,sing

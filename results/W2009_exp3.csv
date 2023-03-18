@@ -1,0 +1,385 @@
+,attn_to_target,crit,distractor,entropy,grammaticality,id,interference,sentence,subject,surprisal,verb
+0,0.38682204484939575,see,pl,1.7666097332124753,gram,1.0,int,The runners who the drivers see during the commute every morning always wave to say hi.,pl,8.849441528320312,pl
+1,0.2853594124317169,sees,pl,2.0046480798474455,ungram,1.0,unint,The runners who the drivers sees during the commute every morning always wave to say hi.,pl,15.838024139404297,sing
+2,0.5597394704818726,see,sing,1.5591384589841482,gram,1.0,unint,The runner who the drivers see during the commute every morning always waves to say hi.,pl,8.518957138061523,pl
+3,0.13974733650684357,sees,sing,2.116946313774552,ungram,1.0,int,The runner who the drivers sees during the commute every morning always waves to say hi.,pl,14.068367004394531,sing
+4,0.32612454891204834,see,pl,2.0236908034102137,ungram,1.0,int,The runners who the driver see during the commute every morning always wave to say hi.,sing,14.230849266052246,pl
+5,0.8526120781898499,sees,pl,0.8722370246509016,gram,1.0,unint,The runners who the driver sees during the commute every morning always wave to say hi.,sing,8.794525146484375,sing
+6,0.4443417191505432,see,sing,2.0160101494705076,ungram,1.0,unint,The runner who the driver see during the commute every morning always waves to say hi.,sing,14.542387962341309,pl
+7,0.6634567975997925,sees,sing,1.547406113441179,gram,1.0,int,The runner who the driver sees during the commute every morning always waves to say hi.,sing,8.541596412658691,sing
+8,0.4963257610797882,criticize,pl,2.0157020025468486,gram,2.0,int,The industrialists who the activists criticize always puts profit above concern for the environment.,pl,10.163897514343262,pl
+9,,criticizes,pl,,ungram,2.0,unint,The industrialists who the activists criticizes always puts profit above concern for the environment.,pl,,sing
+10,0.64641934633255,criticize,sing,1.6327741915166019,gram,2.0,unint,The industrialist who the activists criticize always puts profit above concerns for the environment.,pl,10.959213256835938,pl
+11,,criticizes,sing,,ungram,2.0,int,The industrialist who the activists criticizes always puts profit above concerns for the environment.,pl,,sing
+12,0.3081943094730377,criticize,pl,2.3231767107868353,ungram,2.0,int,The industrialists who the activist criticize always puts profit above concern for the environment.,sing,15.216835975646973,pl
+13,,criticizes,pl,,gram,2.0,unint,The industrialists who the activist criticizes always puts profit above concerns for the environment.,sing,,sing
+14,0.4229433238506317,criticize,sing,2.196212072193729,ungram,2.0,unint,The industrialist who the activist criticize always puts profit above concerns for the environment.,sing,17.4299373626709,pl
+15,,criticizes,sing,,gram,2.0,int,The industrialist who the activist criticizes always puts profit above concerns for the environment.,sing,,sing
+16,0.5035893321037292,like,pl,1.520721233221489,gram,3.0,int,The players who the coaches like the best are the ones who always gets to practice on time.,pl,6.2853193283081055,pl
+17,0.41916126012802124,likes,pl,1.7263448417972187,ungram,3.0,unint,The players who the coaches likes the best are the ones who always gets to practice on time.,pl,13.5965576171875,sing
+18,0.5615181922912598,like,sing,1.420192461565928,gram,3.0,unint,The player who the coaches like the best is the one who always gets to practice on time.,pl,6.606787204742432,pl
+19,0.2625938057899475,likes,sing,2.089341363201662,ungram,3.0,int,The player who the coaches likes the best is the one who always gets to practice on time.,pl,12.248632431030273,sing
+20,0.306914359331131,like,pl,2.0905638550760473,ungram,3.0,int,The players who the coach like the best are the ones who always gets to practice on time.,sing,10.111550331115723,pl
+21,0.8189541697502136,likes,pl,0.8700011240512805,gram,3.0,unint,The players who the coach likes the best are the ones who always gets to practice on time.,sing,6.023085117340088,sing
+22,0.38890454173088074,like,sing,1.9417606875630924,ungram,3.0,unint,The player who the coach like the best is the one who always gets to practice on time.,sing,10.96781063079834,pl
+23,0.6750707030296326,likes,sing,1.318774996621894,gram,3.0,int,The player who the coach likes the best is the one who always gets to practice on time.,sing,6.79833459854126,sing
+24,0.5791417360305786,rely,pl,1.5774919702879464,gram,4.0,int,The volunteers who the directors rely on completely are dedicated to her work.,pl,11.473764419555664,pl
+25,0.25315427780151367,relies,pl,1.7937344071045838,ungram,4.0,unint,The volunteers who the directors relies on completely are dedicated to her work.,pl,18.792972564697266,sing
+26,0.7561320662498474,rely,sing,1.1299857999517182,gram,4.0,unint,The volunteer who the directors rely on completely is dedicated to her work.,pl,12.86146068572998,pl
+27,0.24297305941581726,relies,sing,1.9998690542989332,ungram,4.0,int,The volunteer who the directors relies on completely is dedicated to her work.,pl,17.3189754486084,sing
+28,0.18572676181793213,rely,pl,2.08845380331502,ungram,4.0,int,The volunteers who the director rely on completely are dedicated to her work.,sing,18.4520206451416,pl
+29,0.5923867225646973,relies,pl,1.43473187298145,gram,4.0,unint,The volunteers who the director relies on completely are dedicated to her work.,sing,12.8504056930542,sing
+30,0.24277864396572113,rely,sing,2.0448763834459855,ungram,4.0,unint,The volunteer who the director rely on completely is dedicated to her work.,sing,21.131229400634766,pl
+31,0.4748811721801758,relies,sing,1.7065787093906244,gram,4.0,int,The volunteer who the director relies on completely is dedicated to her work.,sing,13.907341957092285,sing
+32,,recommend,pl,1.9273089742859637,gram,5.0,int,The authors who the librarians recommend for summer reading are very popular in India.,pl,5.494019031524658,pl
+33,,recommends,pl,1.6574303954998864,ungram,5.0,unint,The authors who the librarians recommends for summer reading are very popular in India.,pl,12.06843376159668,sing
+34,,recommend,sing,1.7362456554904753,gram,5.0,unint,The author who the librarians recommend for summer reading is very popular in India.,pl,6.638085842132568,pl
+35,,recommends,sing,1.9516741849718753,ungram,5.0,int,The author who the librarians recommends for summer reading is very popular in India.,pl,10.810577392578125,sing
+36,,recommend,pl,2.151360551432872,ungram,5.0,int,The authors who the librarian recommend for summer reading are very popular in India.,sing,11.281460762023926,pl
+37,,recommends,pl,1.4918325108738288,gram,5.0,unint,The authors who the librarian recommends for summer reading are very popular in India.,sing,6.74638032913208,sing
+38,,recommend,sing,2.013569002148671,ungram,5.0,unint,The author who the librarian recommend for summer reading is very popular in India.,sing,13.992166519165039,pl
+39,,recommends,sing,1.9424901305776479,gram,5.0,int,The author who the librarian recommends for summer reading is very popular in India.,sing,7.705515384674072,sing
+40,0.5266263484954834,employ,pl,1.641522516641181,gram,6.0,int,The pilots who the smugglers employ in Brazil must be discreet and good at thinking fast.,pl,8.959831237792969,pl
+41,0.23588652908802032,employs,pl,1.6896152678132397,ungram,6.0,unint,The pilots who the smugglers employs in Brazil must be discreet and good at thinking fast.,pl,18.727697372436523,sing
+42,0.708329975605011,employ,sing,1.2651921138311817,gram,6.0,unint,The pilot who the smugglers employ in Brazil must be discreet and good at thinking fast.,pl,10.904328346252441,pl
+43,0.14651350677013397,employs,sing,2.1119324271361495,ungram,6.0,int,The pilot who the smugglers employs in Brazil must be discreet and good at thinking fast.,pl,17.88780403137207,sing
+44,,employ,pl,2.2174378901395015,ungram,6.0,int,The pilots who the smuggler employ in Brazil must be discreet and good at thinking fast.,sing,16.445552825927734,pl
+45,,employs,pl,1.8683419250703104,gram,6.0,unint,The pilots who the smuggler employs in Brazil must be discreet and good at thinking fast.,sing,11.983766555786133,sing
+46,,employ,sing,2.1422150925678425,ungram,6.0,unint,The pilot who the smuggler employ in Brazil must be discreet and good at thinking fast.,sing,19.084875106811523,pl
+47,,employs,sing,2.2935464459567707,gram,6.0,int,The pilot who the smuggler employs in Brazil must be discreet and good at thinking fast.,sing,13.178865432739258,sing
+48,0.5590736865997314,spend,pl,1.5618314103972342,gram,7.0,int,The colleagues who the researchers spend the most time with come up with crazy but inventive ideas.,pl,14.051854133605957,pl
+49,0.30917075276374817,spends,pl,1.6928203175170995,ungram,7.0,unint,The colleagues who the researchers spends the most time with come up with crazy but inventive ideas.,pl,21.68433952331543,sing
+50,0.6612768769264221,spend,sing,1.3571413490617377,gram,7.0,unint,The colleague who the researchers spend the most time with comes up with crazy but inventive ideas.,pl,13.709956169128418,pl
+51,0.20437124371528625,spends,sing,2.0309361048871466,ungram,7.0,int,The colleague who the researchers spends the most time with comes up with crazy but inventive ideas.,pl,20.280738830566406,sing
+52,0.4140843451023102,spend,pl,1.7667239383969968,ungram,7.0,int,The colleagues who the researcher spend the most time with come up with crazy but inventive ideas.,sing,18.47430992126465,pl
+53,0.6969018578529358,spends,pl,1.1477056560922787,gram,7.0,unint,The colleagues who the researcher spends the most time with come up with crazy but inventive ideas.,sing,13.365285873413086,sing
+54,0.4681067168712616,spend,sing,1.7855685410100057,ungram,7.0,unint,The colleague who the researcher spend the most time with comes up with crazy but inventive ideas.,sing,19.146825790405273,pl
+55,0.49788230657577515,spends,sing,1.6872355303239812,gram,7.0,int,The colleague who the researcher spends the most time with comes up with crazy but inventive ideas.,sing,12.835343360900879,sing
+56,0.7800033092498779,check,pl,1.1645327834708634,gram,8.0,int,The patients who the doctors check on daily are undergoing an experimental treatment.,pl,13.425873756408691,pl
+57,0.44440725445747375,checks,pl,1.9260964708146235,ungram,8.0,unint,The patients who the doctors checks on daily are undergoing an experimental treatment.,pl,19.52849006652832,sing
+58,0.8643752336502075,check,sing,0.8158882979602755,gram,8.0,unint,The patient who the doctors check on daily is undergoing an experimental treatment.,pl,14.169321060180664,pl
+59,0.25814545154571533,checks,sing,2.123218626664527,ungram,8.0,int,The patient who the doctors checks on daily is undergoing an experimental treatment.,pl,19.36809539794922,sing
+60,0.6778799891471863,check,pl,1.5347678710747528,ungram,8.0,int,The patients who the doctor check on daily are undergoing an experimental treatment.,sing,16.086389541625977,pl
+61,0.8733372092247009,checks,pl,0.747073557406145,gram,8.0,unint,The patients who the doctor checks on daily are undergoing an experimental treatment.,sing,12.567839622497559,sing
+62,0.7520543336868286,check,sing,1.2965539894315232,ungram,8.0,unint,The patient who the doctor check on daily is undergoing an experimental treatment.,sing,16.49950408935547,pl
+63,0.7595340609550476,checks,sing,1.2383122299539555,gram,8.0,int,The patient who the doctor checks on daily is undergoing an experimental treatment.,sing,13.057693481445312,sing
+64,0.5110752582550049,want,pl,1.4309077902706697,gram,9.0,int,The Marines who the officers want to promote are always ready to risk their lives for someone in need.,pl,9.289176940917969,pl
+65,0.32031840085983276,wants,pl,1.6933850694069963,ungram,9.0,unint,The Marines who the officers wants to promote are always ready to risk their lives for someone in need.,pl,17.025501251220703,sing
+66,0.6903523802757263,want,sing,1.1788057627554436,gram,9.0,unint,The Marine who the officers want to promote is always ready to risk his life for someone in need.,pl,10.634500503540039,pl
+67,0.24137496948242188,wants,sing,1.913383733591276,ungram,9.0,int,The Marine who the officers wants to promote is always ready to risk his life for someone in need.,pl,17.573156356811523,sing
+68,0.34898748993873596,want,pl,1.6545606423460029,ungram,9.0,int,The Marines who the officer want to promote are always ready to risk their lives for someone in need.,sing,14.720710754394531,pl
+69,0.7811987996101379,wants,pl,0.9367195201064304,gram,9.0,unint,The Marines who the officer wants to promote are always ready to risk their lives for someone in need.,sing,9.32111644744873,sing
+70,0.5044605135917664,want,sing,1.6354733996148034,ungram,9.0,unint,The Marine who the officer want to promote is always ready to risk his life for someone in need.,sing,16.04118537902832,pl
+71,0.6829145550727844,wants,sing,1.2400000865775735,gram,9.0,int,The Marine who the officer wants to promote is always ready to risk his life for someone in need.,sing,10.496750831604004,sing
+72,0.6825640797615051,support,pl,1.559589343786624,gram,10.0,int,The sculptors who the donors support so generously have held several acclaimed exhibitions.,pl,7.717991352081299,pl
+73,0.15686900913715363,supports,pl,2.1422842040768115,ungram,10.0,unint,The sculptors who the donors supports so generously have held several acclaimed exhibitions.,pl,15.353250503540039,sing
+74,0.7629037499427795,support,sing,1.229963771146439,gram,10.0,unint,The sculptor who the donors support so generously has held several acclaimed exhibitions.,pl,9.117230415344238,pl
+75,0.1280849277973175,supports,sing,2.2813402753782057,ungram,10.0,int,The sculptor who the donors supports so generously has held several acclaimed exhibitions.,pl,15.98863410949707,sing
+76,0.4366702139377594,support,pl,2.282854183781848,ungram,10.0,int,The sculptors who the donor support so generously have held several acclaimed exhibitions.,sing,11.43799877166748,pl
+77,0.5526591539382935,supports,pl,1.7115596101260833,gram,10.0,unint,The sculptors who the donor supports so generously have held several acclaimed exhibitions.,sing,8.811237335205078,sing
+78,0.5126346349716187,support,sing,2.072510574081037,ungram,10.0,unint,The sculptor who the donor support so generously has held several acclaimed exhibitions.,sing,13.981523513793945,pl
+79,0.4335658550262451,supports,sing,1.9019403158016235,gram,10.0,int,The sculptor who the donor supports so generously has held several acclaimed exhibitions.,sing,10.156673431396484,sing
+80,,suggest,pl,2.4310784835120898,gram,11.0,int,The caterers who the hostesses suggest to their friends are excellent but outrageously expensive.,pl,12.730416297912598,pl
+81,,suggests,pl,1.6975305549617654,ungram,11.0,unint,The caterers who the hostesses suggests to their friends are excellent but outrageously expensive.,pl,19.347671508789062,sing
+82,,suggest,sing,2.174417343757055,gram,11.0,unint,The caterer who the hostesses suggest to their friends is excellent but outrageously expensive.,pl,12.155752182006836,pl
+83,,suggests,sing,2.279332911584,ungram,11.0,int,The caterer who the hostesses suggests to their friends is excellent but outrageously expensive.,pl,18.18636131286621,sing
+84,,suggest,pl,2.2741960553203793,ungram,11.0,int,The caterers who the hostess suggest to her friends are excellent but outrageously expensive.,sing,15.320072174072266,pl
+85,,suggests,pl,1.3828511800355692,gram,11.0,unint,The caterers who the hostess suggests to her friends are excellent but outrageously expensive.,sing,12.43012523651123,sing
+86,,suggest,sing,2.2458936660610362,ungram,11.0,unint,The caterer who the hostess suggest to her friends is excellent but outrageously expensive.,sing,16.764493942260742,pl
+87,,suggests,sing,1.8041063373935675,gram,11.0,int,The caterer who the hostess suggests to her friends is excellent but outrageously expensive.,sing,12.468130111694336,sing
+88,0.6611244082450867,listen,pl,1.3674191732243428,gram,12.0,int,The senators who the voters listen to patiently at all the local political events just never seem trustworthy.,pl,14.735116004943848,pl
+89,0.34122636914253235,listens,pl,1.7757885031759848,ungram,12.0,unint,The senators who the voters listens to patiently at all the local political events just never seem trustworthy.,pl,20.347484588623047,sing
+90,0.7611305117607117,listen,sing,1.0578008406086408,gram,12.0,unint,The senator who the voters listen to patiently at all the local political events just never seems trustworthy.,pl,15.551669120788574,pl
+91,0.21962986886501312,listens,sing,1.969126582986879,ungram,12.0,int,The senator who the voters listens to patiently at all the local political events just never seems trustworthy.,pl,20.63821792602539,sing
+92,0.43959474563598633,listen,pl,1.8664099317682783,ungram,12.0,int,The senators who the voter listen to patiently at all the local political events just never seem trustworthy.,sing,18.500778198242188,pl
+93,0.7724230885505676,listens,pl,0.9989773813478212,gram,12.0,unint,The senators who the voter listens to patiently at all the local political events just never seem trustworthy.,sing,14.9291410446167,sing
+94,0.5620430111885071,listen,sing,1.6335673329908225,ungram,12.0,unint,The senator who the voter listen to patiently at all the local political events just never seems trustworthy.,sing,18.839496612548828,pl
+95,0.6108863949775696,listens,sing,1.4398504505903678,gram,12.0,int,The senator who the voter listens to patiently at all the local political events just never seems trustworthy.,sing,13.07894229888916,sing
+96,0.49390074610710144,hire,pl,1.7953460286235043,gram,13.0,int,The teenagers who the farmers hire to pick fruit every summer usually work pretty hard.,pl,11.943888664245605,pl
+97,0.3425857722759247,hires,pl,1.927365944476679,ungram,13.0,unint,The teenagers who the farmers hires to pick fruit every summer usually work pretty hard.,pl,19.78744125366211,sing
+98,0.5959893465042114,hire,sing,1.5871988214939878,gram,13.0,unint,The teenager who the farmers hire to pick fruit every summer usually works pretty hard.,pl,13.754286766052246,pl
+99,0.20483410358428955,hires,sing,2.2057537497552886,ungram,13.0,int,The teenager who the farmers hires to pick fruit every summer usually works pretty hard.,pl,20.91977310180664,sing
+100,0.41008636355400085,hire,pl,2.0353574894582556,ungram,13.0,int,The teenagers who the farmer hire to pick fruit every summer usually work pretty hard.,sing,18.50750732421875,pl
+101,0.8064143061637878,hires,pl,0.9692418069997771,gram,13.0,unint,The teenagers who the farmer hires to pick fruit every summer usually work pretty hard.,sing,13.369227409362793,sing
+102,0.47177135944366455,hire,sing,1.9688394682942818,ungram,13.0,unint,The teenager who the farmer hire to pick fruit every summer usually works pretty hard.,sing,20.31224250793457,pl
+103,0.6212700009346008,hires,sing,1.5835814030005038,gram,13.0,int,The teenager who the farmer hires to pick fruit every summer usually works pretty hard.,sing,15.561933517456055,sing
+104,0.4107157289981842,hold,pl,1.8836114593610283,gram,14.0,int,The goalies who the fans hold the greatest confidence in are reliably calm under pressure.,pl,11.318934440612793,pl
+105,0.16896399855613708,holds,pl,2.3636506975256726,ungram,14.0,unint,The goalies who the fans holds the greatest confidence in are reliably calm under pressure.,pl,19.456945419311523,sing
+106,0.5085844397544861,hold,sing,1.6507200554321508,gram,14.0,unint,The goalie who the fans hold the greatest confidence in is reliably calm under pressure.,pl,11.589126586914062,pl
+107,0.13167442381381989,holds,sing,2.3088115863645102,ungram,14.0,int,The goalie who the fans holds the greatest confidence in is reliably calm under pressure.,pl,19.09358024597168,sing
+108,0.33560916781425476,hold,pl,2.135813703465675,ungram,14.0,int,The goalies who the fan hold the greatest confidence in are reliably calm under pressure.,sing,18.82232093811035,pl
+109,0.7842947244644165,holds,pl,1.2021217760828626,gram,14.0,unint,The goalies who the fan holds the greatest confidence in are reliably calm under pressure.,sing,14.517207145690918,sing
+110,0.3808661699295044,hold,sing,1.9819322747491706,ungram,14.0,unint,The goalie who the fan hold the greatest confidence in is reliably calm under pressure.,sing,17.830364227294922,pl
+111,0.5943568348884583,holds,sing,1.750554705662331,gram,14.0,int,The goalie who the fan holds the greatest confidence in is reliably calm under pressure.,sing,12.198545455932617,sing
+112,,watch,pl,1.5468076032741163,gram,15.0,int,The quarterbacks who the recruiters watch from the bleachers every weekend might win a lucrative contract.,pl,11.2797212600708,pl
+113,,watches,pl,2.1697130782798295,ungram,15.0,unint,The quarterbacks who the recruiters watches from the bleachers every weekend might win a lucrative contract.,pl,18.61096954345703,sing
+114,,watch,sing,1.4244605017897984,gram,15.0,unint,The quarterback who the recruiters watch from the bleachers every weekend might win a lucrative contract.,pl,13.577699661254883,pl
+115,,watches,sing,2.3774747910376033,ungram,15.0,int,The quarterback who the recruiters watches from the bleachers every weekend might win a lucrative contract.,pl,20.169944763183594,sing
+116,,watch,pl,2.1689669830060416,ungram,15.0,int,The quarterbacks who the recruiter watch from the bleachers every weekend might win a lucrative contract.,sing,17.026546478271484,pl
+117,,watches,pl,1.5552160254251692,gram,15.0,unint,The quarterbacks who the recruiter watches from the bleachers every weekend might win a lucrative contract.,sing,12.151749610900879,sing
+118,,watch,sing,2.065687601155021,ungram,15.0,unint,The quarterback who the recruiter watch from the bleachers every weekend might win a lucrative contract.,sing,18.09939193725586,pl
+119,,watches,sing,1.7594652308217462,gram,15.0,int,The quarterback who the recruiter watches from the bleachers every weekend might win a lucrative contract.,sing,14.506874084472656,sing
+120,0.46564191579818726,use,pl,1.993660136631559,gram,16.0,int,The publicists who the politicians use during a crisis are expected to do damage control.,pl,6.90778112411499,pl
+121,0.2315366417169571,uses,pl,2.261944913459302,ungram,16.0,unint,The publicists who the politicians uses during a crisis are expected to do damage control.,pl,14.96484661102295,sing
+122,0.6925590634346008,use,sing,1.4785783610713896,gram,16.0,unint,The publicist who the politicians use during a crisis is expected to do damage control.,pl,7.2067646980285645,pl
+123,0.1818111389875412,uses,sing,2.3448646274546157,ungram,16.0,int,The publicist who the politicians uses during a crisis is expected to do damage control.,pl,14.340219497680664,sing
+124,0.2573101222515106,use,pl,1.97863867719909,ungram,16.0,int,The publicists who the politician use during a crisis are expected to do damage control.,sing,11.620891571044922,pl
+125,0.72239089012146,uses,pl,1.335458523346011,gram,16.0,unint,The publicists who the politician uses during a crisis are expected to do damage control.,sing,7.25571346282959,sing
+126,0.4934597313404083,use,sing,2.0110164097400305,ungram,16.0,unint,The publicist who the politician use during a crisis is expected to do damage control.,sing,13.259960174560547,pl
+127,0.5973886251449585,uses,sing,1.745347549631585,gram,16.0,int,The publicist who the politician uses during a crisis is expected to do damage control.,sing,7.437976360321045,sing
+128,0.4203660488128662,disapprove,pl,2.3387446704430315,gram,17.0,int,The tenants who the landlords strongly disapprove of stay out late on weekends and never mow their lawn.,pl,5.101373672485352,pl
+129,,disapproves,pl,,ungram,17.0,unint,The tenants who the landlords strongly disapproves of stay out late on weekends and never mow their lawn.,pl,,sing
+130,0.5828718543052673,disapprove,sing,1.9359313400876361,gram,17.0,unint,The tenant who the landlords strongly disapprove of stays out late on weekends and never mows his lawn.,pl,4.913566589355469,pl
+131,,disapproves,sing,,ungram,17.0,int,The tenant who the landlords strongly disapproves of stays out late on weekends and never mows his lawn.,pl,,sing
+132,0.2388657033443451,disapprove,pl,2.5772877715045777,ungram,17.0,int,The tenants who the landlord strongly disapprove of stay out late on weekends and never mow their lawn.,sing,6.675025463104248,pl
+133,,disapproves,pl,,gram,17.0,unint,The tenants who the landlord strongly disapproves of stay out late on weekends and never mow their lawn.,sing,,sing
+134,0.32011255621910095,disapprove,sing,2.5108561572928685,ungram,17.0,unint,The tenant who the landlord strongly disapprove of stays out late on weekends and never mows his lawn.,sing,11.98624324798584,pl
+135,,disapproves,sing,,gram,17.0,int,The tenant who the landlord strongly disapproves of stays out late on weekends and never mows his lawn.,sing,,sing
+136,0.6017417311668396,admire,pl,1.9238766316949598,gram,18.0,int,The skateboarders who the kids admire passionately always sign autographs for fans.,pl,12.252352714538574,pl
+137,,admires,pl,,ungram,18.0,unint,The skateboarders who the kids admires passionately always sign autographs for fans.,pl,,sing
+138,0.7277843356132507,admire,sing,1.4819663285135027,gram,18.0,unint,The skateboarder who the kids admire passionately always signs autographs for fans.,pl,12.68233871459961,pl
+139,,admires,sing,,ungram,18.0,int,The skateboarder who the kids admires passionately always signs autographs for fans.,pl,,sing
+140,0.34805044531822205,admire,pl,2.5061054309710156,ungram,18.0,int,The skateboarders who the kid admire passionately always sign autographs for fans.,sing,16.605424880981445,pl
+141,,admires,pl,,gram,18.0,unint,The skateboarders who the kid admires passionately always sign autographs for fans.,sing,,sing
+142,0.4274172782897949,admire,sing,2.458345480349479,ungram,18.0,unint,The skateboarder who the kid admire passionately always signs autographs for fans.,sing,17.553245544433594,pl
+143,,admires,sing,,gram,18.0,int,The skateboarder who the kid admires passionately always signs autographs for fans.,sing,,sing
+144,,visit,pl,2.4211528668218643,gram,19.0,int,The chefs who the gourmets visit regularly always come up with daring new recipes.,pl,9.726767539978027,pl
+145,,visits,pl,2.739432942458785,ungram,19.0,unint,The chefs who the gourmets visits regularly always come up with daring new recipes.,pl,16.829668045043945,sing
+146,,visit,sing,1.9495765927201945,gram,19.0,unint,The chef who the gourmets visit regularly always comes up with daring new recipes.,pl,11.65050983428955,pl
+147,,visits,sing,2.5937150131777162,ungram,19.0,int,The chef who the gourmets visits regularly always comes up with daring new recipes.,pl,17.154075622558594,sing
+148,,visit,pl,2.1476852847836514,ungram,19.0,int,The chefs who the gourmet visit regularly always come up with daring new recipes.,sing,15.307795524597168,pl
+149,,visits,pl,1.5756180389922616,gram,19.0,unint,The chefs who the gourmet visits regularly always come up with daring new recipes.,sing,15.011391639709473,sing
+150,,visit,sing,1.923158735378559,ungram,19.0,unint,The chef who the gourmet visit regularly always comes up with daring new recipes.,sing,15.108366012573242,pl
+151,,visits,sing,1.957687704974603,gram,19.0,int,The chef who the gourmet visits regularly always comes up with daring new recipes.,sing,13.860603332519531,sing
+152,,keep,pl,2.1032101342880827,gram,20.0,int,The firefighters who the rangers keep on hand during the summer months have special training in forest fires.,pl,12.31368350982666,pl
+153,,keeps,pl,2.084447777457342,ungram,20.0,unint,The firefighters who the rangers keeps on hand during the summer months have special training in forest fires.,pl,19.920700073242188,sing
+154,,keep,sing,1.6981512534167182,gram,20.0,unint,The firefighter who the rangers keep on hand during the summer months has special training in forest fires.,pl,13.33682632446289,pl
+155,,keeps,sing,2.535984494466612,ungram,20.0,int,The firefighter who the rangers keeps on hand during the summer months has special training in forest fires.,pl,19.71807098388672,sing
+156,0.37776196002960205,keep,pl,2.26055534614857,ungram,20.0,int,The firefighters who the ranger keep on hand during the summer months have special training in forest fires.,sing,17.093183517456055,pl
+157,0.7978029847145081,keeps,pl,1.0813833472238992,gram,20.0,unint,The firefighters who the ranger keeps on hand during the summer months have special training in forest fires.,sing,13.023693084716797,sing
+158,0.4493775963783264,keep,sing,2.0702992441560606,ungram,20.0,unint,The firefighter who the ranger keep on hand during the summer months has special training in forest fires.,sing,18.932636260986328,pl
+159,0.676676332950592,keeps,sing,1.5484025671309936,gram,20.0,int,The firefighter who the ranger keeps on hand during the summer months has special training in forest fires.,sing,13.40402889251709,sing
+160,0.2884107828140259,distrust,pl,2.518611464323134,gram,21.0,int,The overseers who the workers distrust the most have been firing anyone who mentions unions.,pl,16.687673568725586,pl
+161,,distrusts,pl,,ungram,21.0,unint,The overseers who the workers distrusts the most have been firing anyone who mentions unions.,pl,,sing
+162,0.39197468757629395,distrust,sing,2.3299795715427,gram,21.0,unint,The overseer who the workers distrust the most has been firing anyone who mentions unions.,pl,17.169403076171875,pl
+163,,distrusts,sing,,ungram,21.0,int,The overseer who the workers distrusts the most has been firing anyone who mentions unions.,pl,,sing
+164,0.1738271415233612,distrust,pl,2.552850464071734,ungram,21.0,int,The overseers who the worker distrust the most have been firing anyone who mentions unions.,sing,17.28434944152832,pl
+165,,distrusts,pl,,gram,21.0,unint,The overseers who the worker distrusts the most have been firing anyone who mentions unions.,sing,,sing
+166,0.23777398467063904,distrust,sing,2.556998425171577,ungram,21.0,unint,The overseer who the worker distrust the most has been firing anyone who mentions unions.,sing,17.529678344726562,pl
+167,,distrusts,sing,,gram,21.0,int,The overseer who the worker distrusts the most has been firing anyone who mentions unions.,sing,,sing
+168,,pursue,pl,2.327032714155104,gram,22.0,int,The heiresses who the bachelors pursue so relentlessly are clever and won't be easily fooled.,pl,11.477493286132812,pl
+169,,pursues,pl,,ungram,22.0,unint,The heiresses who the bachelors pursues so relentlessly are clever and won't be easily fooled.,pl,,sing
+170,,pursue,sing,1.9761653963553019,gram,22.0,unint,The heiress who the bachelors pursue so relentlessly is clever and won't be easily fooled.,pl,14.237954139709473,pl
+171,,pursues,sing,,ungram,22.0,int,The heiress who the bachelors pursues so relentlessly is clever and won't be easily fooled.,pl,,sing
+172,0.27405381202697754,pursue,pl,2.2622803990755562,ungram,22.0,int,The heiresses who the bachelor pursue so relentlessly are clever and won't be easily fooled.,sing,16.309410095214844,pl
+173,,pursues,pl,,gram,22.0,unint,The heiresses who the bachelor pursues so relentlessly are clever and won't be easily fooled.,sing,,sing
+174,0.4090796709060669,pursue,sing,2.464075818890961,ungram,22.0,unint,The heiress who the bachelor pursue so relentlessly is clever and won't be easily fooled.,sing,17.59398078918457,pl
+175,,pursues,sing,,gram,22.0,int,The heiress who the bachelor pursues so relentlessly is clever and won't be easily fooled.,sing,,sing
+176,0.38423702120780945,consider,pl,1.5501482067992298,gram,23.0,int,The actors who the producers consider the safest bet are the one who have been around for a while.,pl,8.360016822814941,pl
+177,0.14501681923866272,considers,pl,1.4734041521614647,ungram,23.0,unint,The actors who the producers considers the safest bet are the one who have been around for a while.,pl,15.417414665222168,sing
+178,0.5864434242248535,consider,sing,1.4302459633019575,gram,23.0,unint,The actor who the producers consider the safest bet is the one who has been around for a while.,pl,8.74274730682373,pl
+179,0.13134118914604187,considers,sing,1.7762045364046717,ungram,23.0,int,The actor who the producers considers the safest bet is the one who has been around for a while.,pl,14.594647407531738,sing
+180,0.3709563910961151,consider,pl,1.8514917015884769,ungram,23.0,int,The actors who the producer consider the safest bet are the one who have been around for a while.,sing,13.99502182006836,pl
+181,0.7002241611480713,considers,pl,1.1952215759457336,gram,23.0,unint,The actors who the producer considers the safest bet are the one who have been around for a while.,sing,8.164694786071777,sing
+182,0.5371195673942566,consider,sing,1.7538426949057127,ungram,23.0,unint,The actor who the producer consider the safest bet is the one who has been around for a while.,sing,15.256362915039062,pl
+183,0.6007978320121765,considers,sing,1.5292224290039267,gram,23.0,int,The actor who the producer considers the safest bet is the one who has been around for a while.,sing,8.905211448669434,sing
+184,0.37220150232315063,depend,pl,1.9017402825143024,gram,24.0,int,The accountants who the administrators depend on to balance the books are very well paid.,pl,13.598565101623535,pl
+185,0.1368541717529297,depends,pl,2.0861273736550703,ungram,24.0,unint,The accountants who the administrators depends on to balance the books are very well paid.,pl,21.04560661315918,sing
+186,0.5145222544670105,depend,sing,1.5669065136221085,gram,24.0,unint,The accountant who the administrators depend on to balance the books is very well paid.,pl,14.31413459777832,pl
+187,0.1295444667339325,depends,sing,1.9727148377373729,ungram,24.0,int,The accountant who the administrators depends on to balance the books is very well paid.,pl,20.884828567504883,sing
+188,0.14039906859397888,depend,pl,2.2623710963596233,ungram,24.0,int,The accountants who the administrator depend on to balance the books are very well paid.,sing,18.652050018310547,pl
+189,0.4047044515609741,depends,pl,1.8930353390672077,gram,24.0,unint,The accountants who the administrator depends on to balance the books are very well paid.,sing,14.609174728393555,sing
+190,0.24969327449798584,depend,sing,2.1007123079548795,ungram,24.0,unint,The accountant who the administrator depend on to balance the books is very well paid.,sing,19.602550506591797,pl
+191,0.349602609872818,depends,sing,1.835572880278231,gram,24.0,int,The accountant who the administrator depends on to balance the books is very well paid.,sing,14.975231170654297,sing
+192,0.38421207666397095,tutor,pl,2.1601427339787658,gram,25.0,int,The orphans who the nuns tutor in algebra lost their parents in the ongoing civil war.,pl,18.33622932434082,pl
+193,,tutors,pl,,ungram,25.0,unint,The orphans who the nuns tutors in algebra lost their parents in the ongoing civil war.,pl,,sing
+194,0.39162155985832214,tutor,sing,2.168754508925449,gram,25.0,unint,The orphan who the nuns tutor in algebra lost his parents in the ongoing civil war.,pl,18.06507110595703,pl
+195,,tutors,sing,,ungram,25.0,int,The orphan who the nuns tutors in algebra lost his parents in the ongoing civil war.,pl,,sing
+196,0.5257396101951599,tutor,pl,1.840535725013249,ungram,25.0,int,The orphans who the nun tutor in algebra lost their parents in the ongoing civil war.,sing,17.191829681396484,pl
+197,,tutors,pl,,gram,25.0,unint,The orphans who the nun tutors in algebra lost their parents in the ongoing civil war.,sing,,sing
+198,0.4812738001346588,tutor,sing,2.0065496880216838,ungram,25.0,unint,The orphan who the nun tutor in algebra lost his parents in the ongoing civil war.,sing,17.91992950439453,pl
+199,,tutors,sing,,gram,25.0,int,The orphan who the nun tutors in algebra lost his parents in the ongoing civil war.,sing,,sing
+200,0.292673259973526,need,pl,2.1089847966852413,gram,26.0,int,The translators who the diplomats need for communication were trying furiously to facilitate peace talks.,pl,9.810652732849121,pl
+201,0.10178182274103165,needs,pl,2.125995272934502,ungram,26.0,unint,The translators who the diplomats needs for communication were trying furiously to facilitate peace talks.,pl,16.5806827545166,sing
+202,0.5058733820915222,need,sing,1.7173777599528774,gram,26.0,unint,The translator who the diplomats need for communication was trying furiously to facilitate peace talks.,pl,11.211538314819336,pl
+203,0.06184351071715355,needs,sing,2.079221809738893,ungram,26.0,int,The translator who the diplomats needs for communication was trying furiously to facilitate peace talks.,pl,16.777875900268555,sing
+204,0.17479698359966278,need,pl,2.355648051863994,ungram,26.0,int,The translators who the diplomat need for communication were trying furiously to facilitate peace talks.,sing,14.132867813110352,pl
+205,0.5331606864929199,needs,pl,1.712576442744724,gram,26.0,unint,The translators who the diplomat needs for communication were trying furiously to facilitate peace talks.,sing,10.242108345031738,sing
+206,0.31863221526145935,need,sing,2.174608427931323,ungram,26.0,unint,The translator who the diplomat need for communication was trying furiously to facilitate peace talks.,sing,16.481689453125,pl
+207,0.3581586480140686,needs,sing,1.9915733211270028,gram,26.0,int,The translator who the diplomat needs for communication was trying furiously to facilitate peace talks.,sing,11.558835983276367,sing
+208,0.3279367685317993,applaud,pl,2.1225119954648513,gram,27.0,int,The dancers who the hosts applaud so frequently have been performing since they were young girls in Ecuador.,pl,13.553650856018066,pl
+209,,applauds,pl,,ungram,27.0,unint,The dancers who the hosts applauds so frequently have been performing since they were young girls in Ecuador.,pl,,sing
+210,0.3717954456806183,applaud,sing,2.200669118981625,gram,27.0,unint,The dancer who the hosts applaud so frequently has been performing since she was a young girls in Ecuador.,pl,14.508903503417969,pl
+211,,applauds,sing,,ungram,27.0,int,The dancer who the hosts applauds so frequently has been performing since she was a young girls in Ecuador.,pl,,sing
+212,0.20939204096794128,applaud,pl,2.1089646282456247,ungram,27.0,int,The dancers who the host applaud so frequently have been performing since they were young girls in Ecuador.,sing,15.046804428100586,pl
+213,,applauds,pl,,gram,27.0,unint,The dancers who the host applauds so frequently have been performing since they were young girls in Ecuador.,sing,,sing
+214,0.37754297256469727,applaud,sing,2.163780468307992,ungram,27.0,unint,The dancer who the host applaud so frequently has been performing since she was a young girls in Ecuador.,sing,17.163501739501953,pl
+215,,applauds,sing,,gram,27.0,int,The dancer who the host applauds so frequently has been performing since she was a young girls in Ecuador.,sing,,sing
+216,0.5116649270057678,report,pl,1.5877431411528977,gram,28.0,int,The supervisors who the counselors report to directly are supposed to provide advice and support.,pl,9.407368659973145,pl
+217,0.15960386395454407,reports,pl,1.7221313255013007,ungram,28.0,unint,The supervisors who the counselors reports to directly are supposed to provide advice and support.,pl,15.919441223144531,sing
+218,0.6448516845703125,report,sing,1.3124715179247495,gram,28.0,unint,The supervisor who the counselors report to directly is supposed to provide advice and support.,pl,9.969520568847656,pl
+219,0.10394598543643951,reports,sing,2.050280345449309,ungram,28.0,int,The supervisor who the counselors reports to directly is supposed to provide advice and support.,pl,14.693346977233887,sing
+220,0.3096050024032593,report,pl,2.0510772082553395,ungram,28.0,int,The supervisors who the counselor report to directly are supposed to provide advice and support.,sing,12.985045433044434,pl
+221,0.7612634897232056,reports,pl,1.0252826499831411,gram,28.0,unint,The supervisors who the counselor reports to directly are supposed to provide advice and support.,sing,8.632811546325684,sing
+222,0.38423624634742737,report,sing,1.941392600443837,ungram,28.0,unint,The supervisor who the counselor report to directly is supposed to provide advice and support.,sing,14.31329345703125,pl
+223,0.6117588877677917,reports,sing,1.4936197993297846,gram,28.0,int,The supervisor who the counselor reports to directly is supposed to provide advice and support.,sing,9.035600662231445,sing
+224,0.581225574016571,trust,pl,1.778074990052036,gram,29.0,int,The commentators who the viewers trust the most have a very slick hairstyle.,pl,9.44766902923584,pl
+225,0.35402339696884155,trusts,pl,2.122885091817513,ungram,29.0,unint,The commentators who the viewers trusts the most have a very slick hairstyle.,pl,15.468635559082031,sing
+226,0.7680810689926147,trust,sing,1.2018266164507283,gram,29.0,unint,The commentator who the viewers trust the most has a very slick hairstyle.,pl,8.757430076599121,pl
+227,0.26165148615837097,trusts,sing,2.2750106612441123,ungram,29.0,int,The commentator who the viewers trusts the most has a very slick hairstyle.,pl,14.234546661376953,sing
+228,0.23144736886024475,trust,pl,2.224318658158954,ungram,29.0,int,The commentators who the viewer trust the most have a very slick hairstyle.,sing,13.085947036743164,pl
+229,0.6981670260429382,trusts,pl,1.3629441546946224,gram,29.0,unint,The commentators who the viewer trusts the most have a very slick hairstyle.,sing,8.209212303161621,sing
+230,0.42819124460220337,trust,sing,2.1499302935799536,ungram,29.0,unint,The commentator who the viewer trust the most has a very slick hairstyle.,sing,13.302594184875488,pl
+231,0.5522798299789429,trusts,sing,1.7473884135642568,gram,29.0,int,The commentator who the viewer trusts the most has a very slick hairstyle.,sing,8.538328170776367,sing
+232,0.431673139333725,appreciate,pl,2.08983969323759,gram,30.0,int,The journalists who the editors appreciate the most always turn her stories in promptly.,pl,14.734064102172852,pl
+233,,appreciates,pl,,ungram,30.0,unint,The journalists who the editors appreciates the most always turn her stories in promptly.,pl,,sing
+234,0.6514591574668884,appreciate,sing,1.5736084256636431,gram,30.0,unint,The journalist who the editors appreciate the most always turns her stories in promptly.,pl,16.107271194458008,pl
+235,,appreciates,sing,,ungram,30.0,int,The journalist who the editors appreciates the most always turns her stories in promptly.,pl,,sing
+236,0.10661010444164276,appreciate,pl,2.1272038258041297,ungram,30.0,int,The journalists who the editor appreciate the most always turn her stories in promptly.,sing,20.497291564941406,pl
+237,,appreciates,pl,,gram,30.0,unint,The journalists who the editor appreciates the most always turn her stories in promptly.,sing,,sing
+238,0.23058365285396576,appreciate,sing,2.348931628736087,ungram,30.0,unint,The journalist who the editor appreciate the most always turns her stories in promptly.,sing,23.241636276245117,pl
+239,,appreciates,sing,,gram,30.0,int,The journalist who the editor appreciates the most always turns her stories in promptly.,sing,,sing
+240,,hate,pl,2.108872652604865,gram,31.0,int,The customers who the waitresses hate the most are the ones who complain about everything and leave a lousy tip.,pl,11.539410591125488,pl
+241,,hates,pl,2.540531963748163,ungram,31.0,unint,The customers who the waitresses hates the most are the ones who complain about everything and leave a lousy tip.,pl,20.46820068359375,sing
+242,,hate,sing,1.6540022872629772,gram,31.0,unint,The customer who the waitresses hate the most is the one who complains about everything and leaves a lousy tip.,pl,11.66960334777832,pl
+243,,hates,sing,2.6353090796464214,ungram,31.0,int,The customer who the waitresses hates the most is the one who complains about everything and leaves a lousy tip.,pl,18.60867691040039,sing
+244,0.37482914328575134,hate,pl,2.1261678622978364,ungram,31.0,int,The customers who the waitress hate the most are the ones who complain about everything and leave a lousy tip.,sing,16.249753952026367,pl
+245,0.7852472066879272,hates,pl,1.1271262773146904,gram,31.0,unint,The customers who the waitress hates the most are the ones who complain about everything and leave a lousy tip.,sing,12.564668655395508,sing
+246,0.49682682752609253,hate,sing,1.9615729864131404,ungram,31.0,unint,The customer who the waitress hate the most is the one who complains about everything and leaves a lousy tip.,sing,16.944255828857422,pl
+247,0.6229435205459595,hates,sing,1.6948752248005527,gram,31.0,int,The customer who the waitress hates the most is the one who complains about everything and leaves a lousy tip.,sing,12.761176109313965,sing
+248,0.4191596508026123,meet,pl,1.9310108339163878,gram,32.0,int,The therapists who the survivors meet with weekly are trying to help them recover from her/their awful ordeal.,pl,9.027251243591309,pl
+249,0.1491718292236328,meets,pl,1.7495052493561611,ungram,32.0,unint,The therapists who the survivors meets with weekly are trying to help them recover from her/their awful ordeal.,pl,18.458459854125977,sing
+250,0.6150513887405396,meet,sing,1.525824049132661,gram,32.0,unint,The therapist who the survivors meet with weekly is trying to help her recover from her/their awful ordeal.,pl,9.856925964355469,pl
+251,0.08851997554302216,meets,sing,1.9306778614052926,ungram,32.0,int,The therapist who the survivors meets with weekly is trying to help her recover from her/their awful ordeal.,pl,18.209152221679688,sing
+252,0.2710990011692047,meet,pl,2.111717521262172,ungram,32.0,int,The therapists who the survivor meet with weekly are trying to help them recover from her/their awful ordeal.,sing,14.464136123657227,pl
+253,0.6477634310722351,meets,pl,1.3771722272565008,gram,32.0,unint,The therapists who the survivor meets with weekly are trying to help them recover from her/their awful ordeal.,sing,10.798247337341309,sing
+254,0.3790546655654907,meet,sing,2.0677553366443653,ungram,32.0,unint,The therapist who the survivor meet with weekly is trying to help her recover from her/their awful ordeal.,sing,17.003807067871094,pl
+255,0.4324723482131958,meets,sing,1.821308093514781,gram,32.0,int,The therapist who the survivor meets with weekly is trying to help her recover from her/their awful ordeal.,sing,11.08888053894043,sing
+256,,work,pl,1.8495099891129783,gram,33.0,int,The cheerleaders who the choreographers work with usually train all year for the national competition.,pl,8.94164752960205,pl
+257,,works,pl,2.497183423498094,ungram,33.0,unint,The cheerleaders who the choreographers works with usually train all year for the national competition.,pl,16.696067810058594,sing
+258,,work,sing,1.437798391784932,gram,33.0,unint,The cheerleader who the choreographers work with usually trains all year for the national competition.,pl,10.927322387695312,pl
+259,,works,sing,2.602952866563263,ungram,33.0,int,The cheerleader who the choreographers works with usually trains all year for the national competition.,pl,17.40071678161621,sing
+260,,work,pl,2.289339919192836,ungram,33.0,int,The cheerleaders who the choreographer work with usually train all year for the national competition.,sing,16.603187561035156,pl
+261,,works,pl,1.1584761762428057,gram,33.0,unint,The cheerleaders who the choreographer works with usually train all year for the national competition.,sing,10.929224967956543,sing
+262,,work,sing,1.9287363962688722,ungram,33.0,unint,The cheerleader who the choreographer work with usually trains all year for the national competition.,sing,17.196369171142578,pl
+263,,works,sing,1.6867579632799758,gram,33.0,int,The cheerleader who the choreographer works with usually trains all year for the national competition.,sing,11.376365661621094,sing
+264,,know,pl,2.1591751686593232,gram,34.0,int,The cowboys who the ranchers know the best have thirty years of experience on the range.,pl,8.607186317443848,pl
+265,,knows,pl,2.522854970156835,ungram,34.0,unint,The cowboys who the ranchers knows the best have thirty years of experience on the range.,pl,17.44028091430664,sing
+266,,know,sing,1.9773869121612022,gram,34.0,unint,The cowboy who the ranchers know the best has thirty years of experience on the range.,pl,8.825489044189453,pl
+267,,knows,sing,2.373042905060527,ungram,34.0,int,The cowboy who the ranchers knows the best has thirty years of experience on the range.,pl,16.912778854370117,sing
+268,,know,pl,2.2156852766352353,ungram,34.0,int,The cowboys who the rancher know the best have thirty years of experience on the range.,sing,13.294050216674805,pl
+269,,knows,pl,2.441605512855149,gram,34.0,unint,The cowboys who the rancher knows the best have thirty years of experience on the range.,sing,9.781157493591309,sing
+270,,know,sing,2.062846674910963,ungram,34.0,unint,The cowboy who the rancher know the best has thirty years of experience on the range.,sing,14.692049980163574,pl
+271,,knows,sing,2.275036566223622,gram,34.0,int,The cowboy who the rancher knows the best has thirty years of experience on the range.,sing,10.221634864807129,sing
+272,0.544005811214447,prefer,pl,1.9116843080552663,gram,35.0,int,The surgeons who the nurses prefer most to assist have an impeccable record in the operating room.,pl,12.657150268554688,pl
+273,0.33916738629341125,prefers,pl,2.2154321274476643,ungram,35.0,unint,The surgeons who the nurses prefers most to assist have an impeccable record in the operating room.,pl,21.209745407104492,sing
+274,0.660833477973938,prefer,sing,1.6013026362918772,gram,35.0,unint,The surgeon who the nurses prefer most to assist has an impeccable record in the operating room.,pl,12.969170570373535,pl
+275,0.19781091809272766,prefers,sing,2.283151565804889,ungram,35.0,int,The surgeon who the nurses prefers most to assist has an impeccable record in the operating room.,pl,19.93400001525879,sing
+276,0.42574530839920044,prefer,pl,2.102056306557178,ungram,35.0,int,The surgeons who the nurse prefer most to assist have an impeccable record in the operating room.,sing,18.769296646118164,pl
+277,0.7605751156806946,prefers,pl,1.2380597453881639,gram,35.0,unint,The surgeons who the nurse prefers most to assist have an impeccable record in the operating room.,sing,14.15910530090332,sing
+278,0.5412880778312683,prefer,sing,1.9654092375736572,ungram,35.0,unint,The surgeon who the nurse prefer most to assist has an impeccable record in the operating room.,sing,19.825746536254883,pl
+279,0.623319685459137,prefers,sing,1.6823225431291557,gram,35.0,int,The surgeon who the nurse prefers most to assist has an impeccable record in the operating room.,sing,13.73977279663086,sing
+280,0.45339906215667725,gossip,pl,2.2946277305757117,gram,36.0,int,The bartenders who the patrons gossip with after work always have new stories to tell.,pl,15.490764617919922,pl
+281,,gossips,pl,,ungram,36.0,unint,The bartenders who the patrons gossips with after work always have new stories to tell.,pl,,sing
+282,0.584895670413971,gossip,sing,1.859211301907004,gram,36.0,unint,The bartender who the patrons gossip with after work always has new stories to tell.,pl,14.455606460571289,pl
+283,,gossips,sing,,ungram,36.0,int,The bartender who the patrons gossips with after work always has new stories to tell.,pl,,sing
+284,0.48840516805648804,gossip,pl,2.2420466273406676,ungram,36.0,int,The bartenders who the patron gossip with after work always have new stories to tell.,sing,18.56400489807129,pl
+285,,gossips,pl,,gram,36.0,unint,The bartenders who the patron gossips with after work always have new stories to tell.,sing,,sing
+286,0.5652734041213989,gossip,sing,1.954718547832935,ungram,36.0,unint,The bartender who the patron gossip with after work always has new stories to tell.,sing,18.358203887939453,pl
+287,,gossips,sing,,gram,36.0,int,The bartender who the patron gossips with after work always has new stories to tell.,sing,,sing
+288,0.31123778223991394,complain,pl,1.433808381275182,gram,37.0,int,The columnists who the readers complain about frequently give extreme opinions without backing them up.,pl,11.433148384094238,pl
+289,0.13703714311122894,complains,pl,1.3280597185424732,ungram,37.0,unint,The columnists who the readers complains about frequently give extreme opinions without backing them up.,pl,18.61239242553711,sing
+290,0.5069748759269714,complain,sing,1.4261002059115164,gram,37.0,unint,The columnist who the readers complain about frequently gives extreme opinions without backing them up.,pl,12.919081687927246,pl
+291,0.13479076325893402,complains,sing,1.6349793149212835,ungram,37.0,int,The columnist who the readers complains about frequently gives extreme opinions without backing them up.,pl,18.982336044311523,sing
+292,0.19545312225818634,complain,pl,1.5182944157047076,ungram,37.0,int,The columnists who the reader complain about frequently give extreme opinions without backing them up.,sing,18.643138885498047,pl
+293,0.4977390468120575,complains,pl,1.3239791387523248,gram,37.0,unint,The columnists who the reader complains about frequently give extreme opinions without backing them up.,sing,9.763968467712402,sing
+294,0.3551555573940277,complain,sing,1.6693236835455902,ungram,37.0,unint,The columnist who the reader complain about frequently gives extreme opinions without backing them up.,sing,19.55063247680664,pl
+295,0.4492264986038208,complains,sing,1.4951420064377405,gram,37.0,int,The columnist who the reader complains about frequently gives extreme opinions without backing them up.,sing,11.170624732971191,sing
+296,0.3005910813808441,respect,pl,2.4060712137795752,gram,38.0,int,The anthropologists who the villagers respect the most have taken great pains to learn the local customs.,pl,13.198370933532715,pl
+297,0.11766568571329117,respects,pl,2.2325541326357694,ungram,38.0,unint,The anthropologists who the villagers respects the most have taken great pains to learn the local customs.,pl,22.056407928466797,sing
+298,0.4573183059692383,respect,sing,2.109594759924737,gram,38.0,unint,The anthropologist who the villagers respect the most has taken great pains to learn the local customs.,pl,12.981907844543457,pl
+299,0.11113996803760529,respects,sing,2.3999591727173106,ungram,38.0,int,The anthropologist who the villagers respects the most has taken great pains to learn the local customs.,pl,21.726926803588867,sing
+300,,respect,pl,2.7811824789394435,ungram,38.0,int,The anthropologists who the villager respect the most have taken great pains to learn the local customs.,sing,16.99117088317871,pl
+301,,respects,pl,2.1850027333801614,gram,38.0,unint,The anthropologists who the villager respects the most have taken great pains to learn the local customs.,sing,16.12474250793457,sing
+302,,respect,sing,2.631838832374545,ungram,38.0,unint,The anthropologist who the villager respect the most has taken great pains to learn the local customs.,sing,19.74190902709961,pl
+303,,respects,sing,2.3640572586462114,gram,38.0,int,The anthropologist who the villager respects the most has taken great pains to learn the local customs.,sing,14.59516429901123,sing
+304,0.395394891500473,assign,pl,2.0370856306456617,gram,39.0,int,The bricklayers who the contractors assign to important projects often don't show up on time.,pl,14.271096229553223,pl
+305,0.14365790784358978,assigns,pl,2.1814589635181694,ungram,39.0,unint,The bricklayers who the contractors assigns to important projects often don't show up on time.,pl,20.35376739501953,sing
+306,0.5216370224952698,assign,sing,1.6819776987001318,gram,39.0,unint,The bricklayer who the contractors assign to important projects often doesn't show up on time.,pl,15.460132598876953,pl
+307,0.11464866995811462,assigns,sing,2.067293281730767,ungram,39.0,int,The bricklayer who the contractors assigns to important projects often doesn't show up on time.,pl,19.97568702697754,sing
+308,0.2496466040611267,assign,pl,2.240449377493417,ungram,39.0,int,The bricklayers who the contractor assign to important projects often don't show up on time.,sing,18.3509578704834,pl
+309,0.5664575695991516,assigns,pl,1.672041387591232,gram,39.0,unint,The bricklayers who the contractor assigns to important projects often don't show up on time.,sing,13.427619934082031,sing
+310,0.3297233283519745,assign,sing,1.9836303309215222,ungram,39.0,unint,The bricklayer who the contractor assign to important projects often doesn't show up on time.,sing,20.397584915161133,pl
+311,0.42739489674568176,assigns,sing,1.8053643375600854,gram,39.0,int,The bricklayer who the contractor assigns to important projects often doesn't show up on time.,sing,14.103867530822754,sing
+312,0.03198522701859474,find,pl,1.58872894633464,gram,40.0,int,The comedians who the prisoners find so entertaining can find humor in the worst situations.,pl,6.183384418487549,pl
+313,0.11378622055053711,finds,pl,1.6753619967253561,ungram,40.0,unint,The comedians who the prisoners finds so entertaining can find humor in the worst situations.,pl,16.81307029724121,sing
+314,0.09179122000932693,find,sing,2.092746352879641,gram,40.0,unint,The comedian who the prisoners find so entertaining can find humor in the worst situations.,pl,7.043549537658691,pl
+315,0.05995046719908714,finds,sing,1.9625881138745105,ungram,40.0,int,The comedian who the prisoners finds so entertaining can find humor in the worst situations.,pl,16.55748176574707,sing
+316,0.026684368029236794,find,pl,1.6073279875382598,ungram,40.0,int,The comedians who the prisoner find so entertaining can find humor in the worst situations.,sing,6.216705799102783,pl
+317,0.6501174569129944,finds,pl,1.434897409791416,gram,40.0,unint,The comedians who the prisoner finds so entertaining can find humor in the worst situations.,sing,8.341724395751953,sing
+318,0.0667468011379242,find,sing,2.0977635841026294,ungram,40.0,unint,The comedian who the prisoner find so entertaining can find humor in the worst situations.,sing,7.203544616699219,pl
+319,0.41790899634361267,finds,sing,1.9552752017334138,gram,40.0,int,The comedian who the prisoner finds so entertaining can find humor in the worst situations.,sing,9.66951847076416,sing
+320,0.3632280230522156,fear,pl,2.043627784246819,gram,41.0,int,The judges who the criminals fear the most hand down tough sentences for minor offenses.,pl,11.802119255065918,pl
+321,0.2148846834897995,fears,pl,2.114363116354265,ungram,41.0,unint,The judges who the criminals fears the most hand down tough sentences for minor offenses.,pl,20.1102294921875,sing
+322,0.6198931336402893,fear,sing,1.5033391212131397,gram,41.0,unint,The judge who the criminals fear the most hands down tough sentences for minor offenses.,pl,11.263968467712402,pl
+323,0.09354396909475327,fears,sing,2.0621837609124225,ungram,41.0,int,The judge who the criminals fears the most hands down tough sentences for minor offenses.,pl,18.586652755737305,sing
+324,0.40774646401405334,fear,pl,2.058336437634137,ungram,41.0,int,The judges who the criminal fear the most hand down tough sentences for minor offenses.,sing,17.160442352294922,pl
+325,0.7630837559700012,fears,pl,1.1999234124900766,gram,41.0,unint,The judges who the criminal fears the most hand down tough sentences for minor offenses.,sing,18.625600814819336,sing
+326,0.5259237289428711,fear,sing,1.8732702213700974,ungram,41.0,unint,The judge who the criminal fear the most hands down tough sentences for minor offenses.,sing,17.516714096069336,pl
+327,0.5794727802276611,fears,sing,1.7642035976610386,gram,41.0,int,The judge who the criminal fears the most hands down tough sentences for minor offenses.,sing,17.728971481323242,sing
+328,0.39422258734703064,tease,pl,2.2165899435572123,gram,42.0,int,The students who the bullies tease during lunch iare too afraid to tell the teachers.,pl,15.420583724975586,pl
+329,,teases,pl,,ungram,42.0,unint,The students who the bullies teases during lunch iare too afraid to tell the teachers.,pl,,sing
+330,0.5408907532691956,tease,sing,1.9447307888680205,gram,42.0,unint,The student who the bullies tease during lunch is too afraid to tell the teachers.,pl,16.569055557250977,pl
+331,,teases,sing,,ungram,42.0,int,The student who the bullies teases during lunch is too afraid to tell the teachers.,pl,,sing
+332,0.138969287276268,tease,pl,2.192914136704684,ungram,42.0,int,The students who the bully tease during lunch iare too afraid to tell the teachers.,sing,18.63076400756836,pl
+333,,teases,pl,,gram,42.0,unint,The students who the bully teases during lunch iare too afraid to tell the teachers.,sing,,sing
+334,0.27963417768478394,tease,sing,2.298875067608938,ungram,42.0,unint,The student who the bully tease during lunch is too afraid to tell the teachers.,sing,21.786602020263672,pl
+335,,teases,sing,,gram,42.0,int,The student who the bully teases during lunch is too afraid to tell the teachers.,sing,,sing
+336,0.44271907210350037,discuss,pl,1.8617834405730296,gram,43.0,int,The philosophers who the scientists discuss during the radio program rarely express their ideas in plain language.,pl,9.490389823913574,pl
+337,0.23220129311084747,discusses,pl,2.057124836180896,ungram,43.0,unint,The philosophers who the scientists discusses during the radio program rarely express their ideas in plain language.,pl,17.046794891357422,sing
+338,0.6609294414520264,discuss,sing,1.4390441929357645,gram,43.0,unint,The philosopher who the scientists discuss during the radio program rarely expresses his ideas in plain language.,pl,11.342476844787598,pl
+339,0.18425998091697693,discusses,sing,2.159855589277589,ungram,43.0,int,The philosopher who the scientists discusses during the radio program rarely expresses his ideas in plain language.,pl,17.41471290588379,sing
+340,0.36061474680900574,discuss,pl,2.0526508859834367,ungram,43.0,int,The philosophers who the scientist discuss during the radio program rarely express their ideas in plain language.,sing,13.53767204284668,pl
+341,0.7176779508590698,discusses,pl,1.2882902942776095,gram,43.0,unint,The philosophers who the scientist discusses during the radio program rarely express their ideas in plain language.,sing,10.352883338928223,sing
+342,0.5298652052879333,discuss,sing,1.8505008481257572,ungram,43.0,unint,The philosopher who the scientist discuss during the radio program rarely expresses his ideas in plain language.,sing,16.483076095581055,pl
+343,0.5596083402633667,discusses,sing,1.7227841383295424,gram,43.0,int,The philosopher who the scientist discusses during the radio program rarely expresses his ideas in plain language.,sing,10.89472484588623,sing
+344,0.5714867115020752,consult,pl,1.6524804568725668,gram,44.0,int,The lawyers who the candidates consult every morning tell him what campaign money they are allowed to accept.,pl,14.837444305419922,pl
+345,,consults,pl,,ungram,44.0,unint,The lawyers who the candidates consults every morning tell him what campaign money they are allowed to accept.,pl,,sing
+346,0.6388294100761414,consult,sing,1.4907304755198818,gram,44.0,unint,The lawyer who the candidates consult every morning tells him what campaign money he is allowed to accept.,pl,14.437054634094238,pl
+347,,consults,sing,,ungram,44.0,int,The lawyer who the candidates consults every morning tells him what campaign money he is allowed to accept.,pl,,sing
+348,0.5207237601280212,consult,pl,1.765661480564671,ungram,44.0,int,The lawyers who the candidate consult every morning tell him what campaign money they are allowed to accept.,sing,15.873639106750488,pl
+349,,consults,pl,,gram,44.0,unint,The lawyers who the candidate consults every morning tell him what campaign money they are allowed to accept.,sing,,sing
+350,0.5223020315170288,consult,sing,1.7726090477786578,ungram,44.0,unint,The lawyer who the candidate consult every morning tells him what campaign money he is allowed to accept.,sing,15.423182487487793,pl
+351,,consults,sing,,gram,44.0,int,The lawyer who the candidate consults every morning tells him what campaign money he is allowed to accept.,sing,,sing
+352,0.7374950647354126,praise,pl,1.300409959720312,gram,45.0,int,The musicians who the reviewers praise so highly will probably win a Grammy.,pl,8.70149040222168,pl
+353,0.5405586361885071,praises,pl,1.7159274030068452,ungram,45.0,unint,The musicians who the reviewers praises so highly will probably win a Grammy.,pl,14.54544448852539,sing
+354,0.864855170249939,praise,sing,0.7948575870989631,gram,45.0,unint,The musician who the reviewers praise so highly will probably win a Grammy.,pl,9.881994247436523,pl
+355,0.3593713641166687,praises,sing,2.031963982710749,ungram,45.0,int,The musician who the reviewers praises so highly will probably win a Grammy.,pl,14.10916805267334,sing
+356,0.5879994630813599,praise,pl,1.7065568025163471,ungram,45.0,int,The musicians who the reviewer praise so highly will probably win a Grammy.,sing,15.140568733215332,pl
+357,0.8350967764854431,praises,pl,0.8538212072022304,gram,45.0,unint,The musicians who the reviewer praises so highly will probably win a Grammy.,sing,8.883394241333008,sing
+358,0.769793689250946,praise,sing,1.2005041342996539,ungram,45.0,unint,The musician who the reviewer praise so highly will probably win a Grammy.,sing,16.40085220336914,pl
+359,0.6781435608863831,praises,sing,1.3559106782973378,gram,45.0,int,The musician who the reviewer praises so highly will probably win a Grammy.,sing,9.081446647644043,sing
+360,0.5710191130638123,give,pl,1.7934224909570473,gram,46.0,int,The receptionists who the bosses give the biggest projects never fail to do a stellar job.,pl,9.110300064086914,pl
+361,0.25102701783180237,gives,pl,2.2905215444052467,ungram,46.0,unint,The receptionists who the bosses gives the biggest projects never fail to do a stellar job.,pl,16.81765365600586,sing
+362,0.7552503347396851,give,sing,1.2249085176114194,gram,46.0,unint,The receptionist who the bosses give the biggest projects never fails to do a stellar job.,pl,10.65941047668457,pl
+363,0.16956326365470886,gives,sing,2.2884165452670517,ungram,46.0,int,The receptionist who the bosses gives the biggest projects never fails to do a stellar job.,pl,17.210248947143555,sing
+364,0.32579872012138367,give,pl,2.1712818463527053,ungram,46.0,int,The receptionists who the boss give the biggest projects never fail to do a stellar job.,sing,14.160754203796387,pl
+365,0.7296103835105896,gives,pl,1.2843019707920034,gram,46.0,unint,The receptionists who the boss gives the biggest projects never fail to do a stellar job.,sing,9.428496360778809,sing
+366,0.43047085404396057,give,sing,2.1224216274384395,ungram,46.0,unint,The receptionist who the boss give the biggest projects never fails to do a stellar job.,sing,15.01615047454834,pl
+367,0.5567876696586609,gives,sing,1.8038574288912987,gram,46.0,int,The receptionist who the boss gives the biggest projects never fails to do a stellar job.,sing,10.062829971313477,sing
+368,0.6500398516654968,create,pl,1.5352171273916524,gram,47.0,int,The actresses who the designers create award show dresses for are extremely fickle and demanding.,pl,10.8211669921875,pl
+369,0.36393478512763977,creates,pl,1.9489056162671818,ungram,47.0,unint,The actresses who the designers creates award show dresses for are extremely fickle and demanding.,pl,16.870136260986328,sing
+370,0.8294475078582764,create,sing,0.9808081005779355,gram,47.0,unint,The actress who the designers create award show dresses for is extremely fickle and demanding.,pl,12.213326454162598,pl
+371,0.2548331320285797,creates,sing,2.2191409203577845,ungram,47.0,int,The actress who the designers creates award show dresses for is extremely fickle and demanding.,pl,17.68060302734375,sing
+372,0.41165444254875183,create,pl,1.9987721692467557,ungram,47.0,int,The actresses who the designer create award show dresses for are extremely fickle and demanding.,sing,16.97382926940918,pl
+373,0.7928268909454346,creates,pl,1.0459962463475172,gram,47.0,unint,The actresses who the designer creates award show dresses for are extremely fickle and demanding.,sing,11.210644721984863,sing
+374,0.6134917140007019,create,sing,1.7638097298163353,ungram,47.0,unint,The actress who the designer create award show dresses for is extremely fickle and demanding.,sing,18.581239700317383,pl
+375,0.643741250038147,creates,sing,1.6074058863398752,gram,47.0,int,The actress who the designer creates award show dresses for is extremely fickle and demanding.,sing,11.835601806640625,sing
+376,0.5838111042976379,oversee,pl,1.7919267137931594,gram,48.0,int,The programmers who the managers oversee at the software firm are eccentric and difficult to control.,pl,11.742328643798828,pl
+377,0.30852681398391724,oversees,pl,2.2423010300435187,ungram,48.0,unint,The programmers who the managers oversees at the software firm are eccentric and difficult to control.,pl,16.63431739807129,sing
+378,0.7308565974235535,oversee,sing,1.3774083619037771,gram,48.0,unint,The programmer who the managers oversee at the software firm is eccentric and difficult to control.,pl,13.95814037322998,pl
+379,0.18187926709651947,oversees,sing,2.25381587915729,ungram,48.0,int,The programmer who the managers oversees at the software firm is eccentric and difficult to control.,pl,16.621763229370117,sing
+380,0.4041982591152191,oversee,pl,2.0925575925865547,ungram,48.0,int,The programmers who the manager oversee at the software firm are eccentric and difficult to control.,sing,16.33272361755371,pl
+381,0.7852211594581604,oversees,pl,1.1454494806479847,gram,48.0,unint,The programmers who the manager oversees at the software firm are eccentric and difficult to control.,sing,10.388233184814453,sing
+382,0.447013258934021,oversee,sing,2.1001498707859536,ungram,48.0,unint,The programmer who the manager oversee at the software firm is eccentric and difficult to control.,sing,19.714418411254883,pl
+383,0.5867643356323242,oversees,sing,1.777639543816269,gram,48.0,int,The programmer who the manager oversees at the software firm is eccentric and difficult to control.,sing,11.207545280456543,sing

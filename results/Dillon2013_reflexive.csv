@@ -1,0 +1,385 @@
+,attn_to_target,crit,distractor,entropy,grammaticality,id,interference,sentence,subject,surprisal,verb
+0,0.25851574540138245,themselves,pl,2.0609141157147244,gram,1.0,int,The tall nurses who cared for the elderly widows definitely pricked themselves with a used syringe.,pl,5.694944858551025,sing
+1,0.044280845671892166,herself,pl,2.315169241415384,ungram,1.0,unint,The tall nurses who cared for the elderly widows definitely pricked herself with a used syringe.,pl,10.431891441345215,sing
+2,0.3105835020542145,themselves,sing,1.926530614680433,gram,1.0,unint,The tall nurses who cared for the elderly widow definitely pricked themselves with a used syringe.,pl,6.895465850830078,sing
+3,0.059587057679891586,herself,sing,2.4161666489033955,ungram,1.0,int,The tall nurses who cared for the elderly widow definitely pricked herself with a used syringe.,pl,7.917213439941406,sing
+4,0.1817186325788498,herself,pl,2.116315532095454,gram,1.0,unint,The tall nurse who cared for the elderly widows definitely pricked herself with a used syringe.,sing,7.1189680099487305,sing
+5,0.1369481086730957,themselves,pl,2.651216591393415,ungram,1.0,int,The tall nurse who cared for the elderly widows definitely pricked themselves with a used syringe.,sing,8.823043823242188,sing
+6,0.18838320672512054,herself,sing,2.199863061880105,gram,1.0,int,The tall nurse who cared for the elderly widow definitely pricked herself with a used syringe.,sing,6.967552661895752,sing
+7,0.1504599004983902,themselves,sing,2.518590489275957,ungram,1.0,unint,The tall nurse who cared for the elderly widow definitely pricked themselves with a used syringe.,sing,12.33609676361084,sing
+8,,themselves,pl,1.9642304598430704,gram,2.0,int,The legendary divas who sang with graceful harpists clearly presented themselves with lots of fanfare.,pl,2.1227622032165527,sing
+9,,herself,pl,1.7922175666911062,ungram,2.0,unint,The legendary divas who sang with graceful harpists clearly presented herself with lots of fanfare.,pl,7.957195281982422,sing
+10,,themselves,sing,1.856271475511223,gram,2.0,unint,The legendary divas who sang with graceful harpist clearly presented themselves with lots of fanfare.,pl,2.302720069885254,sing
+11,,herself,sing,1.819604416016148,ungram,2.0,int,The legendary divas who sang with graceful harpist clearly presented herself with lots of fanfare.,pl,6.44787073135376,sing
+12,,herself,pl,1.9403340810422596,gram,2.0,unint,The legendary diva who sang with the graceful harpists clearly presented herself with lots of fanfare.,sing,2.532287120819092,sing
+13,,themselves,pl,1.8792948376736351,ungram,2.0,int,The legendary diva who sang with the graceful harpists clearly presented themselves with lots of fanfare.,sing,6.152618408203125,sing
+14,,herself,sing,1.9854469775854076,gram,2.0,int,The legendary diva who sang with the graceful harpist clearly presented herself with lots of fanfare.,sing,2.4082159996032715,sing
+15,,themselves,sing,1.7513350770704934,ungram,2.0,unint,The legendary diva who sang with the graceful harpist clearly presented themselves with lots of fanfare.,sing,8.305487632751465,sing
+16,,themselves,pl,2.852879150857853,gram,3.0,int,The nice beauticians who advised the beauty queens probably dabbed themselves with imported French perfume.,pl,6.748464107513428,sing
+17,,herself,pl,2.6943708025985478,ungram,3.0,unint,The nice beauticians who advised the beauty queens probably dabbed herself with imported French perfume.,pl,11.597758293151855,sing
+18,,themselves,sing,2.391912074593464,gram,3.0,unint,The nice beauticians who advised the beauty queen probably dabbed themselves with imported French perfume.,pl,7.004868030548096,sing
+19,,herself,sing,2.896511495842133,ungram,3.0,int,The nice beauticians who advised the beauty queen probably dabbed herself with imported French perfume.,pl,9.034472465515137,sing
+20,,herself,pl,2.7602932654845334,gram,3.0,unint,The nice beautician who advised the beauty queens probably dabbed herself with imported French perfume.,sing,7.160011291503906,sing
+21,,themselves,pl,2.796469854911031,ungram,3.0,int,The nice beautician who advised the beauty queens probably dabbed themselves with imported French perfume.,sing,8.714040756225586,sing
+22,,herself,sing,2.853334322912331,gram,3.0,int,The nice beautician who advised the beauty queen probably dabbed herself with imported French perfume.,sing,6.661036491394043,sing
+23,,themselves,sing,2.773830769794785,ungram,3.0,unint,The nice beautician who advised the beauty queen probably dabbed themselves with imported French perfume.,sing,11.32318115234375,sing
+24,,themselves,pl,2.208721928086997,gram,4.0,int,The talented hairdressers who worked with the friendly manicurists obviously cut themselves with some rusty scissors.,pl,6.3455915451049805,sing
+25,,herself,pl,1.8794347738801114,ungram,4.0,unint,The talented hairdressers who worked with the friendly manicurists obviously cut herself with some rusty scissors.,pl,12.947436332702637,sing
+26,,themselves,sing,2.1764004158388066,gram,4.0,unint,The talented hairdressers who worked with the friendly manicurist obviously cut themselves with some rusty scissors.,pl,6.083571434020996,sing
+27,,herself,sing,2.2352961502834567,ungram,4.0,int,The talented hairdressers who worked with the friendly manicurist obviously cut herself with some rusty scissors.,pl,11.226045608520508,sing
+28,,herself,pl,2.0939447790545813,gram,4.0,unint,The talented hairdresser who worked with the friendly manicurists obviously cut herself with some rusty scissors.,sing,7.810938835144043,sing
+29,,themselves,pl,1.7766266352292868,ungram,4.0,int,The talented hairdresser who worked with the friendly manicurists obviously cut themselves with some rusty scissors.,sing,8.614859580993652,sing
+30,,herself,sing,2.3217492298773093,gram,4.0,int,The talented hairdresser who worked with the friendly manicurist obviously cut herself with some rusty scissors.,sing,7.213036060333252,sing
+31,,themselves,sing,1.6853325908651395,ungram,4.0,unint,The talented hairdresser who worked with the friendly manicurist obviously cut themselves with some rusty scissors.,sing,10.278685569763184,sing
+32,,themselves,pl,2.908400051175788,gram,5.0,int,The artsy florists who helped the elegant designers unfortunately nicked themselves on a rose thorn.,pl,7.721071243286133,sing
+33,,herself,pl,2.8902579687536836,ungram,5.0,unint,The artsy florists who helped the elegant designers unfortunately nicked herself on a rose thorn.,pl,12.80876350402832,sing
+34,,themselves,sing,2.6380352788011407,gram,5.0,unint,The artsy florists who helped the elegant designer unfortunately nicked themselves on a rose thorn.,pl,8.296566009521484,sing
+35,,herself,sing,3.1052894054890503,ungram,5.0,int,The artsy florists who helped the elegant designer unfortunately nicked herself on a rose thorn.,pl,10.700822830200195,sing
+36,,herself,pl,2.79856332247414,gram,5.0,unint,The artsy florist who helped the elegant designers unfortunately nicked herself on a rose thorn.,sing,8.033246994018555,sing
+37,,themselves,pl,2.8452418778549364,ungram,5.0,int,The artsy florist who helped the elegant designers unfortunately nicked themselves on a rose thorn.,sing,10.704872131347656,sing
+38,,herself,sing,3.005343525598451,gram,5.0,int,The artsy florist who helped the elegant designer unfortunately nicked herself on a rose thorn.,sing,8.165915489196777,sing
+39,,themselves,sing,2.5073689121516303,ungram,5.0,unint,The artsy florist who helped the elegant designer unfortunately nicked themselves on a rose thorn.,sing,13.928495407104492,sing
+40,,themselves,pl,2.287134421404926,gram,6.0,int,The nimble gymnasts who studied with the female coaches certainly bruised themselves on the uneven bars.,pl,4.039045810699463,sing
+41,,herself,pl,2.505518397529744,ungram,6.0,unint,The nimble gymnasts who studied with the female coaches certainly bruised herself on the uneven bars.,pl,10.8798828125,sing
+42,,themselves,sing,2.142493396978653,gram,6.0,unint,The nimble gymnasts who studied with the female coach certainly bruised themselves on the uneven bars.,pl,4.199215412139893,sing
+43,,herself,sing,2.5785285463584118,ungram,6.0,int,The nimble gymnasts who studied with the female coach certainly bruised herself on the uneven bars.,pl,9.440641403198242,sing
+44,,herself,pl,2.2925209566815146,gram,6.0,unint,The nimble gymnast who studied with the female coaches certainly bruised herself on the uneven bars.,sing,5.639001369476318,sing
+45,,themselves,pl,2.7488602581813413,ungram,6.0,int,The nimble gymnast who studied with the female coaches certainly bruised themselves on the uneven bars.,sing,8.94221305847168,sing
+46,,herself,sing,2.365196802086102,gram,6.0,int,The nimble gymnast who studied with the female coach certainly bruised herself on the uneven bars.,sing,5.534612655639648,sing
+47,,themselves,sing,2.678102723741685,ungram,6.0,unint,The nimble gymnast who studied with the female coach certainly bruised themselves on the uneven bars.,sing,10.932677268981934,sing
+48,,themselves,pl,2.3209339583385282,gram,7.0,int,The midwives who attended to the expectant mothers probably supported themselves with private childbirth consultations.,pl,7.938394069671631,sing
+49,,herself,pl,2.269698979317212,ungram,7.0,unint,The midwives who attended to the expectant mothers probably supported herself with private childbirth consultations.,pl,11.60964298248291,sing
+50,,themselves,sing,1.9095917318513695,gram,7.0,unint,The midwives who attended to the expectant mother probably supported themselves with private childbirth consultations.,pl,8.73304271697998,sing
+51,,herself,sing,2.4710564996923314,ungram,7.0,int,The midwives who attended to the expectant mother probably supported herself with private childbirth consultations.,pl,8.405356407165527,sing
+52,,herself,pl,2.3702968509100346,gram,7.0,unint,The midwife who attended to the expectant mothers probably supported herself with private childbirth consultations.,sing,9.324317932128906,sing
+53,,themselves,pl,2.5536251063358892,ungram,7.0,int,The midwife who attended to the expectant mothers probably supported themselves with private childbirth consultations.,sing,8.670475959777832,sing
+54,,herself,sing,2.4105883060326923,gram,7.0,int,The midwife who attended to the expectant mother probably supported herself with private childbirth consultations.,sing,7.1271538734436035,sing
+55,,themselves,sing,2.420141248036509,ungram,7.0,unint,The midwife who attended to the expectant mother probably supported themselves with private childbirth consultations.,sing,10.721123695373535,sing
+56,0.204415962100029,themselves,pl,2.563568746688085,gram,8.0,int,The new mothers who interviewed the teenage babysitters definitely stressed themselves out in the process.,pl,9.965353965759277,sing
+57,0.01677323319017887,herself,pl,2.3064194730170433,ungram,8.0,unint,The new mothers who interviewed the teenage babysitters definitely stressed herself out in the process.,pl,14.657646179199219,sing
+58,0.22011800110340118,themselves,sing,2.446669503697081,gram,8.0,unint,The new mothers who interviewed the teenage babysitter definitely stressed themselves out in the process.,pl,10.197200775146484,sing
+59,0.0177689790725708,herself,sing,2.4540298152865505,ungram,8.0,int,The new mothers who interviewed the teenage babysitter definitely stressed herself out in the process.,pl,12.390180587768555,sing
+60,0.10147290676832199,herself,pl,2.537379467209576,gram,8.0,unint,The new mother who interviewed the teenage babysitters definitely stressed herself out in the process.,sing,9.22761058807373,sing
+61,0.051396481692790985,themselves,pl,2.9213857776990086,ungram,8.0,int,The new mother who interviewed the teenage babysitters definitely stressed themselves out in the process.,sing,12.639812469482422,sing
+62,0.09075251966714859,herself,sing,2.602903346907589,gram,8.0,int,The new mother who interviewed the teenage babysitter definitely stressed herself out in the process.,sing,9.18995475769043,sing
+63,0.055526018142700195,themselves,sing,2.7617693758256725,ungram,8.0,unint,The new mother who interviewed the teenage babysitter definitely stressed themselves out in the process.,sing,14.257978439331055,sing
+64,,themselves,pl,3.035342501344113,gram,9.0,int,The quick typists who assisted the female lawyers clearly trusted themselves to organize the office.,pl,7.370174884796143,sing
+65,,herself,pl,2.07295968239467,ungram,9.0,unint,The quick typists who assisted the female lawyers clearly trusted herself to organize the office.,pl,10.36783504486084,sing
+66,,themselves,sing,2.8395720718389827,gram,9.0,unint,The quick typists who assisted the female lawyer clearly trusted themselves to organize the office.,pl,7.9677839279174805,sing
+67,,herself,sing,2.3890588930909797,ungram,9.0,int,The quick typists who assisted the female lawyer clearly trusted herself to organize the office.,pl,8.857019424438477,sing
+68,,herself,pl,2.3973683455274766,gram,9.0,unint,The quick typist who assisted the female lawyers clearly trusted herself to organize the office.,sing,7.834757328033447,sing
+69,,themselves,pl,2.9864406700446997,ungram,9.0,int,The quick typist who assisted the female lawyers clearly trusted themselves to organize the office.,sing,9.216254234313965,sing
+70,,herself,sing,2.5923186065449784,gram,9.0,int,The quick typist who assisted the female lawyer clearly trusted herself to organize the office.,sing,7.3698506355285645,sing
+71,,themselves,sing,2.9084268749395172,ungram,9.0,unint,The quick typist who assisted the female lawyer clearly trusted themselves to organize the office.,sing,11.557939529418945,sing
+72,,themselves,pl,2.7426897204465526,gram,10.0,int,The stern librarians who glared at the loud children probably amused themselves by reorganizing the books.,pl,0.2349647581577301,sing
+73,,herself,pl,2.1304279661024403,ungram,10.0,unint,The stern librarians who glared at the loud children probably amused herself by reorganizing the books.,pl,5.749141216278076,sing
+74,,themselves,sing,2.517278069304422,gram,10.0,unint,The stern librarians who glared at the loud child probably amused themselves by reorganizing the books.,pl,0.32827332615852356,sing
+75,,herself,sing,2.4154405467117144,ungram,10.0,int,The stern librarians who glared at the loud child probably amused herself by reorganizing the books.,pl,4.341660499572754,sing
+76,,herself,pl,2.4504564363518306,gram,10.0,unint,The stern librarian who glared at the loud children probably amused herself by reorganizing the books.,sing,1.4440022706985474,sing
+77,,themselves,pl,2.8054532031611155,ungram,10.0,int,The stern librarian who glared at the loud children probably amused themselves by reorganizing the books.,sing,3.5017073154449463,sing
+78,,herself,sing,2.605725056284171,gram,10.0,int,The stern librarian who glared at the loud child probably amused herself by reorganizing the books.,sing,1.2498064041137695,sing
+79,,themselves,sing,2.760656254685335,ungram,10.0,unint,The stern librarian who glared at the loud child probably amused themselves by reorganizing the books.,sing,5.0766706466674805,sing
+80,0.23794065415859222,themselves,pl,2.571905973427123,gram,11.0,int,The aging nuns who taught the young choirgirls definitely exhausted themselves by teaching too much.,pl,1.60848867893219,sing
+81,0.020824501290917397,herself,pl,2.198875420917939,ungram,11.0,unint,The aging nuns who taught the young choirgirls definitely exhausted herself by teaching too much.,pl,8.243793487548828,sing
+82,0.27277737855911255,themselves,sing,2.3835175525083847,gram,11.0,unint,The aging nuns who taught the young choirgirl definitely exhausted themselves by teaching too much.,pl,1.8448821306228638,sing
+83,0.024947889149188995,herself,sing,2.4150785129760766,ungram,11.0,int,The aging nuns who taught the young choirgirl definitely exhausted herself by teaching too much.,pl,4.268896579742432,sing
+84,0.10351932048797607,herself,pl,2.3997035115580863,gram,11.0,unint,The aging nun who taught the young choirgirls definitely exhausted herself by teaching too much.,sing,2.30139422416687,sing
+85,0.08444011211395264,themselves,pl,2.9157161520059347,ungram,11.0,int,The aging nun who taught the young choirgirls definitely exhausted themselves by teaching too much.,sing,5.566808223724365,sing
+86,0.09510492533445358,herself,sing,2.5204870516632907,gram,11.0,int,The aging nun who taught the young choirgirl definitely exhausted herself by teaching too much.,sing,1.7944673299789429,sing
+87,0.10059359669685364,themselves,sing,2.77678921036002,ungram,11.0,unint,The aging nun who taught the young choirgirl definitely exhausted themselves by teaching too much.,sing,8.153873443603516,sing
+88,,themselves,pl,2.0322419585703604,gram,12.0,int,The strict nannies who babysat the well-behaved schoolgirls evidently burned themselves preparing a hot soup.,pl,5.460273742675781,sing
+89,,herself,pl,1.7388423375436022,ungram,12.0,unint,The strict nannies who babysat the well-behaved schoolgirls evidently burned herself preparing a hot soup.,pl,10.543684959411621,sing
+90,,themselves,sing,1.9542657710086608,gram,12.0,unint,The strict nannies who babysat the well-behaved schoolgirl evidently burned themselves preparing a hot soup.,pl,6.053581237792969,sing
+91,,herself,sing,1.876700067255891,ungram,12.0,int,The strict nannies who babysat the well-behaved schoolgirl evidently burned herself preparing a hot soup.,pl,7.728554725646973,sing
+92,,herself,pl,1.9568315507338447,gram,12.0,unint,The strict nanny who babysat the well-behaved schoolgirls evidently burned herself preparing a hot soup.,sing,7.23012638092041,sing
+93,,themselves,pl,2.0261378784381523,ungram,12.0,int,The strict nanny who babysat the well-behaved schoolgirls evidently burned themselves preparing a hot soup.,sing,7.3296284675598145,sing
+94,,herself,sing,2.042108402573452,gram,12.0,int,The strict nanny who babysat the well-behaved schoolgirl evidently burned herself preparing a hot soup.,sing,6.103024005889893,sing
+95,,themselves,sing,1.9645088429258046,ungram,12.0,unint,The strict nanny who babysat the well-behaved schoolgirl evidently burned themselves preparing a hot soup.,sing,10.169838905334473,sing
+96,0.278786838054657,themselves,pl,2.4206154377195714,gram,13.0,int,The dramatic actresses who promoted the opera singers apparently volunteered themselves for a television commerical.,pl,7.246601581573486,sing
+97,0.023753689602017403,herself,pl,2.087750513256871,ungram,13.0,unint,The dramatic actresses who promoted the opera singers apparently volunteered herself for a television commerical.,pl,13.435126304626465,sing
+98,0.33086368441581726,themselves,sing,2.259279016103166,gram,13.0,unint,The dramatic actresses who promoted the opera singer apparently volunteered themselves for a television commerical.,pl,7.628634452819824,sing
+99,0.02817482315003872,herself,sing,2.1580733342209446,ungram,13.0,int,The dramatic actresses who promoted the opera singer apparently volunteered herself for a television commerical.,pl,11.579524040222168,sing
+100,0.09972485899925232,herself,pl,2.3465972394334136,gram,13.0,unint,The dramatic actress who promoted the opera singers apparently volunteered herself for a television commerical.,sing,7.750099182128906,sing
+101,0.07522982358932495,themselves,pl,2.5905173314080554,ungram,13.0,int,The dramatic actress who promoted the opera singers apparently volunteered themselves for a television commerical.,sing,15.18411922454834,sing
+102,0.08981151878833771,herself,sing,2.365122475833467,gram,13.0,int,The dramatic actress who promoted the opera singer apparently volunteered herself for a television commerical.,sing,8.124744415283203,sing
+103,0.08661402016878128,themselves,sing,2.4293486025699687,ungram,13.0,unint,The dramatic actress who promoted the opera singer apparently volunteered themselves for a television commerical.,sing,17.048051834106445,sing
+104,,themselves,pl,2.780881139448214,gram,14.0,int,The nimble ballerinas who danced with the jazz dancers clearly disoriented themselves with the complicated dance.,pl,3.9349493980407715,sing
+105,,herself,pl,2.542141931489817,ungram,14.0,unint,The nimble ballerinas who danced with the jazz dancers clearly disoriented herself with the complicated dance.,pl,9.347081184387207,sing
+106,,themselves,sing,2.407713054414099,gram,14.0,unint,The nimble ballerinas who danced with the jazz dancer clearly disoriented themselves with the complicated dance.,pl,4.191572189331055,sing
+107,,herself,sing,2.703060581184215,ungram,14.0,int,The nimble ballerinas who danced with the jazz dancer clearly disoriented herself with the complicated dance.,pl,8.59694766998291,sing
+108,,herself,pl,2.327962920672805,gram,14.0,unint,The nimble ballerina who danced with the jazz dancers clearly disoriented herself with the complicated dance.,sing,7.279035568237305,sing
+109,,themselves,pl,3.033859941745569,ungram,14.0,int,The nimble ballerina who danced with the jazz dancers clearly disoriented themselves with the complicated dance.,sing,8.476408958435059,sing
+110,,herself,sing,2.529377816329907,gram,14.0,int,The nimble ballerina who danced with the jazz dancer clearly disoriented herself with the complicated dance.,sing,6.86292028427124,sing
+111,,themselves,sing,2.964271136754079,ungram,14.0,unint,The nimble ballerina who danced with the jazz dancer clearly disoriented themselves with the complicated dance.,sing,11.063380241394043,sing
+112,0.2613646984100342,themselves,pl,2.4066856530185117,gram,15.0,int,The evil witches who stalked the royal princesses supposedly poisoned themselves with a cursed apple.,pl,8.251357078552246,sing
+113,0.04396987333893776,herself,pl,2.0754354750142734,ungram,15.0,unint,The evil witches who stalked the royal princesses supposedly poisoned herself with a cursed apple.,pl,8.106935501098633,sing
+114,0.2839980125427246,themselves,sing,2.253487110649319,gram,15.0,unint,The evil witches who stalked the royal princess supposedly poisoned themselves with a cursed apple.,pl,9.350822448730469,sing
+115,0.049356382340192795,herself,sing,2.1246768248360604,ungram,15.0,int,The evil witches who stalked the royal princess supposedly poisoned herself with a cursed apple.,pl,7.443130016326904,sing
+116,0.19277019798755646,herself,pl,2.236633233267563,gram,15.0,unint,The evil witch who stalked the royal princesses supposedly poisoned herself with a cursed apple.,sing,6.820309162139893,sing
+117,0.0631597638130188,themselves,pl,2.5170832670103147,ungram,15.0,int,The evil witch who stalked the royal princesses supposedly poisoned themselves with a cursed apple.,sing,9.770573616027832,sing
+118,0.18397220969200134,herself,sing,2.2638426560420117,gram,15.0,int,The evil witch who stalked the royal princess supposedly poisoned herself with a cursed apple.,sing,6.3359293937683105,sing
+119,0.07059518247842789,themselves,sing,2.305997594679945,ungram,15.0,unint,The evil witch who stalked the royal princess supposedly poisoned themselves with a cursed apple.,sing,12.171518325805664,sing
+120,,themselves,pl,2.8508991198044127,gram,16.0,int,The hard-working maids who chastised the lazy housekeepers probably upset themselves from doing other people's work.,pl,6.987526893615723,sing
+121,,herself,pl,2.5756577396422435,ungram,16.0,unint,The hard-working maids who chastised the lazy housekeepers probably upset herself from doing other people's work.,pl,10.159866333007812,sing
+122,,themselves,sing,2.648133041149669,gram,16.0,unint,The hard-working maids who chastised the lazy housekeeper probably upset themselves from doing other people's work.,pl,8.392273902893066,sing
+123,,herself,sing,2.7875572375087696,ungram,16.0,int,The hard-working maids who chastised the lazy housekeeper probably upset herself from doing other people's work.,pl,8.953592300415039,sing
+124,0.06444776058197021,herself,pl,2.5896588496104864,gram,16.0,unint,The hard-working maid who chastised the lazy housekeepers probably upset herself from doing other people's work.,sing,8.568039894104004,sing
+125,0.05447481945157051,themselves,pl,3.058942186573113,ungram,16.0,int,The hard-working maid who chastised the lazy housekeepers probably upset themselves from doing other people's work.,sing,9.245623588562012,sing
+126,0.06051706150174141,herself,sing,2.75792987494786,gram,16.0,int,The hard-working maid who chastised the lazy housekeeper probably upset herself from doing other people's work.,sing,8.287257194519043,sing
+127,0.062362782657146454,themselves,sing,2.925381471217139,ungram,16.0,unint,The hard-working maid who chastised the lazy housekeeper probably upset themselves from doing other people's work.,sing,11.254439353942871,sing
+128,0.24924422800540924,themselves,pl,2.7730208140741923,gram,17.0,int,The kindergarten teachers who lectured the young girls clearly prepared themselves thoroughly for each lesson.,pl,6.336299896240234,sing
+129,0.026536500081419945,herself,pl,2.287358188119247,ungram,17.0,unint,The kindergarten teachers who lectured the young girls clearly prepared herself thoroughly for each lesson.,pl,9.692190170288086,sing
+130,0.2988393008708954,themselves,sing,2.4680948269306735,gram,17.0,unint,The kindergarten teachers who lectured the young girl clearly prepared themselves thoroughly for each lesson.,pl,8.474010467529297,sing
+131,0.0324866957962513,herself,sing,2.4528270717535667,ungram,17.0,int,The kindergarten teachers who lectured the young girl clearly prepared herself thoroughly for each lesson.,pl,7.006913185119629,sing
+132,0.14914575219154358,herself,pl,2.513134774369223,gram,17.0,unint,The kindergarten teacher who lectured the young girls clearly prepared herself thoroughly for each lesson.,sing,7.827333450317383,sing
+133,0.04136599227786064,themselves,pl,2.9976507495310165,ungram,17.0,int,The kindergarten teacher who lectured the young girls clearly prepared themselves thoroughly for each lesson.,sing,9.319900512695312,sing
+134,0.10655924677848816,herself,sing,2.57140690764911,gram,17.0,int,The kindergarten teacher who lectured the young girl clearly prepared herself thoroughly for each lesson.,sing,5.317595481872559,sing
+135,0.048776865005493164,themselves,sing,2.91857336303702,ungram,17.0,unint,The kindergarten teacher who lectured the young girl clearly prepared themselves thoroughly for each lesson.,sing,12.248831748962402,sing
+136,0.1358719766139984,themselves,pl,2.6425443024700956,gram,18.0,int,The respected feminists who advised the powerful congresswomen obviously excused themselves from any classified discussions.,pl,0.4377555847167969,sing
+137,0.01725867949426174,herself,pl,2.261417350027428,ungram,18.0,unint,The respected feminists who advised the powerful congresswomen obviously excused herself from any classified discussions.,pl,4.013365745544434,sing
+138,0.160574272274971,themselves,sing,2.378418093780405,gram,18.0,unint,The respected feminists who advised the powerful congresswoman obviously excused themselves from any classified discussions.,pl,0.7530844807624817,sing
+139,0.02132977358996868,herself,sing,2.4283902329103473,ungram,18.0,int,The respected feminists who advised the powerful congresswoman obviously excused herself from any classified discussions.,pl,2.344130516052246,sing
+140,0.05909612402319908,herself,pl,2.4743008844881,gram,18.0,unint,The respected feminist who advised the powerful congresswomen obviously excused herself from any classified discussions.,sing,0.5107395052909851,sing
+141,0.044026777148246765,themselves,pl,2.92259559137798,ungram,18.0,int,The respected feminist who advised the powerful congresswomen obviously excused themselves from any classified discussions.,sing,4.377976894378662,sing
+142,0.062029771506786346,herself,sing,2.587137877190767,gram,18.0,int,The respected feminist who advised the powerful congresswoman obviously excused herself from any classified discussions.,sing,0.5865662693977356,sing
+143,0.05325375124812126,themselves,sing,2.708674910336585,ungram,18.0,unint,The respected feminist who advised the powerful congresswoman obviously excused themselves from any classified discussions.,sing,6.618903160095215,sing
+144,,themselves,pl,2.495973965968732,gram,19.0,int,The dental hygienists who treated the elderly ladies evidently taught themselves how to do root canals.,pl,5.575261116027832,sing
+145,,herself,pl,1.7664884457735326,ungram,19.0,unint,The dental hygienists who treated the elderly ladies evidently taught herself how to do root canals.,pl,10.129064559936523,sing
+146,,themselves,sing,2.4266177025363618,gram,19.0,unint,The dental hygienists who treated the elderly lady evidently taught themselves how to do root canals.,pl,8.848549842834473,sing
+147,,herself,sing,1.9913679338941261,ungram,19.0,int,The dental hygienists who treated the elderly lady evidently taught herself how to do root canals.,pl,7.942814826965332,sing
+148,,herself,pl,1.9989235557775826,gram,19.0,unint,The dental hygienist who treated the elderly ladies evidently taught herself how to do root canals.,sing,7.284224510192871,sing
+149,,themselves,pl,2.357488478669037,ungram,19.0,int,The dental hygienist who treated the elderly ladies evidently taught themselves how to do root canals.,sing,8.209991455078125,sing
+150,,herself,sing,2.125503478605193,gram,19.0,int,The dental hygienist who treated the elderly lady evidently taught herself how to do root canals.,sing,6.303129196166992,sing
+151,,themselves,sing,2.2820941363653655,ungram,19.0,unint,The dental hygienist who treated the elderly lady evidently taught themselves how to do root canals.,sing,12.208611488342285,sing
+152,,themselves,pl,2.4804373870611665,gram,20.0,int,The glamorous supermodels who promoted the fashion designers apparently bruised themselves during the photo shoot.,pl,2.697061061859131,sing
+153,,herself,pl,2.114508526791882,ungram,20.0,unint,The glamorous supermodels who promoted the fashion designers apparently bruised herself during the photo shoot.,pl,10.411757469177246,sing
+154,,themselves,sing,2.2826799613039017,gram,20.0,unint,The glamorous supermodels who promoted the fashion designer apparently bruised themselves during the photo shoot.,pl,3.0151560306549072,sing
+155,,herself,sing,2.3044551682001444,ungram,20.0,int,The glamorous supermodels who promoted the fashion designer apparently bruised herself during the photo shoot.,pl,7.975399971008301,sing
+156,,herself,pl,2.2081614562999867,gram,20.0,unint,The glamorous supermodel who promoted the fashion designers apparently bruised herself during the photo shoot.,sing,4.68660831451416,sing
+157,,themselves,pl,2.5893050425700177,ungram,20.0,int,The glamorous supermodel who promoted the fashion designers apparently bruised themselves during the photo shoot.,sing,7.932925224304199,sing
+158,,herself,sing,2.3268189086947246,gram,20.0,int,The glamorous supermodel who promoted the fashion designer apparently bruised herself during the photo shoot.,sing,4.527860641479492,sing
+159,,themselves,sing,2.443084414590862,ungram,20.0,unint,The glamorous supermodel who promoted the fashion designer apparently bruised themselves during the photo shoot.,sing,11.178057670593262,sing
+160,,themselves,pl,2.625697329388317,gram,21.0,int,The peppy cheerleaders who socialized with the sorority members clearly injured themselves during last night's practice.,pl,1.2466069459915161,sing
+161,,herself,pl,1.8599526125708163,ungram,21.0,unint,The peppy cheerleaders who socialized with the sorority members clearly injured herself during last night's practice.,pl,6.054515361785889,sing
+162,,themselves,sing,2.5645884267594385,gram,21.0,unint,The peppy cheerleaders who socialized with the sorority member clearly injured themselves during last night's practice.,pl,1.711951732635498,sing
+163,,herself,sing,2.06727245571434,ungram,21.0,int,The peppy cheerleaders who socialized with the sorority member clearly injured herself during last night's practice.,pl,4.696789264678955,sing
+164,,herself,pl,2.047358013994855,gram,21.0,unint,The peppy cheerleader who socialized with the sorority members clearly injured herself during last night's practice.,sing,2.903934955596924,sing
+165,,themselves,pl,2.570366373450334,ungram,21.0,int,The peppy cheerleader who socialized with the sorority members clearly injured themselves during last night's practice.,sing,6.216810703277588,sing
+166,,herself,sing,2.162381896900659,gram,21.0,int,The peppy cheerleader who socialized with the sorority member clearly injured herself during last night's practice.,sing,3.187344789505005,sing
+167,,themselves,sing,2.5352661804688816,ungram,21.0,unint,The peppy cheerleader who socialized with the sorority member clearly injured themselves during last night's practice.,sing,7.821905612945557,sing
+168,0.31124967336654663,themselves,pl,2.197211143620219,gram,22.0,int,The cleaning ladies who worked for the aging spinsters seeming preoccupied themselves with the dirty dishes.,pl,11.006930351257324,sing
+169,0.026648979634046555,herself,pl,2.1501020083602778,ungram,22.0,unint,The cleaning ladies who worked for the aging spinsters seeming preoccupied herself with the dirty dishes.,pl,15.345725059509277,sing
+170,0.350845068693161,themselves,sing,1.8946310604146595,gram,22.0,unint,The cleaning ladies who worked for the aging spinster seeming preoccupied themselves with the dirty dishes.,pl,10.064659118652344,sing
+171,0.037044864147901535,herself,sing,2.629500643154002,ungram,22.0,int,The cleaning ladies who worked for the aging spinster seeming preoccupied herself with the dirty dishes.,pl,13.836335182189941,sing
+172,0.21828684210777283,herself,pl,2.4434783779096323,gram,22.0,unint,The cleaning lady who worked for the aging spinsters seemingly preoccupied herself with the dirty dishes.,sing,1.0714595317840576,sing
+173,0.11469461023807526,themselves,pl,2.7265557139043803,ungram,22.0,int,The cleaning lady who worked for the aging spinsters seemingly preoccupied themselves with the dirty dishes.,sing,4.193002700805664,sing
+174,0.22380603849887848,herself,sing,2.613365904574992,gram,22.0,int,The cleaning lady who worked for the aging spinster seemingly preoccupied herself with the dirty dishes.,sing,0.9203775525093079,sing
+175,0.14473116397857666,themselves,sing,2.516350338770881,ungram,22.0,unint,The cleaning lady who worked for the aging spinster seemingly preoccupied themselves with the dirty dishes.,sing,7.425119400024414,sing
+176,0.16962754726409912,themselves,pl,2.1758202742119033,gram,23.0,int,The efficient secretaries who assisted the rapid typists undeniably scratched themselves with the sharp letter-opener.,pl,8.33247184753418,sing
+177,0.02505071833729744,herself,pl,2.0652120175316115,ungram,23.0,unint,The efficient secretaries who assisted the rapid typists undeniably scratched herself with the sharp letter-opener.,pl,16.732006072998047,sing
+178,0.20791958272457123,themselves,sing,1.9822655553433253,gram,23.0,unint,The efficient secretaries who assisted the rapid typist undeniably scratched themselves with the sharp letter-opener.,pl,8.457141876220703,sing
+179,0.033442139625549316,herself,sing,2.296773393256143,ungram,23.0,int,The efficient secretaries who assisted the rapid typist undeniably scratched herself with the sharp letter-opener.,pl,15.64516830444336,sing
+180,0.16145995259284973,herself,pl,2.2478627025026716,gram,23.0,unint,The efficient secretary who assisted the rapid typists undeniably scratched herself with the sharp letter-opener.,sing,12.484345436096191,sing
+181,0.01853201352059841,themselves,pl,2.316879541187098,ungram,23.0,int,The efficient secretary who assisted the rapid typists undeniably scratched themselves with the sharp letter-opener.,sing,11.637277603149414,sing
+182,0.154445618391037,herself,sing,2.329758085773732,gram,23.0,int,The efficient secretary who assisted the rapid typist undeniably scratched herself with the sharp letter-opener.,sing,12.045613288879395,sing
+183,0.021118681877851486,themselves,sing,2.02335095958862,ungram,23.0,unint,The efficient secretary who assisted the rapid typist undeniably scratched themselves with the sharp letter-opener.,sing,13.94666862487793,sing
+184,,themselves,pl,2.1089626107989283,gram,24.0,int,The effective salesmen who worked for the successful entrepreneurs probably recommended themselves for the new manager position.,pl,7.832397937774658,sing
+185,,himself,pl,1.952945012513599,ungram,24.0,unint,The effective salesmen who worked for the successful entrepreneurs probably recommended himself for the new manager position.,pl,12.659259796142578,sing
+186,,themselves,sing,2.014901525213614,gram,24.0,unint,The effective salesmen who worked for the successful entrepreneur probably recommended themselves for the new manager position.,pl,8.064931869506836,sing
+187,,himself,sing,2.0412351711083936,ungram,24.0,int,The effective salesmen who worked for the successful entrepreneur probably recommended himself for the new manager position.,pl,10.12313175201416,sing
+188,0.27353328466415405,himself,pl,2.2360009201846798,gram,24.0,unint,The effective salesman who worked for the successful entrepreneurs probably recommended himself for the new manager position.,sing,9.012125968933105,sing
+189,0.07524081319570541,themselves,pl,2.1992067392579577,ungram,24.0,int,The effective salesman who worked for the successful entrepreneurs probably recommended themselves for the new manager position.,sing,9.851962089538574,sing
+190,0.257251501083374,himself,sing,2.2591790934472766,gram,24.0,int,The effective salesman who worked for the successful entrepreneur probably recommended himself for the new manager position.,sing,8.638415336608887,sing
+191,0.077581986784935,themselves,sing,2.03074420460725,ungram,24.0,unint,The effective salesman who worked for the successful entrepreneur probably recommended themselves for the new manager position.,sing,11.191803932189941,sing
+192,,themselves,pl,2.2066313523205405,gram,25.0,int,The charming butchers who served the picky chefs actually burned themselves in the kitchen.,pl,5.943525314331055,sing
+193,,himself,pl,2.064949745781205,ungram,25.0,unint,The charming butchers who served the picky chefs actually burned himself in the kitchen.,pl,11.41874885559082,sing
+194,,themselves,sing,1.976443802097154,gram,25.0,unint,The charming butchers who served the picky chef actually burned themselves in the kitchen.,pl,6.589832305908203,sing
+195,,himself,sing,2.267173538455233,ungram,25.0,int,The charming butchers who served the picky chef actually burned himself in the kitchen.,pl,8.386453628540039,sing
+196,0.11632893234491348,himself,pl,2.2158499655030592,gram,25.0,unint,The charming butcher who served the picky chefs actually burned himself in the kitchen.,sing,6.151834487915039,sing
+197,0.03698267787694931,themselves,pl,2.1692417278494336,ungram,25.0,int,The charming butcher who served the picky chefs actually burned themselves in the kitchen.,sing,8.04085922241211,sing
+198,0.10934366285800934,himself,sing,2.311779583627509,gram,25.0,int,The charming butcher who served the picky chef actually burned himself in the kitchen.,sing,5.627908706665039,sing
+199,0.04725879803299904,themselves,sing,2.043933921768367,ungram,25.0,unint,The charming butcher who served the picky chef actually burned themselves in the kitchen.,sing,11.815640449523926,sing
+200,,themselves,pl,2.6190792450281783,gram,26.0,int,The hilarious clowns who entertained the circus lion-tamers likely slapped themselves for a quick laugh.,pl,6.22045373916626,sing
+201,,himself,pl,3.104297830300371,ungram,26.0,unint,The hilarious clowns who entertained the circus lion-tamers likely slapped himself for a quick laugh.,pl,10.97211742401123,sing
+202,,themselves,sing,2.227760013919391,gram,26.0,unint,The hilarious clowns who entertained the circus lion-tamer likely slapped themselves for a quick laugh.,pl,6.565011024475098,sing
+203,,himself,sing,3.1672632020811853,ungram,26.0,int,The hilarious clowns who entertained the circus lion-tamer likely slapped himself for a quick laugh.,pl,10.205484390258789,sing
+204,0.17422813177108765,himself,pl,2.9434865050286407,gram,26.0,unint,The hilarious clown who entertained the circus lion-tamers likely slapped himself for a quick laugh.,sing,6.935441493988037,sing
+205,0.04124966636300087,themselves,pl,2.8094990091698127,ungram,26.0,int,The hilarious clown who entertained the circus lion-tamers likely slapped themselves for a quick laugh.,sing,8.594037055969238,sing
+206,0.17558033764362335,himself,sing,2.993241125174946,gram,26.0,int,The hilarious clown who entertained the circus lion-tamer likely slapped himself for a quick laugh.,sing,6.878162860870361,sing
+207,0.0671510174870491,themselves,sing,2.7159023513313403,ungram,26.0,unint,The hilarious clown who entertained the circus lion-tamer likely slapped themselves for a quick laugh.,sing,12.94778060913086,sing
+208,,themselves,pl,2.3058005927154253,gram,27.0,int,The wealthy heiresses who yelled at the lazy maids undeniably ruined themselves in an embezzlement scandal.,pl,7.660651683807373,sing
+209,,herself,pl,2.231267839790628,ungram,27.0,unint,The wealthy heiresses who yelled at the lazy maids undeniably ruined herself in an embezzlement scandal.,pl,10.273962020874023,sing
+210,,themselves,sing,2.1245589836283414,gram,27.0,unint,The wealthy heiresses who yelled at the lazy maid undeniably ruined themselves in an embezzlement scandal.,pl,8.04765796661377,sing
+211,,herself,sing,2.3377663314963604,ungram,27.0,int,The wealthy heiresses who yelled at the lazy maid undeniably ruined herself in an embezzlement scandal.,pl,9.967799186706543,sing
+212,,herself,pl,2.297954478823585,gram,27.0,unint,The wealthy heiress who yelled at the lazy maids undeniably ruined herself in an embezzlement scandal.,sing,8.634925842285156,sing
+213,,themselves,pl,2.0062482374696753,ungram,27.0,int,The wealthy heiress who yelled at the lazy maids undeniably ruined themselves in an embezzlement scandal.,sing,8.54290771484375,sing
+214,,herself,sing,2.3727508137142923,gram,27.0,int,The wealthy heiress who yelled at the lazy maid undeniably ruined herself in an embezzlement scandal.,sing,8.447742462158203,sing
+215,,themselves,sing,1.7329530932519257,ungram,27.0,unint,The wealthy heiress who yelled at the lazy maid undeniably ruined themselves in an embezzlement scandal.,sing,9.244630813598633,sing
+216,0.1793297529220581,themselves,pl,2.2685723603743124,gram,28.0,int,The cruel hunters who accompanied the accurate sharpshooters surely shot themselves in the left foot.,pl,5.512474060058594,sing
+217,0.06638677418231964,himself,pl,2.10251142748369,ungram,28.0,unint,The cruel hunters who accompanied the accurate sharpshooters surely shot himself in the left foot.,pl,10.993267059326172,sing
+218,0.20224079489707947,themselves,sing,2.148930510978365,gram,28.0,unint,The cruel hunters who accompanied the accurate sharpshooter surely shot themselves in the left foot.,pl,5.255051136016846,sing
+219,0.07680950313806534,himself,sing,2.2541535413318714,ungram,28.0,int,The cruel hunters who accompanied the accurate sharpshooter surely shot himself in the left foot.,pl,8.537921905517578,sing
+220,0.18178075551986694,himself,pl,2.259240052778222,gram,28.0,unint,The cruel hunter who accompanied the accurate sharpshooters surely shot himself in the left foot.,sing,5.409485816955566,sing
+221,0.06344123929738998,themselves,pl,2.353397342826779,ungram,28.0,int,The cruel hunter who accompanied the accurate sharpshooters surely shot themselves in the left foot.,sing,8.229516983032227,sing
+222,0.17557156085968018,himself,sing,2.3211955634809756,gram,28.0,int,The cruel hunter who accompanied the accurate sharpshooter surely shot himself in the left foot.,sing,4.669021129608154,sing
+223,0.070787712931633,themselves,sing,2.2558113458448124,ungram,28.0,unint,The cruel hunter who accompanied the accurate sharpshooter surely shot themselves in the left foot.,sing,9.90816879272461,sing
+224,0.2830861806869507,themselves,pl,2.7824108650128525,gram,29.0,int,The successful businessmen who scolded the teenage bellhops allegedly locked themselves in a penthouse room all alone.,pl,1.902815341949463,sing
+225,0.07190217822790146,himself,pl,2.5627695475796486,ungram,29.0,unint,The successful businessmen who scolded the teenage bellhops allegedly locked himself in a penthouse room all alone.,pl,7.516395092010498,sing
+226,0.3194630742073059,themselves,sing,2.6267932379182932,gram,29.0,unint,The successful businessmen who scolded the teenage bellhop allegedly locked themselves in a penthouse room all alone.,pl,2.152010679244995,sing
+227,0.07395511865615845,himself,sing,2.880151244108915,ungram,29.0,int,The successful businessmen who scolded the teenage bellhop allegedly locked himself in a penthouse room all alone.,pl,5.068297386169434,sing
+228,0.29714056849479675,himself,pl,2.550273591596669,gram,29.0,unint,The successful businessman who scolded the teenage bellhops allegedly locked himself in a penthouse room all alone.,sing,2.8859567642211914,sing
+229,0.05320270359516144,themselves,pl,3.055904422842187,ungram,29.0,int,The successful businessman who scolded the teenage bellhops allegedly locked themselves in a penthouse room all alone.,sing,4.858182430267334,sing
+230,0.24897341430187225,himself,sing,2.845718883215727,gram,29.0,int,The successful businessman who scolded the teenage bellhop allegedly locked himself in a penthouse room all alone.,sing,1.8919224739074707,sing
+231,0.05744721740484238,themselves,sing,2.9595547197021093,ungram,29.0,unint,The successful businessman who scolded the teenage bellhop allegedly locked themselves in a penthouse room all alone.,sing,8.84567928314209,sing
+232,0.32349085807800293,themselves,pl,2.292502566151442,gram,30.0,int,The police officers who aided the brilliant detectives reportedly disguised themselves to get more information.,pl,0.17707271873950958,sing
+233,0.04950843006372452,himself,pl,2.216802890343811,ungram,30.0,unint,The police officers who aided the brilliant detectives reportedly disguised himself to get more information.,pl,6.794552326202393,sing
+234,0.34346285462379456,themselves,sing,2.103135343269276,gram,30.0,unint,The police officers who aided the brilliant detective reportedly disguised themselves to get more information.,pl,0.292182981967926,sing
+235,0.05415283143520355,himself,sing,2.5589589771461028,ungram,30.0,int,The police officers who aided the brilliant detective reportedly disguised himself to get more information.,pl,3.780398368835449,sing
+236,0.37853193283081055,himself,pl,2.137152313762578,gram,30.0,unint,The police officer who aided the brilliant detectives reportedly disguised himself to get more information.,sing,0.3752574026584625,sing
+237,0.04583412781357765,themselves,pl,2.38411154478517,ungram,30.0,int,The police officer who aided the brilliant detectives reportedly disguised themselves to get more information.,sing,4.428616046905518,sing
+238,0.3284777104854584,himself,sing,2.342247246923703,gram,30.0,int,The police officer who aided the brilliant detective reportedly disguised himself to get more information.,sing,0.2934059798717499,sing
+239,0.04583935812115669,themselves,sing,2.1191496980777975,ungram,30.0,unint,The police officer who aided the brilliant detective reportedly disguised themselves to get more information.,sing,6.4579243659973145,sing
+240,,themselves,pl,2.4117094621152786,gram,31.0,int,The old ranchers who listened to the dishonest salesmen unsurprisingly isolated themselves in a huge ranch on the hill.,pl,0.13078327476978302,sing
+241,,himself,pl,1.7894971345951318,ungram,31.0,unint,The old ranchers who listened to the dishonest salesmen unsurprisingly isolated himself in a huge ranch on the hill.,pl,7.7629714012146,sing
+242,,themselves,sing,2.234059450873295,gram,31.0,unint,The old ranchers who listened to the dishonest salesman unsurprisingly isolated themselves in a huge ranch on the hill.,pl,0.19937022030353546,sing
+243,,himself,sing,2.300428933894885,ungram,31.0,int,The old ranchers who listened to the dishonest salesman unsurprisingly isolated himself in a huge ranch on the hill.,pl,4.564317226409912,sing
+244,,himself,pl,2.22907244385228,gram,31.0,unint,The old rancher who listened to the dishonest salesmen unsurprisingly isolated himself in a huge ranch on the hill.,sing,0.4216706156730652,sing
+245,,themselves,pl,2.7179417976071196,ungram,31.0,int,The old rancher who listened to the dishonest salesmen unsurprisingly isolated themselves in a huge ranch on the hill.,sing,4.374640941619873,sing
+246,,himself,sing,2.517223023057465,gram,31.0,int,The old rancher who listened to the dishonest salesman unsurprisingly isolated himself in a huge ranch on the hill.,sing,0.3033551275730133,sing
+247,,themselves,sing,2.662390512299396,ungram,31.0,unint,The old rancher who listened to the dishonest salesman unsurprisingly isolated themselves in a huge ranch on the hill.,sing,6.680515766143799,sing
+248,,themselves,pl,1.8921258332919273,gram,32.0,int,The meek boxers who trained with the persistent coaches shockingly wounded themselves in a recent scuffle.,pl,3.1663401126861572,sing
+249,,himself,pl,2.2286116115613295,ungram,32.0,unint,The meek boxers who trained with the persistent coaches shockingly wounded himself in a recent scuffle.,pl,7.513500213623047,sing
+250,,themselves,sing,1.7027001800335784,gram,32.0,unint,The meek boxers who trained with the persistent coach shockingly wounded themselves in a recent scuffle.,pl,3.764967679977417,sing
+251,,himself,sing,2.47712721113394,ungram,32.0,int,The meek boxers who trained with the persistent coach shockingly wounded himself in a recent scuffle.,pl,5.433083534240723,sing
+252,0.24014805257320404,himself,pl,2.1157865196346144,gram,32.0,unint,The meek boxer who trained with the persistent coaches shockingly wounded himself in a recent scuffle.,sing,4.314388275146484,sing
+253,0.1131378710269928,themselves,pl,2.5921501838438266,ungram,32.0,int,The meek boxer who trained with the persistent coaches shockingly wounded themselves in a recent scuffle.,sing,9.022397994995117,sing
+254,0.21572966873645782,himself,sing,2.320004765205254,gram,32.0,int,The meek boxer who trained with the persistent coach shockingly wounded himself in a recent scuffle.,sing,4.055603981018066,sing
+255,0.1292446404695511,themselves,sing,2.396611729912699,ungram,32.0,unint,The meek boxer who trained with the persistent coach shockingly wounded themselves in a recent scuffle.,sing,11.17233943939209,sing
+256,,themselves,pl,2.3327143599484796,gram,33.0,int,The amateur bodybuilders who worked with the personal trainers amazingly injured themselves on the lightest weights.,pl,1.9570648670196533,sing
+257,,himself,pl,2.301109125830653,ungram,33.0,unint,The amateur bodybuilders who worked with the personal trainers amazingly injured himself on the lightest weights.,pl,8.372639656066895,sing
+258,,themselves,sing,2.1868894535058447,gram,33.0,unint,The amateur bodybuilders who worked with the personal trainer amazingly injured themselves on the lightest weights.,pl,1.7751189470291138,sing
+259,,himself,sing,2.492138296405325,ungram,33.0,int,The amateur bodybuilders who worked with the personal trainer amazingly injured himself on the lightest weights.,pl,6.848304271697998,sing
+260,,himself,pl,2.4507828048240694,gram,33.0,unint,The amateur bodybuilder who worked with the personal trainers amazingly injured himself on the lightest weights.,sing,3.112794876098633,sing
+261,,themselves,pl,2.6785318527732516,ungram,33.0,int,The amateur bodybuilder who worked with the personal trainers amazingly injured themselves on the lightest weights.,sing,7.643098831176758,sing
+262,,himself,sing,2.5529851952957725,gram,33.0,int,The amateur bodybuilder who worked with the personal trainer amazingly injured himself on the lightest weights.,sing,2.932506799697876,sing
+263,,themselves,sing,2.511819475177794,ungram,33.0,unint,The amateur bodybuilder who worked with the personal trainer amazingly injured themselves on the lightest weights.,sing,8.581759452819824,sing
+264,0.17286966741085052,themselves,pl,2.7674756334379507,gram,34.0,int,The basketball coaches who trained the star players usually blamed themselves for the team's poor performance.,pl,6.100013256072998,sing
+265,0.022756988182663918,himself,pl,2.4554738825386497,ungram,34.0,unint,The basketball coaches who trained the star players usually blamed himself for the team's poor performance.,pl,8.031149864196777,sing
+266,0.21803921461105347,themselves,sing,2.5961712613377914,gram,34.0,unint,The basketball coaches who trained the star player usually blamed themselves for the team's poor performance.,pl,7.693901062011719,sing
+267,0.022567354142665863,himself,sing,2.590934269978056,ungram,34.0,int,The basketball coaches who trained the star player usually blamed himself for the team's poor performance.,pl,7.094410419464111,sing
+268,0.32457220554351807,himself,pl,2.5911728297929675,gram,34.0,unint,The basketball coach who trained the star players usually blamed himself for the team's poor performance.,sing,5.173017978668213,sing
+269,0.051882605999708176,themselves,pl,2.7525919911273116,ungram,34.0,int,The basketball coach who trained the star players usually blamed themselves for the team's poor performance.,sing,8.060344696044922,sing
+270,0.22708149254322052,himself,sing,2.813619529590353,gram,34.0,int,The basketball coach who trained the star player usually blamed himself for the team's poor performance.,sing,4.909942626953125,sing
+271,0.05494692921638489,themselves,sing,2.601729493748725,ungram,34.0,unint,The basketball coach who trained the star player usually blamed themselves for the team's poor performance.,sing,11.570465087890625,sing
+272,,themselves,pl,2.1685073437472084,gram,35.0,int,The young caddies who escorted the experienced golfers supposedly dirtied themselves by falling in the sand.,pl,4.701424598693848,sing
+273,,himself,pl,2.3524217919549337,ungram,35.0,unint,The young caddies who escorted the experienced golfers supposedly dirtied himself by falling in the sand.,pl,9.674304008483887,sing
+274,,themselves,sing,2.216530147164478,gram,35.0,unint,The young caddies who escorted the experienced golfer supposedly dirtied themselves by falling in the sand.,pl,5.969254970550537,sing
+275,,himself,sing,2.614618357394563,ungram,35.0,int,The young caddies who escorted the experienced golfer supposedly dirtied himself by falling in the sand.,pl,6.52207612991333,sing
+276,,himself,pl,2.293766205343129,gram,35.0,unint,The young caddy who escorted the experienced golfers supposedly dirtied himself by falling in the sand.,sing,5.734907150268555,sing
+277,,themselves,pl,2.091168851324714,ungram,35.0,int,The young caddy who escorted the experienced golfers supposedly dirtied themselves by falling in the sand.,sing,5.580678939819336,sing
+278,,himself,sing,2.6012726666096397,gram,35.0,int,The young caddy who escorted the experienced golfer supposedly dirtied himself by falling in the sand.,sing,4.5947394371032715,sing
+279,,themselves,sing,2.161899617045197,ungram,35.0,unint,The young caddy who escorted the experienced golfer supposedly dirtied themselves by falling in the sand.,sing,9.82416820526123,sing
+280,0.163985937833786,themselves,pl,2.1876393331214645,gram,36.0,int,The construction workers who argued with the shift leaders undeniably hurt themselves on the construction site.,pl,5.827235698699951,sing
+281,0.0449446439743042,himself,pl,2.1500011915607815,ungram,36.0,unint,The construction workers who argued with the shift leaders undeniably hurt himself on the construction site.,pl,11.393023490905762,sing
+282,0.21512916684150696,themselves,sing,1.8591124651303996,gram,36.0,unint,The construction workers who argued with the shift leader undeniably hurt themselves on the construction site.,pl,6.572109222412109,sing
+283,0.05854859948158264,himself,sing,2.432554192547938,ungram,36.0,int,The construction workers who argued with the shift leader undeniably hurt himself on the construction site.,pl,8.613127708435059,sing
+284,0.3389137089252472,himself,pl,2.1433187336901325,gram,36.0,unint,The construction worker who argued with the shift leaders undeniably hurt himself on the construction site.,sing,6.7474493980407715,sing
+285,0.051604483276605606,themselves,pl,2.268391552885909,ungram,36.0,int,The construction worker who argued with the shift leaders undeniably hurt themselves on the construction site.,sing,8.22423267364502,sing
+286,0.3189259469509125,himself,sing,2.2159138328051315,gram,36.0,int,The construction worker who argued with the shift leader undeniably hurt himself on the construction site.,sing,6.100208282470703,sing
+287,0.06868559867143631,themselves,sing,2.1105768844019197,ungram,36.0,unint,The construction worker who argued with the shift leader undeniably hurt themselves on the construction site.,sing,10.771289825439453,sing
+288,,themselves,pl,2.6137903036741474,gram,37.0,int,The grimy blacksmiths who worked for the royal knights evidently hurt themselves with the sharp tools.,pl,4.689398765563965,sing
+289,,himself,pl,2.5555181983675754,ungram,37.0,unint,The grimy blacksmiths who worked for the royal knights evidently hurt himself with the sharp tools.,pl,9.207220077514648,sing
+290,,themselves,sing,2.4791263763202,gram,37.0,unint,The grimy blacksmiths who worked for the royal knight evidently hurt themselves with the sharp tools.,pl,4.828980445861816,sing
+291,,himself,sing,2.653750378119729,ungram,37.0,int,The grimy blacksmiths who worked for the royal knight evidently hurt himself with the sharp tools.,pl,7.826949119567871,sing
+292,,himself,pl,2.4952173862895184,gram,37.0,unint,The grimy blacksmith who worked for the royal knights evidently hurt himself with the sharp tools.,sing,5.785477638244629,sing
+293,,themselves,pl,2.5306211446794866,ungram,37.0,int,The grimy blacksmith who worked for the royal knights evidently hurt themselves with the sharp tools.,sing,9.340482711791992,sing
+294,,himself,sing,2.5599206684789295,gram,37.0,int,The grimy blacksmith who worked for the royal knight evidently hurt himself with the sharp tools.,sing,5.457510948181152,sing
+295,,themselves,sing,2.4992626152405353,ungram,37.0,unint,The grimy blacksmith who worked for the royal knight evidently hurt themselves with the sharp tools.,sing,10.977653503417969,sing
+296,,themselves,pl,2.4554330220943306,gram,38.0,int,The paranoid foremen who supervised the coal miners presumably saved themselves after the awful cave-in.,pl,5.121222972869873,sing
+297,,himself,pl,2.1581909970377606,ungram,38.0,unint,The paranoid foremen who supervised the coal miners presumably saved himself after the awful cave-in.,pl,9.983054161071777,sing
+298,,themselves,sing,2.34589701450708,gram,38.0,unint,The paranoid foremen who supervised the coal miner presumably saved themselves after the awful cave-in.,pl,6.067550182342529,sing
+299,,himself,sing,2.331372574270126,ungram,38.0,int,The paranoid foremen who supervised the coal miner presumably saved himself after the awful cave-in.,pl,7.48933219909668,sing
+300,,himself,pl,2.336590019478301,gram,38.0,unint,The paranoid foreman who supervised the coal miners presumably saved himself after the awful cave-in.,sing,6.055408954620361,sing
+301,,themselves,pl,2.548885942148654,ungram,38.0,int,The paranoid foreman who supervised the coal miners presumably saved themselves after the awful cave-in.,sing,7.1373090744018555,sing
+302,,himself,sing,2.439823915597234,gram,38.0,int,The paranoid foreman who supervised the coal miner presumably saved himself after the awful cave-in.,sing,5.775899410247803,sing
+303,,themselves,sing,2.3913542977714664,ungram,38.0,unint,The paranoid foreman who supervised the coal miner presumably saved themselves after the awful cave-in.,sing,9.916691780090332,sing
+304,0.23726791143417358,themselves,pl,2.8045155287827366,gram,39.0,int,The serious generals who advised the new corporals seemingly committed themselves to the training regimen.,pl,3.7339930534362793,sing
+305,0.043333858251571655,himself,pl,2.5814196988552376,ungram,39.0,unint,The serious generals who advised the new corporals seemingly committed himself to the training regimen.,pl,10.770191192626953,sing
+306,0.3438376486301422,themselves,sing,2.397003582711468,gram,39.0,unint,The serious generals who advised the new corporal seemingly committed themselves to the training regimen.,pl,3.6412103176116943,sing
+307,0.05289817601442337,himself,sing,2.921041747914795,ungram,39.0,int,The serious generals who advised the new corporal seemingly committed himself to the training regimen.,pl,6.03887414932251,sing
+308,0.15007013082504272,himself,pl,2.7797116726441904,gram,39.0,unint,The serious general who advised the new corporals seemingly committed himself to the training regimen.,sing,6.208693027496338,sing
+309,0.00923216063529253,themselves,pl,2.8388239830300503,ungram,39.0,int,The serious general who advised the new corporals seemingly committed themselves to the training regimen.,sing,5.82962703704834,sing
+310,0.15817423164844513,himself,sing,3.0130454765691104,gram,39.0,int,The serious general who advised the new corporal seemingly committed himself to the training regimen.,sing,4.630502700805664,sing
+311,0.01852387934923172,themselves,sing,2.8806308564661935,ungram,39.0,unint,The serious general who advised the new corporal seemingly committed themselves to the training regimen.,sing,11.182904243469238,sing
+312,0.12143868207931519,themselves,pl,2.737312847191013,gram,40.0,int,The new executives who oversaw the middle managers apparently doubted themselves on most major decisions.,pl,9.658921241760254,sing
+313,0.005749623756855726,himself,pl,2.311070388889819,ungram,40.0,unint,The new executives who oversaw the middle managers apparently doubted himself on most major decisions.,pl,12.183131217956543,sing
+314,0.16190850734710693,themselves,sing,2.49328600244249,gram,40.0,unint,The new executives who oversaw the middle manager apparently doubted themselves on most major decisions.,pl,10.460904121398926,sing
+315,0.007466241251677275,himself,sing,2.5991686123902973,ungram,40.0,int,The new executives who oversaw the middle manager apparently doubted himself on most major decisions.,pl,11.060626029968262,sing
+316,0.05430952459573746,himself,pl,2.5518322752802973,gram,40.0,unint,The new executive who oversaw the middle managers apparently doubted himself on most major decisions.,sing,10.05335521697998,sing
+317,0.014411612413823605,themselves,pl,2.785023381881816,ungram,40.0,int,The new executive who oversaw the middle managers apparently doubted themselves on most major decisions.,sing,10.945199966430664,sing
+318,0.04808717593550682,himself,sing,2.7445154577387187,gram,40.0,int,The new executive who oversaw the middle manager apparently doubted himself on most major decisions.,sing,9.426702499389648,sing
+319,0.01835375837981701,themselves,sing,2.588628770986334,ungram,40.0,unint,The new executive who oversaw the middle manager apparently doubted themselves on most major decisions.,sing,13.153129577636719,sing
+320,,themselves,pl,2.7848973789317766,gram,41.0,int,The popular sheriffs who campaigned for the incumbent politicians never prepared themselves for the new press briefing.,pl,4.589447021484375,sing
+321,,himself,pl,2.5357875060988038,ungram,41.0,unint,The popular sheriffs who campaigned for the incumbent politicians never prepared himself for the new press briefing.,pl,10.57730484008789,sing
+322,,themselves,sing,2.5824131417921476,gram,41.0,unint,The popular sheriffs who campaigned for the incumbent politician never prepared themselves for the new press briefing.,pl,4.674434661865234,sing
+323,,himself,sing,2.6800744205548788,ungram,41.0,int,The popular sheriffs who campaigned for the incumbent politician never prepared himself for the new press briefing.,pl,7.969490051269531,sing
+324,0.062399644404649734,himself,pl,2.707367627813279,gram,41.0,unint,The popular sheriff who campaigned for the incumbent politicians never prepared himself for the new press briefing.,sing,4.658249855041504,sing
+325,0.013644218444824219,themselves,pl,2.772112617984412,ungram,41.0,int,The popular sheriff who campaigned for the incumbent politicians never prepared themselves for the new press briefing.,sing,10.227383613586426,sing
+326,0.053248751908540726,himself,sing,2.808364263787369,gram,41.0,int,The popular sheriff who campaigned for the incumbent politician never prepared himself for the new press briefing.,sing,4.415544509887695,sing
+327,0.016481157392263412,themselves,sing,2.5798985231587537,ungram,41.0,unint,The popular sheriff who campaigned for the incumbent politician never prepared themselves for the new press briefing.,sing,11.377248764038086,sing
+328,0.3970671594142914,themselves,pl,1.722064510058864,gram,42.0,int,The somber ministers who conversed with the religious scholars usually presented themselves as very open-minded.,pl,2.4632773399353027,sing
+329,0.02619217149913311,himself,pl,2.384668609152207,ungram,42.0,unint,The somber ministers who conversed with the religious scholars usually presented himself as very open-minded.,pl,9.860457420349121,sing
+330,0.4254101514816284,themselves,sing,1.5149075994156975,gram,42.0,unint,The somber ministers who conversed with the religious scholar usually presented themselves as very open-minded.,pl,2.5037145614624023,sing
+331,0.034532684832811356,himself,sing,2.36017929596509,ungram,42.0,int,The somber ministers who conversed with the religious scholar usually presented himself as very open-minded.,pl,6.945952415466309,sing
+332,0.31716564297676086,himself,pl,2.0859520915369005,gram,42.0,unint,The somber minister who conversed with the religious scholars usually presented himself as very open-minded.,sing,2.8100521564483643,sing
+333,0.09129706770181656,themselves,pl,2.7581696693474673,ungram,42.0,int,The somber minister who conversed with the religious scholars usually presented themselves as very open-minded.,sing,5.921864986419678,sing
+334,0.2896907925605774,himself,sing,2.1131146011297095,gram,42.0,int,The somber minister who conversed with the religious scholar usually presented himself as very open-minded.,sing,2.2796342372894287,sing
+335,0.10378920286893845,themselves,sing,2.4829223020708757,ungram,42.0,unint,The somber minister who conversed with the religious scholar usually presented themselves as very open-minded.,sing,8.95611572265625,sing
+336,0.1996598094701767,themselves,pl,2.4195978990073845,gram,43.0,int,The rich CEOs who employed the expensive chauffeurs typically amused themselves by requesting the scenic route.,pl,0.3166811764240265,sing
+337,0.02363073267042637,himself,pl,2.1314398676071993,ungram,43.0,unint,The rich CEOs who employed the expensive chauffeurs typically amused himself by requesting the scenic route.,pl,9.398366928100586,sing
+338,0.233134925365448,themselves,sing,2.2433613801279253,gram,43.0,unint,The rich CEOs who employed the expensive chauffeur typically amused themselves by requesting the scenic route.,pl,0.27636706829071045,sing
+339,0.03438400849699974,himself,sing,2.363474952151273,ungram,43.0,int,The rich CEOs who employed the expensive chauffeur typically amused himself by requesting the scenic route.,pl,8.973868370056152,sing
+340,0.1827554702758789,himself,pl,2.3458325187433973,gram,43.0,unint,The rich CEO who employed the expensive chauffeurs typically amused himself by requesting the scenic route.,sing,3.407345771789551,sing
+341,0.04861795902252197,themselves,pl,2.5470007799808436,ungram,43.0,int,The rich CEO who employed the expensive chauffeurs typically amused themselves by requesting the scenic route.,sing,1.2081471681594849,sing
+342,0.194617360830307,himself,sing,2.422922393261239,gram,43.0,int,The rich CEO who employed the expensive chauffeur typically amused himself by requesting the scenic route.,sing,2.0585732460021973,sing
+343,0.050025030970573425,themselves,sing,2.3434243883491854,ungram,43.0,unint,The rich CEO who employed the expensive chauffeur typically amused themselves by requesting the scenic route.,sing,2.198371648788452,sing
+344,,themselves,pl,2.8295673048397996,gram,44.0,int,The handy plumbers who helped the absentminded homeowners probably drenched themselves when the pipes burst.,pl,3.13093638420105,sing
+345,,himself,pl,2.749006872115023,ungram,44.0,unint,The handy plumbers who helped the absentminded homeowners probably drenched himself when the pipes burst.,pl,9.323951721191406,sing
+346,,themselves,sing,2.616117421083428,gram,44.0,unint,The handy plumbers who helped the absentminded homeowner probably drenched themselves when the pipes burst.,pl,3.879666805267334,sing
+347,,himself,sing,2.8915941305012813,ungram,44.0,int,The handy plumbers who helped the absentminded homeowner probably drenched himself when the pipes burst.,pl,5.242539882659912,sing
+348,,himself,pl,2.490515711843276,gram,44.0,unint,The handy plumber who helped the absentminded homeowners probably drenched himself when the pipes burst.,sing,4.818089962005615,sing
+349,,themselves,pl,2.9622570976935187,ungram,44.0,int,The handy plumber who helped the absentminded homeowners probably drenched themselves when the pipes burst.,sing,5.015289783477783,sing
+350,,himself,sing,2.7169817632212943,gram,44.0,int,The handy plumber who helped the absentminded homeowner probably drenched himself when the pipes burst.,sing,3.768345594406128,sing
+351,,themselves,sing,2.7755921539570667,ungram,44.0,unint,The handy plumber who helped the absentminded homeowner probably drenched themselves when the pipes burst.,sing,8.000934600830078,sing
+352,0.23028825223445892,themselves,pl,2.1659758717069013,gram,45.0,int,The elderly doctors who treated the tough soldiers usually cleaned themselves after every single appointment.,pl,3.9955317974090576,sing
+353,0.06478886306285858,himself,pl,2.280843935898006,ungram,45.0,unint,The elderly doctors who treated the tough soldiers usually cleaned himself after every single appointment.,pl,9.17957878112793,sing
+354,0.2512948513031006,themselves,sing,2.0212996717973484,gram,45.0,unint,The elderly doctors who treated the tough soldier usually cleaned themselves after every single appointment.,pl,4.252681255340576,sing
+355,0.06951304525136948,himself,sing,2.474992563524143,ungram,45.0,int,The elderly doctors who treated the tough soldier usually cleaned himself after every single appointment.,pl,5.885476112365723,sing
+356,0.2921687066555023,himself,pl,2.18291561530215,gram,45.0,unint,The elderly doctor who treated the tough soldiers usually cleaned himself after every single appointment.,sing,6.128852367401123,sing
+357,0.06433486938476562,themselves,pl,2.290528064759546,ungram,45.0,int,The elderly doctor who treated the tough soldiers usually cleaned themselves after every single appointment.,sing,5.437256813049316,sing
+358,0.23009876906871796,himself,sing,2.35083688290626,gram,45.0,int,The elderly doctor who treated the tough soldier usually cleaned himself after every single appointment.,sing,4.9197306632995605,sing
+359,0.06407441198825836,themselves,sing,2.082997272433098,ungram,45.0,unint,The elderly doctor who treated the tough soldier usually cleaned themselves after every single appointment.,sing,8.350391387939453,sing
+360,0.1939704716205597,themselves,pl,2.079151209273535,gram,46.0,int,The football referees who argued with the large quarterbacks surprisingly excused themselves from the important game.,pl,0.6239678859710693,sing
+361,0.05651210620999336,himself,pl,2.4497080066423886,ungram,46.0,unint,The football referees who argued with the large quarterbacks surprisingly excused himself from the important game.,pl,5.047482967376709,sing
+362,0.2196698635816574,themselves,sing,1.8519448855130358,gram,46.0,unint,The football referees who argued with the large quarterback surprisingly excused themselves from the important game.,pl,0.9755861759185791,sing
+363,0.07106674462556839,himself,sing,2.6359958156831844,ungram,46.0,int,The football referees who argued with the large quarterback surprisingly excused himself from the important game.,pl,3.040588855743408,sing
+364,0.21852697432041168,himself,pl,2.1568586841316124,gram,46.0,unint,The football referee who argued with the large quarterbacks surprisingly excused himself from the important game.,sing,0.6827937364578247,sing
+365,0.06198253855109215,themselves,pl,2.764422075808312,ungram,46.0,int,The football referee who argued with the large quarterbacks surprisingly excused themselves from the important game.,sing,3.4837939739227295,sing
+366,0.2027740478515625,himself,sing,2.343241979436288,gram,46.0,int,The football referee who argued with the large quarterback surprisingly excused himself from the important game.,sing,0.5238531827926636,sing
+367,0.06629093736410141,themselves,sing,2.5436394380381455,ungram,46.0,unint,The football referee who argued with the large quarterback surprisingly excused themselves from the important game.,sing,6.5835862159729,sing
+368,,themselves,pl,2.973590180974048,gram,47.0,int,The rough woodsmen who helped the tired hikers evidently secluded themselves from the outside world.,pl,0.10559269785881042,sing
+369,,himself,pl,2.6037178933538367,ungram,47.0,unint,The rough woodsmen who helped the tired hikers evidently secluded himself from the outside world.,pl,7.562088966369629,sing
+370,,themselves,sing,2.7368958869926248,gram,47.0,unint,The rough woodsmen who helped the tired hiker evidently secluded themselves from the outside world.,pl,0.2691812217235565,sing
+371,,himself,sing,2.8155527397378393,ungram,47.0,int,The rough woodsmen who helped the tired hiker evidently secluded himself from the outside world.,pl,4.128945350646973,sing
+372,,himself,pl,2.3939693175576284,gram,47.0,unint,The rough woodsman who helped the tired hikers evidently secluded himself from the outside world.,sing,0.3383462727069855,sing
+373,,themselves,pl,3.008888531481896,ungram,47.0,int,The rough woodsman who helped the tired hikers evidently secluded themselves from the outside world.,sing,4.046600341796875,sing
+374,,himself,sing,2.5547237498399835,gram,47.0,int,The rough woodsman who helped the tired hiker evidently secluded himself from the outside world.,sing,0.2992009222507477,sing
+375,,themselves,sing,2.6592302557038807,ungram,47.0,unint,The rough woodsman who helped the tired hiker evidently secluded themselves from the outside world.,sing,6.890467643737793,sing
+376,0.39331352710723877,themselves,pl,2.0912719276795877,gram,48.0,int,The slick politicians who avoided the persistent journalists reportedly described themselves as typically conservative.,pl,4.612825393676758,sing
+377,0.059003233909606934,himself,pl,2.401187943529618,ungram,48.0,unint,The slick politicians who avoided the persistent journalists reportedly described himself as typically conservative.,pl,9.45954418182373,sing
+378,0.423816055059433,themselves,sing,1.8161964471187662,gram,48.0,unint,The slick politicians who avoided the persistent journalist reportedly described themselves as typically conservative.,pl,4.083301067352295,sing
+379,0.06967347860336304,himself,sing,2.62458732873196,ungram,48.0,int,The slick politicians who avoided the persistent journalist reportedly described himself as typically conservative.,pl,8.26593017578125,sing
+380,0.37099969387054443,himself,pl,2.271659379314344,gram,48.0,unint,The slick politician who avoided the persistent journalists reportedly described himself as typically conservative.,sing,5.022424221038818,sing
+381,0.10441078990697861,themselves,pl,2.884824493387128,ungram,48.0,int,The slick politician who avoided the persistent journalists reportedly described themselves as typically conservative.,sing,9.773724555969238,sing
+382,0.34679701924324036,himself,sing,2.4005163491170407,gram,48.0,int,The slick politician who avoided the persistent journalist reportedly described himself as typically conservative.,sing,4.100951194763184,sing
+383,0.1297752857208252,themselves,sing,2.6452553808875487,ungram,48.0,unint,The slick politician who avoided the persistent journalist reportedly described themselves as typically conservative.,sing,10.412334442138672,sing
